@@ -1,0 +1,44 @@
+PUDID,StudyEvent,Occurrence,ItemGroupRepeatKey,WithdrawnTime,WithdrawnPhase,WithdrawnReason,WITHDRAWNDAY
+30,Unscheduled,0,0,1756,Prior to Month 3 Follow-up after hospital discharge (prior to neurocognitive assessment phase),Parental preference,189
+45,Unscheduled,0,0,1200,Prior to Month 3 Follow-up after hospital discharge (prior to neurocognitive assessment phase),Parental preference,28
+73,Unscheduled,0,0,1533,Prior to Month 3 Follow-up after hospital discharge (prior to neurocognitive assessment phase),Parental preference,122
+82,Unscheduled,0,0,1917,Prior to Month 3 Follow-up after hospital discharge (prior to neurocognitive assessment phase),Parental preference,90
+90,Unscheduled,0,0,1515,Prior to Month 3 Follow-up after hospital discharge (prior to neurocognitive assessment phase),Child's preference,162
+102,Unscheduled,0,0,1350,Intervention Phase (includes time from randomization through the end of intervention),Child's preference,0
+191,Unscheduled,0,0,1140,Prior to Month 3 Follow-up after hospital discharge (prior to neurocognitive assessment phase),Parental preference,103
+216,Unscheduled,0,0,1400,Prior to Month 3 Follow-up after hospital discharge (prior to neurocognitive assessment phase),Child's preference,237
+233,Unscheduled,0,0,0910,Prior to Month 3 Follow-up after hospital discharge (prior to neurocognitive assessment phase),Parental preference,78
+253,Unscheduled,0,0,1540,Intervention Phase (includes time from randomization through the end of intervention),Parental preference,0
+285,Unscheduled,0,0,1845,Intervention Phase (includes time from randomization through the end of intervention),Parental preference,0
+299,Unscheduled,0,0,1900,Intervention Phase (includes time from randomization through the end of intervention),Parental preference,0
+365,Unscheduled,0,0,1320,Prior to Month 3 Follow-up after hospital discharge (prior to neurocognitive assessment phase),Parental preference,91
+389,Unscheduled,0,0,1200,Prior to Month 3 Follow-up after hospital discharge (prior to neurocognitive assessment phase),Parental preference,408
+392,Unscheduled,0,0,1300,Prior to Month 3 Follow-up after hospital discharge (prior to neurocognitive assessment phase),Parental preference,148
+403,Unscheduled,0,0,1410,Prior to Month 3 Follow-up after hospital discharge (prior to neurocognitive assessment phase),Parental preference,65
+460,Unscheduled,0,0,1800,Prior to Month 3 Follow-up after hospital discharge (prior to neurocognitive assessment phase),Parental preference,91
+472,Unscheduled,0,0,2040,Prior to Month 3 Follow-up after hospital discharge (prior to neurocognitive assessment phase),Parental preference,127
+496,Unscheduled,0,0,1318,Prior to Month 3 Follow-up after hospital discharge (prior to neurocognitive assessment phase),Parental preference,64
+503,Unscheduled,0,0,2226,Intervention Phase (includes time from randomization through the end of intervention),Parental preference,0
+546,Unscheduled,0,0,1200,Prior to Month 3 Follow-up after hospital discharge (prior to neurocognitive assessment phase),Parental preference,102
+574,Unscheduled,0,0,1340,Prior to Month 3 Follow-up after hospital discharge (prior to neurocognitive assessment phase),Parental preference,84
+597,Unscheduled,0,0,2130,Intervention Phase (includes time from randomization through the end of intervention),Child's preference,0
+606,Unscheduled,0,0,1800,Prior to Month 3 Follow-up after hospital discharge (prior to neurocognitive assessment phase),Parental preference,241
+620,Unscheduled,0,0,1035,Prior to Month 3 Follow-up after hospital discharge (prior to neurocognitive assessment phase),Parental preference,62
+731,Unscheduled,0,0,1800,Intervention Phase (includes time from randomization through the end of intervention),Child's preference,0
+770,Unscheduled,0,0,1130,Prior to Month 3 Follow-up after hospital discharge (prior to neurocognitive assessment phase),Child's preference,135
+776,Unscheduled,0,0,1025,Prior to Month 3 Follow-up after hospital discharge (prior to neurocognitive assessment phase),Parental preference,112
+779,Unscheduled,0,0,1405,Prior to Month 3 Follow-up after hospital discharge (prior to neurocognitive assessment phase),Parental preference,31
+796,Unscheduled,0,0,1330,Prior to Month 3 Follow-up after hospital discharge (prior to neurocognitive assessment phase),Parental preference,247
+865,Unscheduled,0,0,1520,Intervention Phase (includes time from randomization through the end of intervention),,0
+879,Unscheduled,0,0,1400,Prior to Month 3 Follow-up after hospital discharge (prior to neurocognitive assessment phase),Parental preference,221
+924,Unscheduled,0,0,0300,Prior to Month 3 Follow-up after hospital discharge (prior to neurocognitive assessment phase),Parental preference,81
+936,Unscheduled,0,0,1055,Prior to Month 3 Follow-up after hospital discharge (prior to neurocognitive assessment phase),Parental preference,212
+1037,Unscheduled,0,0,2045,Prior to Month 3 Follow-up after hospital discharge (prior to neurocognitive assessment phase),Parental preference,110
+1081,Unscheduled,0,0,1309,Prior to Month 3 Follow-up after hospital discharge (prior to neurocognitive assessment phase),Parental preference,70
+1102,Unscheduled,0,0,1500,Prior to Month 3 Follow-up after hospital discharge (prior to neurocognitive assessment phase),Parental preference,183
+1138,Unscheduled,0,0,1500,Prior to Month 3 Follow-up after hospital discharge (prior to neurocognitive assessment phase),Parental preference,88
+1293,Unscheduled,0,0,1430,Prior to Month 3 Follow-up after hospital discharge (prior to neurocognitive assessment phase),Child's preference,92
+1318,Unscheduled,0,0,1730,Prior to Month 3 Follow-up after hospital discharge (prior to neurocognitive assessment phase),Parental preference,81
+1320,Unscheduled,0,0,1456,Prior to Month 3 Follow-up after hospital discharge (prior to neurocognitive assessment phase),Parental preference,106
+1322,Unscheduled,0,0,1221,Intervention Phase (includes time from randomization through the end of intervention),Parental preference,0
+1388,Unscheduled,0,0,1845,Intervention Phase (includes time from randomization through the end of intervention),Parental preference,0

@@ -1,0 +1,1390 @@
+PUDID,StudyEvent,Occurrence,ItemGroupRepeatKey,EDEvalTime,Headache,HeadacheSeverity,PeriPulseEval,PeriPulse,CapRefillEval,CapRefill,PrevDiagnosed,Weight,WeightTime,IVBolus,IVBolusAmt,IVBolusTime,AddIVBolus,AddIVBolusAmt,AddIVBolusTime,IVFRate12,IVFRate24,IVFRate48,ADDIVBOLUSDAY,EDEVALDAY,IVBOLUSDAY,WEIGHTDAY
+1,Study Initiation,0,0,1440,No,,Yes,Normal,Yes,< 2 seconds,Yes,47.5,1419,Yes,10,1528,No,,,,,128,,0,0,0
+2,Study Initiation,0,0,1057,No,,Yes,Normal,No,,Yes,130.5,1055,Yes,8,1110,Yes,2,1120,,,217,0,0,0,0
+3,Study Initiation,0,0,1240,Yes,Mild,Yes,Weak,Yes,> 5 seconds,No,49.7,1245,Yes,10,1245,No,,,,,131,,0,0,0
+4,Study Initiation,0,0,1430,No,,Yes,Weak,Yes,< 2 seconds,No,47.4,1314,Yes,10,1422,Yes,10,1622,245,166,,0,0,0,0
+5,Study Initiation,0,0,1300,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,Yes,43.8,1232,Yes,10,1330,Yes,10,1415,230,157,,0,0,0,0
+6,Study Initiation,0,0,1029,No,,Yes,Bounding,Yes,< 2 seconds,No,30.55,1520,Yes,10,1307,No,,,,,96,,0,0,0
+7,Study Initiation,0,0,1101,No,,Yes,Normal,Yes,< 2 seconds,No,51.7,1101,No,,,Yes,20,1444,264,178,,0,0,,0
+8,Study Initiation,0,0,1758,No,,Yes,Normal,Yes,2 - 5 seconds,No,53.1,1815,Yes,19,1824,No,,,,,128,,0,0,0
+9,Study Initiation,0,0,1845,No,,Yes,Normal,Yes,< 2 seconds,No,45.1,1955,Yes,20,1909,No,,,236,160,,,0,0,0
+10,Study Initiation,0,0,2033,No,,Yes,Increased,Yes,< 2 seconds,No,24.4,1734,Yes,10,1815,Yes,20,2226,,,85,0,0,0,0
+11,Study Initiation,0,0,1700,No,,Yes,Normal,Yes,< 2 seconds,No,55.9,1645,Yes,10,1733,No,,,,,142,,0,0,0
+12,Study Initiation,0,0,1719,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,Yes,70.6,1710,Yes,9,1720,Yes,1,1900,,,170,0,0,0,0
+13,Study Initiation,0,0,2030,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,53.6,2135,Yes,10,2055,Yes,10,2215,271,182,,0,0,0,0
+14,Study Initiation,0,0,1128,Yes,,Yes,Normal,Yes,2 - 5 seconds,Yes,44.5,1150,Yes,12,1150,Yes,7,1335,237,161,,0,0,0,0
+15,Study Initiation,0,0,1410,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,49.1,1355,Yes,10,1414,No,,,,,130,,0,0,0
+16,Study Initiation,0,0,1001,No,,Yes,Normal,Yes,< 2 seconds,Yes,57.4,1125,Yes,10,1022,Yes,10,1152,287,192,,0,0,0,0
+17,Study Initiation,0,0,1845,Yes,Mild,Yes,Normal,Yes,< 2 seconds,No,30.9,1832,Yes,10,1934,No,,,,,97,,0,0,0
+18,Study Initiation,0,0,0100,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,Yes,50,0230,Yes,20,0036,No,,,257,173,,,0,0,0
+19,Study Initiation,0,0,1334,No,,No,,Yes,2 - 5 seconds,Yes,38.3,1332,Yes,10,1422,No,,,222,150,,,0,0,0
+20,Study Initiation,0,0,1150,No,,Yes,Normal,Yes,< 2 seconds,Yes,59.7,1150,Yes,17,1221,Yes,17,1420,265,182,,0,0,0,0
+21,Study Initiation,0,0,2130,No,,Yes,Increased,Yes,< 2 seconds,No,7.8,2309,Yes,10,2139,Yes,10,2321,56,43,,0,0,0,0
+22,Study Initiation,0,0,0622,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,55.5,0815,Yes,18,0632,Yes,2,0817,281,188,,0,0,0,0
+23,Study Initiation,0,0,1103,No,,Yes,Weak,Yes,2 - 5 seconds,No,36.7,1117,Yes,10,1212,Yes,10,1332,199,138,,0,0,0,0
+24,Study Initiation,0,0,2030,No,,Yes,Weak,Yes,< 2 seconds,No,85.2,2300,Yes,10,2145,Yes,10,0053,409,267,,1,0,0,0
+25,Study Initiation,0,0,1004,No,,Yes,Normal,Yes,< 2 seconds,No,24.2,0945,Yes,20,1000,No,,,,,79,,0,0,0
+26,Study Initiation,0,0,1745,No,,Yes,Normal,Yes,< 2 seconds,Yes,29,1740,Yes,10,1819,No,,,,,93,,0,0,0
+27,Study Initiation,0,0,1406,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,No,22.6,1347,Yes,10,1457,No,,,,,81,,0,0,0
+28,Study Initiation,0,0,1648,Yes,Unknown,No,,No,,Yes,49.9,1640,Yes,10,1651,No,,,,,131,,0,0,0
+29,Study Initiation,0,0,1858,No,,Yes,Normal,Yes,< 2 seconds,Yes,47.3,2037,Yes,21,1844,No,,,,,116,,0,0,0
+30,Study Initiation,0,0,2108,No,,Yes,Normal,Yes,2 - 5 seconds,No,54.5,2034,Yes,10,2251,No,,,,,140,,-1,-1,-1
+31,Study Initiation,0,0,1850,No,,Yes,Weak,Yes,2 - 5 seconds,No,56.2,1900,Yes,10,1905,Yes,10,1930,,,143,0,0,0,0
+32,Study Initiation,0,0,1733,No,,Yes,Normal,Yes,2 - 5 seconds,No,52.4,1637,Yes,10,1745,No,,,,,136,,0,0,0
+33,Study Initiation,0,0,0848,No,,Yes,Normal,Yes,< 2 seconds,No,10.6,0847,No,,,Yes,10,1108,,,50,0,0,,0
+34,Study Initiation,0,0,0930,Yes,Unknown,No,,No,,Yes,71.2,0904,Yes,20,1028,No,,,349,230,,,0,0,0
+35,Study Initiation,0,0,1148,No,,Yes,Normal,Yes,< 2 seconds,No,27.8,1155,Yes,20,1225,No,,,163,115,,,0,0,0
+36,Study Initiation,0,0,1452,No,,Yes,Normal,Yes,2 - 5 seconds,No,19.8,1447,Yes,20,1602,No,,,,,72,,0,0,0
+37,Study Initiation,0,0,0930,No,,Yes,Weak,Yes,2 - 5 seconds,Yes,56.6,0913,Yes,10,0920,Yes,10,1032,286,191,,0,0,0,0
+38,Study Initiation,0,0,1700,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,24.3,1649,Yes,20,1730,No,,,,,80,,0,0,0
+39,Study Initiation,0,0,1620,Yes,Moderate,Yes,Normal,Yes,2 - 5 seconds,Yes,27.3,1546,Yes,10,1604,Yes,10,1646,170,118,,0,0,0,0
+40,Study Initiation,0,0,1428,No,,No,,Yes,2 - 5 seconds,No,21.1,1400,Yes,11,1355,Yes,10,1548,,,74,0,0,0,0
+41,Study Initiation,0,0,1709,No,,Yes,Normal,Yes,< 2 seconds,No,44,1709,Yes,10,1820,Yes,10,1940,231,157,,0,0,0,0
+42,Study Initiation,0,0,1820,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,50.2,1818,Yes,10,1848,Yes,10,1940,258,174,,0,0,0,0
+43,Study Initiation,0,0,1330,Yes,Severe,Yes,Normal,Yes,< 2 seconds,Yes,47.9,1345,Yes,10,1316,Yes,10,1415,248,168,,0,0,0,0
+44,Study Initiation,0,0,0914,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,30,0926,Yes,10,1100,Yes,10,1115,170,120,,0,0,0,0
+45,Study Initiation,0,0,1150,Yes,Moderate,No,Increased,Yes,2 - 5 seconds,No,43.55,1201,Yes,12,1338,Yes,8,1518,244,164,,0,0,0,0
+46,Study Initiation,0,0,1204,No,,Yes,Normal,Yes,< 2 seconds,Yes,48.3,1200,Yes,18,1130,No,,,,,120,,0,0,0
+47,Study Initiation,0,0,1015,No,,Yes,Normal,Yes,< 2 seconds,Yes,51.7,1008,Yes,20,1106,No,,,,,124,,0,0,0
+48,Study Initiation,0,0,1315,Yes,Moderate,Not Documented,,Yes,2 - 5 seconds,Yes,36.7,1440,Yes,20,1210,No,,,196,136,,,0,0,0
+49,Study Initiation,0,0,1445,No,,Yes,Normal,Yes,2 - 5 seconds,No,52.6,1312,No,,,Yes,10,1515,,,136,0,0,,0
+50,Study Initiation,0,0,2127,No,,Yes,Normal,Yes,< 2 seconds,Yes,53.3,2127,Yes,10,2251,Yes,10,0011,271,182,,1,0,0,0
+51,Study Initiation,0,0,0744,No,,Yes,Normal,Yes,< 2 seconds,Yes,62,0735,Yes,10,0849,No,,,,,154,,0,0,0
+52,Study Initiation,0,0,1620,No,,Yes,Normal,Yes,< 2 seconds,No,53.3,1533,Yes,10,1700,Yes,10,1820,271,182,,0,0,0,0
+53,Study Initiation,0,0,1735,Yes,Moderate,Yes,Increased,Yes,2 - 5 seconds,Yes,39.2,1919,Yes,10,2000,No,,,,,112,,0,0,0
+54,Study Initiation,0,0,1053,No,,Yes,Increased,Yes,< 2 seconds,Yes,54.8,1022,Yes,10,1051,Yes,10,1145,277,186,,0,0,0,0
+55,Study Initiation,0,0,1253,No,,Yes,Normal,Yes,< 2 seconds,Yes,47.1,1248,Yes,10,1417,No,,,,,126,,0,0,0
+56,Study Initiation,0,0,2054,No,,Yes,Normal,Yes,< 2 seconds,No,31.6,2018,Yes,10,2136,No,,,,,98,,0,0,0
+57,Study Initiation,0,0,0435,No,,Yes,Bounding,Yes,2 - 5 seconds,No,22.7,0832,Yes,20,0630,No,,,,,77,,0,0,0
+58,Study Initiation,0,0,1214,No,,Yes,Normal,Yes,< 2 seconds,No,34,1103,Yes,10,1214,No,,,,,102,,0,0,0
+59,Study Initiation,0,0,1318,No,,Yes,Normal,Yes,< 2 seconds,No,26.5,1258,Yes,10,1336,No,,,,,89,,0,0,0
+60,Study Initiation,0,0,1130,No,,Yes,Normal,Yes,< 2 seconds,Yes,27,1129,Yes,10,1140,Yes,10,1231,157,112,,0,0,0,0
+61,Study Initiation,0,0,1140,No,,Yes,Normal,Yes,< 2 seconds,No,27.3,0919,Yes,10,1048,Yes,10,1230,158,113,,0,0,0,0
+62,Study Initiation,0,0,1258,No,,Yes,Normal,Yes,< 2 seconds,No,36.7,1300,Yes,10,1320,Yes,10,1536,199,138,,0,0,0,0
+63,Study Initiation,0,0,0930,No,,Yes,Normal,Yes,< 2 seconds,Yes,54.6,0931,Yes,18,0940,Yes,2,1126,277,186,,0,0,0,0
+64,Study Initiation,0,0,1910,No,,Yes,Normal,Yes,< 2 seconds,No,25.4,1805,Yes,10,1849,Yes,10,2051,150,108,,0,0,0,0
+65,Study Initiation,0,0,1630,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,38.5,1540,Yes,10,1638,Yes,10,1742,207,143,,0,0,0,0
+66,Study Initiation,0,0,0554,No,,Yes,Weak,Yes,2 - 5 seconds,Yes,27.8,0557,Yes,10,0540,Yes,10,0734,,,85,0,0,0,0
+67,Study Initiation,0,0,0849,No,,Yes,Normal,Yes,< 2 seconds,No,45,0849,Yes,10,0949,No,,,,,123,,0,0,0
+68,Study Initiation,0,0,0859,No,,Yes,Normal,Yes,< 2 seconds,No,17.8,0909,Yes,10,0930,Yes,10,1027,115,85,,0,0,0,0
+69,Study Initiation,0,0,0729,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,Yes,63.4,0736,Yes,10,0729,No,,,,,157,,0,0,0
+70,Study Initiation,0,0,1345,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,34,1305,Yes,20,1346,No,,,187,131,,,0,0,0
+71,Study Initiation,0,0,1315,No,,Yes,Normal,Yes,< 2 seconds,Yes,41.9,1315,Yes,10,1408,Yes,10,1554,222,152,,0,0,0,0
+72,Study Initiation,0,0,1500,No,,Yes,Increased,Yes,2 - 5 seconds,Yes,28.1,1422,Yes,10,1514,Yes,10,1602,162,115,,0,0,0,0
+73,Study Initiation,0,0,2135,No,,Yes,Normal,Yes,> 5 seconds,No,33,2126,Yes,20,2130,No,,,,,94,,0,0,0
+74,Study Initiation,0,0,1120,No,,Yes,Normal,Yes,< 2 seconds,Yes,29.3,1126,Yes,10,1222,No,,,,,93,,0,0,0
+75,Study Initiation,0,0,1245,No,,No,,Yes,2 - 5 seconds,Yes,25.2,1255,Yes,20,1320,No,,,,,81,,0,0,0
+76,Study Initiation,0,0,1600,No,,Yes,Normal,Yes,< 2 seconds,No,15.8,1524,Yes,10,1810,Yes,10,1914,104,78,,0,0,0,0
+77,Study Initiation,0,0,0855,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,Yes,56.1,0855,Yes,9,0930,Yes,9,1031,288,192,,0,0,0,0
+78,Study Initiation,0,0,1545,No,,Yes,Normal,Yes,< 2 seconds,No,37,1730,Yes,10,1645,Yes,10,1855,200,138,,0,0,0,0
+79,Study Initiation,0,0,0842,Yes,Moderate,Yes,Normal,Yes,2 - 5 seconds,No,67.3,0818,Yes,15,0842,No,,,,,157,,0,0,0
+80,Study Initiation,0,0,1308,No,,Yes,Weak,Yes,2 - 5 seconds,Yes,47.9,1229,Yes,10,1302,Yes,10,1405,248,168,,0,0,0,0
+81,Study Initiation,0,0,1715,No,,Yes,Normal,Yes,< 2 seconds,No,32.8,1702,Yes,10,1830,Yes,10,1905,182,127,,0,0,0,0
+82,Study Initiation,0,0,1509,No,,No,,Yes,2 - 5 seconds,Yes,53,1500,Yes,10,1526,No,,,,,137,,0,0,0
+83,Study Initiation,0,0,1128,No,,Yes,Normal,Yes,< 2 seconds,Yes,31.8,1128,Yes,9,1138,Yes,11,1355,173,123,,0,0,0,0
+84,Study Initiation,0,0,1915,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,49.5,1731,Yes,10,1857,No,,,,,131,,0,0,0
+85,Study Initiation,0,0,1947,No,,Yes,Normal,Yes,< 2 seconds,Yes,54,1946,Yes,20,2016,No,,,274,184,,,0,0,0
+86,Study Initiation,0,0,1302,No,,Yes,Normal,No,,No,51,1255,Yes,10,1345,No,,,,,134,,0,0,0
+87,Study Initiation,0,0,1911,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,31.5,1951,Yes,10,1930,Yes,10,2030,,,91,0,0,0,0
+88,Study Initiation,0,0,1500,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,Yes,56.8,1515,Yes,12,1430,No,,,,,141,,0,0,0
+89,Study Initiation,0,0,1253,Not Documented,,Yes,Normal,Yes,< 2 seconds,Yes,14.6,1159,Yes,10,1246,No,,,,,61,,0,0,0
+90,Study Initiation,0,0,1808,No,,Yes,Normal,Yes,2 - 5 seconds,No,48.2,1725,No,,,Yes,10,2103,,,128,0,0,,0
+91,Study Initiation,0,0,1520,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,41.9,1443,Yes,10,1510,No,,,,,116,,0,0,0
+92,Study Initiation,0,0,0951,Yes,Unknown,Yes,Normal,Yes,< 2 seconds,No,22.3,0951,Yes,20,1139,Yes,10,1447,127,95,,0,0,0,0
+93,Study Initiation,0,0,1310,No,,Yes,Normal,Yes,< 2 seconds,Yes,72,1223,Yes,10,1309,No,,,,,172,,0,0,0
+94,Study Initiation,0,0,1854,No,,Yes,Normal,Yes,< 2 seconds,No,20.8,1753,Yes,10,1807,No,,,,,78,,0,0,0
+95,Study Initiation,0,0,1615,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,57.5,1549,Yes,20,1655,No,,,,,134,,0,0,0
+96,Study Initiation,0,0,1341,No,,Yes,Normal,Yes,< 2 seconds,Yes,64.5,1300,Yes,20,1400,Yes,10,1630,,,145,0,0,0,0
+97,Study Initiation,0,0,1900,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,41.7,1857,Yes,10,1922,No,,,,,116,,0,0,3
+98,Study Initiation,0,0,1745,No,,Yes,Normal,Yes,< 2 seconds,No,54.9,1745,Yes,10,1820,Yes,10,1945,279,187,,0,0,0,0
+99,Study Initiation,0,0,1005,No,,Yes,Normal,Yes,< 2 seconds,No,47.8,0939,No,,,Yes,20,1053,247,167,,0,0,,0
+100,Study Initiation,0,0,1627,No,,Yes,Normal,Yes,2 - 5 seconds,No,25.3,1630,Yes,10,1814,No,,,,,86,,0,0,0
+101,Study Initiation,0,0,1401,No,,Yes,Normal,Yes,< 2 seconds,Yes,33.1,1406,Yes,10,1437,No,,,,,101,,0,0,0
+102,Study Initiation,0,0,1245,Yes,Not Documented,Yes,Normal,Not Documented,,Yes,55.2,1215,Yes,10,1239,No,,,,,141,,0,0,0
+103,Study Initiation,0,0,1940,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,No,42.2,1937,Yes,10,1945,Yes,10,2050,223,153,,0,0,0,0
+104,Study Initiation,0,0,1330,No,,Yes,Normal,Yes,< 2 seconds,No,68.3,1310,Yes,10,1413,No,,,,,165,,0,0,0
+105,Study Initiation,0,0,1929,No,,Yes,Normal,Yes,< 2 seconds,Yes,62,1926,Yes,20,2116,No,,,309,205,,,0,0,0
+106,Study Initiation,0,0,1100,Yes,Moderate,Yes,Normal,Yes,2 - 5 seconds,Yes,45.7,0949,Yes,10,1010,No,,,,,124,,0,0,0
+107,Study Initiation,0,0,1330,No,,Yes,Normal,Yes,2 - 5 seconds,No,20.41,1135,Yes,20,1205,No,,,,,73,,0,0,0
+108,Study Initiation,0,0,1345,No,,Yes,Increased,Yes,2 - 5 seconds,Yes,26.8,1423,Yes,10,1400,Yes,10,1510,145,106,,0,0,0,0
+109,Study Initiation,0,0,1645,No,,Yes,Normal,Yes,< 2 seconds,Yes,31,1558,Yes,10,1700,Yes,10,1800,174,123,,0,0,0,0
+110,Study Initiation,0,0,1527,Yes,Moderate,Yes,Normal,Yes,2 - 5 seconds,Yes,63,1527,Yes,10,1634,Yes,10,1806,313,208,,0,0,0,0
+111,Study Initiation,0,0,1635,No,,No,Normal,Yes,< 2 seconds,No,11.7,2023,Yes,10,1735,Yes,10,1923,83,63,,0,0,0,0
+112,Study Initiation,0,0,1450,No,,Yes,Normal,Yes,2 - 5 seconds,No,27.5,1635,Yes,10,1720,Yes,10,1931,159,113,,0,0,0,0
+113,Study Initiation,0,0,1430,No,,Yes,Normal,Yes,< 2 seconds,No,33.7,1453,Yes,10,1445,Yes,10,1545,186,130,,0,0,0,0
+114,Study Initiation,0,0,1600,Yes,Moderate,Yes,Normal,No,,Yes,39.1,1628,Yes,10,1628,No,,,,,111,,0,0,0
+115,Study Initiation,0,0,1739,Yes,Moderate,Yes,Normal,Yes,2 - 5 seconds,Yes,51.5,1621,Yes,19,1714,No,,,264,178,,,0,0,0
+116,Study Initiation,0,0,1836,No,,Yes,Normal,Yes,< 2 seconds,No,32.6,1839,Yes,10,1905,No,,,,,100,,0,0,0
+117,Study Initiation,0,0,1745,No,,Yes,Normal,Yes,< 2 seconds,No,21.9,1745,Yes,10,1934,Yes,10,2033,135,98,,0,0,0,0
+118,Study Initiation,0,0,2143,No,,Yes,Normal,Yes,< 2 seconds,No,29.6,2030,Yes,10,2200,Yes,10,2255,168,119,,0,0,0,0
+119,Study Initiation,0,0,2100,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,No,25.4,1710,Yes,10,1850,No,,,,,87,,0,0,0
+120,Study Initiation,0,0,1940,No,,Yes,Normal,Yes,< 2 seconds,No,59.8,1925,Yes,12,1935,Yes,8,2150,299,199,,0,0,0,0
+121,Study Initiation,0,0,1853,No,,Yes,Normal,Yes,< 2 seconds,No,11.3,1755,Yes,10,2032,No,,,,,52,,0,0,0
+122,Study Initiation,0,0,1231,No,,Yes,Normal,Yes,< 2 seconds,Yes,53.8,1212,Yes,10,1316,Yes,10,1457,273,183,,0,0,0,0
+123,Study Initiation,0,0,1210,No,,Yes,Normal,Yes,< 2 seconds,No,21.5,1201,Yes,10,1345,No,,,133,97,,,0,0,0
+124,Study Initiation,0,0,2237,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,41.3,2144,Yes,20,2245,No,,,,,107,,-1,-1,-1
+125,Study Initiation,0,0,1045,No,,Yes,Normal,Yes,2 - 5 seconds,No,17.7,1045,No,,,Yes,10,1136,122,89,,0,0,,0
+126,Study Initiation,0,0,1207,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,58.8,1203,Yes,10,1241,No,,,,,148,,0,0,0
+127,Study Initiation,0,0,1521,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,54.8,1530,Yes,10,1617,No,,,,,140,,0,0,0
+128,Study Initiation,0,0,2134,Yes,Moderate,Yes,Bounding,Yes,2 - 5 seconds,No,17.2,2134,Yes,15,2113,No,,,,,67,,0,0,0
+129,Study Initiation,0,0,1145,No,,Yes,Normal,Yes,2 - 5 seconds,No,50.5,1133,Yes,20,1200,No,,,259,175,,,0,0,0
+130,Study Initiation,0,0,0723,No,,Yes,Normal,Yes,2 - 5 seconds,No,32.7,0734,Yes,20,0843,Yes,25,1050,,,93,0,0,0,0
+131,Study Initiation,0,0,2019,Yes,Mild,Yes,Normal,Yes,< 2 seconds,No,56.2,2017,Yes,10,2045,Yes,10,2245,284,190,,0,0,0,0
+132,Study Initiation,0,0,1835,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,40.6,1835,Yes,10,1900,No,,,,,114,,0,0,0
+133,Study Initiation,0,0,2018,No,,Yes,Normal,Yes,< 2 seconds,No,10,2055,Yes,20,2045,No,,,73,57,,,0,0,0
+134,Study Initiation,0,0,1521,No,,Yes,Normal,Yes,2 - 5 seconds,No,53.3,1451,Yes,10,1631,No,,,,,138,,0,0,0
+135,Study Initiation,0,0,1223,No,,Yes,Normal,Yes,< 2 seconds,No,27.7,1150,Yes,10,1237,No,,,,,91,,0,0,0
+136,Study Initiation,0,0,2350,No,,Yes,Normal,Yes,< 2 seconds,Yes,38,2300,Yes,10,2330,No,,,,,110,,-1,-1,-1
+137,Study Initiation,0,0,1032,No,,Yes,Increased,Yes,< 2 seconds,Yes,58.6,1032,Yes,10,1045,Yes,10,1223,318,208,,0,0,0,0
+138,Study Initiation,0,0,1757,No,,Yes,Normal,Yes,2 - 5 seconds,No,78.05,1754,No,,,Yes,10,1931,,,183,0,0,,0
+139,Study Initiation,0,0,1458,No,,Yes,Normal,Yes,< 2 seconds,Yes,45.5,1429,Yes,10,1533,Yes,10,1656,237,162,,0,0,0,0
+140,Study Initiation,0,0,0935,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,61.5,0931,Yes,30,0940,No,,,,,127,,0,0,0
+141,Study Initiation,0,0,1015,No,,Yes,Normal,Yes,< 2 seconds,No,24.3,1000,Yes,10,1020,No,,,,,85,,0,0,0
+142,Study Initiation,0,0,1325,No,,Yes,Weak,Yes,2 - 5 seconds,Yes,68.3,1325,Yes,10,1345,Yes,10,1610,,,165,0,0,0,0
+143,Study Initiation,0,0,0820,No,,Yes,Weak,Yes,2 - 5 seconds,No,27.8,0815,Yes,20,0905,No,,,161,115,,,0,0,0
+144,Study Initiation,0,0,1158,No,,Yes,Normal,Yes,2 - 5 seconds,No,111.6,1148,No,,,Yes,18,1315,473,307,,0,0,,0
+145,Study Initiation,0,0,2145,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,35.5,2112,Yes,10,2137,No,,,,,105,,0,0,0
+146,Study Initiation,0,0,1938,No,,Yes,Normal,Yes,< 2 seconds,Yes,39.8,1938,Yes,10,2047,No,,,,,113,,0,0,0
+147,Study Initiation,0,0,1754,No,,No,,No,,Yes,59.6,1738,No,,,Yes,10,2201,,,149,0,0,,0
+148,Study Initiation,0,0,1730,No,,Yes,Bounding,Yes,< 2 seconds,Yes,41.2,1721,Yes,10,1833,Yes,10,1945,219,150,,0,0,0,0
+149,Study Initiation,0,0,1024,Yes,Mild,Yes,Normal,Yes,< 2 seconds,No,71.2,1024,Yes,14,1216,Yes,6,1350,349,230,,0,0,0,31
+150,Study Initiation,0,0,1759,No,,Yes,Normal,Yes,2 - 5 seconds,No,18.9,1944,Yes,30,1836,No,,,112,85,,,0,0,0
+151,Study Initiation,0,0,0026,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,26,2322,Yes,15,0005,No,,,,,85,,0,0,-1
+152,Study Initiation,0,0,1357,No,,Yes,Normal,Yes,< 2 seconds,Yes,46.4,1357,Yes,10,1430,No,,,,,124,,0,0,0
+153,Study Initiation,0,0,1226,No,,Yes,Normal,Yes,< 2 seconds,No,20.5,1202,Yes,10,1304,No,,,,,77,,0,0,0
+154,Study Initiation,0,0,2103,No,,Yes,Increased,Yes,< 2 seconds,Yes,63.2,2105,Yes,10,2149,No,,,340,222,,,0,0,0
+155,Study Initiation,0,0,1311,No,,Yes,Normal,Yes,< 2 seconds,No,38.6,1325,Yes,10,1329,Yes,10,1609,207,143,,0,0,0,0
+156,Study Initiation,0,0,1357,No,,Yes,Normal,Yes,< 2 seconds,No,50.8,1239,Yes,10,1410,Yes,10,1520,257,173,,0,0,0,0
+157,Study Initiation,0,0,1355,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,60.9,1355,Yes,10,1505,Yes,10,1600,305,203,,0,0,0,0
+158,Study Initiation,0,0,1130,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,33.7,1112,Yes,10,1145,Yes,10,1300,200,137,,0,0,0,0
+159,Study Initiation,0,0,0914,No,,Yes,Normal,Yes,< 2 seconds,Yes,67.5,1123,Yes,11,0911,No,,,,,162,,0,0,0
+160,Study Initiation,0,0,1702,No,,Yes,Normal,Yes,2 - 5 seconds,No,14.2,1702,Yes,11,1512,No,,,,,60,,0,0,0
+161,Study Initiation,0,0,1122,Yes,Moderate,Yes,Normal,Yes,2 - 5 seconds,Yes,64,1115,Yes,10,1131,No,,,,,157,,0,0,0
+162,Study Initiation,0,0,1830,No,,Yes,Normal,Yes,2 - 5 seconds,No,34.7,1930,Yes,10,1622,No,,,,,104,,0,0,0
+163,Study Initiation,0,0,2024,No,,Yes,Weak,Yes,< 2 seconds,No,26.4,2020,Yes,10,2256,Yes,10,2345,154,110,,0,0,0,0
+164,Study Initiation,0,0,1650,No,,Yes,Normal,Yes,< 2 seconds,Yes,19,1653,Yes,10,1700,No,,,,,74,,0,0,0
+165,Study Initiation,0,0,1500,No,,Yes,Normal,Yes,< 2 seconds,Yes,46,1430,Yes,10,1430,No,,,,,124,,0,0,0
+166,Study Initiation,0,0,1611,No,,Yes,Normal,Yes,< 2 seconds,No,16.1,1611,Yes,10,1806,No,,,,,66,,0,0,0
+167,Study Initiation,0,0,1703,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,78.4,1706,Yes,10,1719,Yes,10,1809,380,249,,0,0,0,0
+168,Study Initiation,0,0,1325,Yes,Mild,Yes,Weak,Yes,2 - 5 seconds,No,28,1222,Yes,10,1325,No,,,,,91,,0,0,0
+169,Study Initiation,0,0,0940,No,,Yes,Weak,Yes,> 5 seconds,No,21.6,0925,Yes,20,1015,No,,,,,75,,0,0,0
+170,Study Initiation,0,0,1355,No,,Yes,Increased,Yes,2 - 5 seconds,No,33.5,1440,Yes,20,1300,No,,,186,130,,,0,0,0
+171,Study Initiation,0,0,0422,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,27.2,0422,Yes,10,0517,No,,,,,90,,0,0,0
+172,Study Initiation,0,0,0051,No,,Yes,Normal,Yes,2 - 5 seconds,No,35.6,0000,Yes,14,2300,No,,,188,132,,,0,-1,0
+173,Study Initiation,0,0,0306,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,68.2,0525,Yes,10,0335,No,,,,,165,,0,0,0
+174,Study Initiation,0,0,1400,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,54,1407,Yes,10,1414,Yes,10,1544,,,129,0,0,0,0
+175,Study Initiation,0,0,0832,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,56.8,0829,Yes,10,0927,No,,,,,144,,0,0,0
+176,Study Initiation,0,0,1630,No,,Yes,Normal,Yes,< 2 seconds,No,140,1630,Yes,10,1330,Yes,10,1730,461,300,,0,0,0,0
+177,Study Initiation,0,0,1508,No,,Yes,Normal,No,,Yes,53.4,1900,Yes,19,1541,No,,,,,128,,0,0,0
+178,Study Initiation,0,0,1133,No,,Yes,Normal,Yes,2 - 5 seconds,No,11.2,1229,Yes,10,1215,Yes,10,1320,80,61,,0,0,0,0
+179,Study Initiation,0,0,1120,No,,Yes,Normal,Yes,2 - 5 seconds,No,43.4,1003,No,,,Yes,10,1219,,,120,0,0,,0
+180,Study Initiation,0,0,1800,No,,Yes,Weak,Yes,2 - 5 seconds,No,28.6,1644,Yes,10,1758,Yes,10,1951,163,116,,0,0,0,0
+181,Study Initiation,0,0,1145,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,62.6,1145,Yes,10,1250,No,,,,,155,,0,0,0
+182,Study Initiation,0,0,1514,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,No,35.1,1514,Yes,10,1516,No,,,,,104,,0,0,0
+183,Study Initiation,0,0,0800,No,,Yes,Normal,Yes,< 2 seconds,Yes,83,0804,Yes,9,0838,No,,,,,195,,0,0,0
+184,Study Initiation,0,0,0705,No,,Yes,Normal,Yes,< 2 seconds,Yes,52.5,0707,Yes,10,0726,No,,,,,136,,0,0,0
+185,Study Initiation,0,0,1300,No,,Yes,Normal,Yes,< 2 seconds,No,35,1231,Yes,10,1333,Yes,10,1452,192,133,,0,0,0,0
+186,Study Initiation,0,0,1730,No,,Yes,Normal,Yes,< 2 seconds,No,32.1,1701,Yes,10,1750,No,,,,,99,,0,0,0
+187,Study Initiation,0,0,1641,No,,Yes,Normal,Yes,2 - 5 seconds,No,25.9,1641,Yes,10,1750,Yes,10,1822,152,109,,0,0,0,0
+188,Study Initiation,0,0,1212,No,,Yes,Normal,Yes,< 2 seconds,Yes,37.6,1216,Yes,10,1305,Yes,10,1340,203,140,,0,0,0,0
+189,Study Initiation,0,0,1915,No,,Yes,Normal,Yes,2 - 5 seconds,No,32.3,1827,No,,,Yes,20,2010,180,126,,0,0,,0
+190,Study Initiation,0,0,1446,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,46,1446,Yes,10,1536,Yes,10,1922,239,163,,0,0,0,0
+191,Study Initiation,0,0,1300,No,,Yes,Normal,Yes,< 2 seconds,No,31.9,1300,No,,,Yes,20,1420,178,125,,0,0,,0
+192,Study Initiation,0,0,1654,No,,Yes,Normal,Yes,< 2 seconds,Yes,97,1627,Yes,5,1715,Yes,5,1806,488,306,,0,0,0,0
+193,Study Initiation,0,0,1539,No,,Yes,Normal,Yes,< 2 seconds,Yes,66.1,1546,Yes,10,1546,No,,,,,161,,0,0,-1
+194,Study Initiation,0,0,1910,No,,Yes,Normal,Yes,< 2 seconds,No,19.4,1818,Yes,10,1910,No,,,,,75,,0,0,0
+195,Study Initiation,0,0,1842,No,,Yes,Bounding,Yes,< 2 seconds,No,42.7,1600,Yes,10,1844,Yes,10,2123,225,154,,0,0,0,0
+196,Study Initiation,0,0,0900,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,20.4,0955,Yes,10,1026,No,,,,,77,,0,0,0
+197,Study Initiation,0,0,1817,No,,Yes,Normal,Yes,< 2 seconds,Yes,48,1826,Yes,10,1905,No,,,,,128,,0,0,0
+198,Study Initiation,0,0,1147,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,40.5,1142,Yes,10,1221,No,,,,,114,,0,0,0
+199,Study Initiation,0,0,0050,No,,Yes,Normal,Yes,< 2 seconds,No,31.4,0010,Yes,10,0050,No,,,,,97,,0,0,0
+200,Study Initiation,0,0,1200,No,,Yes,Normal,Yes,< 2 seconds,No,19.2,1206,Yes,10,1357,No,,,,,74,,0,0,0
+201,Study Initiation,0,0,1439,Yes,Severe,Yes,Normal,Yes,< 2 seconds,Yes,85,1421,Yes,19,1508,Yes,1,1630,408,267,,0,0,0,0
+202,Study Initiation,0,0,0920,Yes,Moderate,Yes,Normal,Yes,2 - 5 seconds,No,50.3,0901,Yes,10,0940,No,,,,,132,,0,0,0
+203,Study Initiation,0,0,0854,No,,Yes,Normal,No,,Yes,33,1050,Yes,11,1003,No,,,,,100,,0,0,0
+204,Study Initiation,0,0,2145,Yes,Unknown,Yes,Normal,Yes,2 - 5 seconds,Yes,51.6,2250,Yes,19,2201,No,,,,,126,,0,0,0
+205,Study Initiation,0,0,1633,No,,Yes,Increased,Yes,< 2 seconds,No,44.6,1622,Yes,10,1709,Yes,10,1758,233,158,,0,0,0,0
+206,Study Initiation,0,0,0916,No,,Yes,Weak,Yes,2 - 5 seconds,No,32.4,1017,Yes,11,0924,Yes,9,1020,193,133,,0,0,0,0
+207,Study Initiation,0,0,1902,No,,Yes,Normal,Yes,< 2 seconds,Yes,64,1824,Yes,10,1851,No,,,,,157,,0,0,0
+208,Study Initiation,0,0,1300,No,,Yes,Normal,Yes,< 2 seconds,Yes,30.8,1214,Yes,10,1236,No,,,,,97,,0,0,0
+209,Study Initiation,0,0,1400,No,,Yes,Normal,Yes,< 2 seconds,No,46.2,1304,Yes,10,1345,No,,,,,125,,0,0,0
+210,Study Initiation,0,0,1445,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,45.6,1426,Yes,10,1452,Yes,10,1600,238,162,,0,0,0,0
+211,Study Initiation,0,0,2230,No,,Yes,Normal,Yes,< 2 seconds,No,24.2,2200,Yes,10,2220,Yes,10,0019,145,105,,0,-1,-1,-1
+212,Study Initiation,0,0,1538,Yes,Unknown,Yes,Weak,Yes,2 - 5 seconds,Yes,43.5,1540,Yes,10,1620,No,,,,,120,,0,0,0
+213,Study Initiation,0,0,1900,No,,Yes,Normal,Yes,< 2 seconds,No,33.7,1727,Yes,10,1826,Yes,10,1947,186,130,,0,0,0,0
+214,Study Initiation,0,0,1847,No,,Yes,Increased,Yes,2 - 5 seconds,Yes,38.2,1726,Yes,10,1859,Yes,10,1959,,,102,0,0,0,0
+215,Study Initiation,0,0,1000,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,27.8,1134,Yes,10,1030,Yes,10,1156,160,114,,0,0,0,0
+216,Study Initiation,0,0,1531,No,,Yes,Normal,Yes,< 2 seconds,Yes,47,1532,Yes,11,1620,Yes,9,1857,244,165,,0,0,0,0
+217,Study Initiation,0,0,1021,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,47.8,1024,Yes,10,1037,No,,,,,128,,0,0,0
+218,Study Initiation,0,0,1844,Yes,Moderate,Yes,Weak,Yes,2 - 5 seconds,Yes,34.5,1818,Yes,10,1833,Yes,10,1918,190,132,,0,0,0,0
+219,Study Initiation,0,0,0945,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,41.73,1018,Yes,10,1035,No,,,,,117,,0,0,0
+220,Study Initiation,0,0,1455,No,,Yes,Normal,Yes,< 2 seconds,No,75.2,1508,No,,,Yes,20,1746,366,241,,0,0,,0
+221,Study Initiation,0,0,1244,No,,Yes,Increased,Yes,2 - 5 seconds,No,74.7,1232,No,,,Yes,20,1407,364,239,,0,0,,0
+222,Study Initiation,0,0,1330,No,,Yes,Normal,Yes,< 2 seconds,Yes,24.4,1323,Yes,10,1355,No,,,,,85,,0,0,0
+223,Study Initiation,0,0,1118,No,,Yes,Normal,Yes,< 2 seconds,Yes,29.4,1139,Yes,10,1237,No,,,,,94,,0,0,0
+224,Study Initiation,0,0,1800,No,,No,,Yes,< 2 seconds,Yes,69.9,1752,Yes,10,1853,No,,,,,168,,0,0,0
+225,Study Initiation,0,0,1905,No,,Yes,Normal,Yes,2 - 5 seconds,No,9.4,1923,Yes,10,2020,No,,,,,45,,0,0,0
+226,Study Initiation,0,0,1840,No,,Yes,Increased,Yes,2 - 5 seconds,No,53.3,1819,Yes,10,1954,No,,,,,137,,0,0,0
+227,Study Initiation,0,0,2153,No,,Yes,Weak,Yes,> 5 seconds,Yes,56.7,2139,Yes,20,2205,No,,,,,132,,0,0,0
+228,Study Initiation,0,0,1026,No,,Yes,Normal,Yes,2 - 5 seconds,No,18.6,1028,Yes,10,1116,No,,,,,73,,0,0,0
+229,Study Initiation,0,0,2001,No,,Yes,Normal,Yes,< 2 seconds,Yes,72.1,2012,Yes,20,1831,No,,,,,166,,0,0,0
+230,Study Initiation,0,0,1304,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,45.4,1309,Yes,10,1338,No,,,237,161,,,0,0,0
+231,Study Initiation,0,0,1230,Yes,Moderate,Yes,Normal,Yes,2 - 5 seconds,No,123,1214,Yes,10,1245,Yes,10,1405,450,295,,0,0,0,0
+232,Study Initiation,0,0,1808,Yes,Moderate,No,,Yes,< 2 seconds,No,37.3,1802,Yes,10,2009,Yes,10,2043,202,140,,0,0,0,0
+233,Study Initiation,0,0,1500,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,45,1425,Yes,10,1704,No,,,,,123,,0,0,0
+234,Study Initiation,0,0,1646,No,,Yes,Increased,Yes,2 - 5 seconds,No,13.5,1652,Yes,10,1739,Yes,10,1857,92,70,,0,0,0,0
+235,Study Initiation,0,0,1830,No,,Yes,Weak,Yes,< 2 seconds,Yes,54.2,1830,Yes,20,1915,No,,,275,184,,,0,0,0
+236,Study Initiation,0,0,1748,No,,Yes,Normal,Yes,2 - 5 seconds,No,41.7,2042,Yes,20,1824,Yes,9,0545,,,108,1,0,0,0
+237,Study Initiation,0,0,0900,No,,Yes,Normal,No,,Yes,38.3,0841,Yes,10,0942,No,,,,,110,,0,0,0
+238,Study Initiation,0,0,1830,No,,Yes,Normal,Yes,< 2 seconds,No,19.7,1747,Yes,10,1620,No,,,,,76,,0,0,0
+239,Study Initiation,0,0,1925,No,,Yes,Normal,Yes,2 - 5 seconds,No,23,1920,Yes,10,2025,Yes,10,2220,140,101,,0,0,0,0
+240,Study Initiation,0,0,1511,No,,Yes,Normal,Yes,< 2 seconds,Yes,65.4,1508,Yes,10,1544,Yes,10,2136,323,214,,0,0,0,0
+241,Study Initiation,0,0,1135,No,,Yes,Normal,Yes,< 2 seconds,No,56.6,1330,Yes,10,1213,No,,,,,144,,0,0,0
+242,Study Initiation,0,0,2000,Yes,Mild,Yes,Normal,Yes,< 2 seconds,No,27.6,1721,Yes,10,2020,No,,,,,91,,0,0,0
+243,Study Initiation,0,0,1930,No,,Yes,Normal,Yes,< 2 seconds,No,26.9,1902,Yes,10,1952,Yes,10,2116,156,112,,0,0,0,0
+244,Study Initiation,0,0,1600,No,,Yes,Weak,Yes,2 - 5 seconds,No,47.6,1600,Yes,10,1615,No,,,266,177,,,0,0,0
+245,Study Initiation,0,0,1603,No,,Yes,Bounding,Yes,< 2 seconds,No,42.6,1831,Yes,10,1732,No,,,,,118,,0,0,0
+246,Study Initiation,0,0,1914,Not Documented,,Yes,Normal,Yes,2 - 5 seconds,Yes,60,1838,Yes,10,1925,Yes,10,2040,300,200,,0,0,0,0
+247,Study Initiation,0,0,1207,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,67.4,1142,Yes,10,1215,No,,,360,234,,,0,0,0
+248,Study Initiation,0,0,1300,No,,Yes,Increased,Yes,< 2 seconds,Yes,71,1215,Yes,10,1334,No,,,,,184,,0,0,0
+249,Study Initiation,0,0,0822,No,,Yes,Normal,Yes,< 2 seconds,Yes,77.7,1033,Yes,25,0825,No,,,,,156,,0,0,0
+250,Study Initiation,0,0,1815,No,,Yes,Normal,Yes,< 2 seconds,No,10.5,1816,Yes,10,2038,Yes,10,2233,76,59,,0,0,0,0
+251,Study Initiation,0,0,0015,Yes,Unknown,Yes,Weak,Yes,2 - 5 seconds,Yes,74,0100,Yes,10,2350,No,,,,,155,,0,-1,0
+252,Study Initiation,0,0,1444,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,29.3,1453,Yes,10,1514,Yes,10,1837,167,118,,0,0,0,0
+253,Study Initiation,0,0,1030,No,,Yes,Normal,Yes,< 2 seconds,No,15.5,1030,Yes,10,1105,Yes,10,1230,103,77,,0,0,0,0
+254,Study Initiation,0,0,2158,No,,Yes,Normal,Yes,< 2 seconds,Yes,47.6,2129,Yes,10,2205,Yes,9,2301,246,167,,0,0,0,0
+255,Study Initiation,0,0,1300,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,25.5,1349,Yes,10,1309,Yes,10,1417,150,108,,0,0,0,0
+256,Study Initiation,0,0,0807,No,,Yes,Weak,Yes,2 - 5 seconds,Yes,54.7,0814,Yes,10,0900,Yes,9,1121,277,186,,0,0,0,0
+257,Study Initiation,0,0,1821,No,,Yes,Normal,Yes,2 - 5 seconds,No,34.8,1730,Yes,10,1900,No,,,,,104,,0,0,0
+258,Study Initiation,0,0,1324,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,33.3,1324,Yes,10,1455,No,,,,,101,,0,0,0
+259,Study Initiation,0,0,1125,No,,Yes,Normal,Yes,< 2 seconds,Yes,46.8,1134,Yes,4,1215,Yes,16,1456,243,165,,0,0,0,0
+260,Study Initiation,0,0,1237,No,,Yes,Normal,Yes,2 - 5 seconds,No,45.6,1243,Yes,10,1257,Yes,10,1328,238,162,,0,0,0,0
+261,Study Initiation,0,0,1927,No,,Yes,Normal,Yes,< 2 seconds,Yes,48.8,1930,Yes,10,2058,Yes,10,2156,251,170,,0,0,0,0
+262,Study Initiation,0,0,1330,No,,Yes,Normal,Yes,< 2 seconds,Yes,51.1,1450,Yes,10,1350,Yes,10,1511,258,175,,0,0,0,0
+263,Study Initiation,0,0,1138,No,,Yes,Normal,Yes,2 - 5 seconds,No,27,1122,No,,,No,,,,,95,,0,,0
+264,Study Initiation,0,0,1640,No,,Yes,Weak,Yes,2 - 5 seconds,No,22,1800,Yes,10,1749,Yes,10,1823,145,103,,0,0,0,0
+265,Study Initiation,0,0,2151,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,73.9,2300,Yes,9,2200,Yes,9,2308,363,239,,0,0,0,0
+266,Study Initiation,0,0,0920,No,,Yes,Normal,Yes,< 2 seconds,No,11,0906,Yes,10,1000,No,,,,,51,,0,0,0
+267,Study Initiation,0,0,1409,Yes,Mild,Yes,Normal,Yes,< 2 seconds,No,59,1550,Yes,10,1453,No,,,,,148,,0,0,0
+268,Study Initiation,0,0,1800,No,,Yes,Normal,Yes,< 2 seconds,No,82,1721,Yes,10,1821,No,,,387,253,,,0,0,0
+269,Study Initiation,0,0,1239,No,,Yes,Normal,Yes,< 2 seconds,No,23.3,1230,Yes,10,1405,Yes,10,1510,141,102,,0,0,0,0
+270,Study Initiation,0,0,1128,No,,Yes,Normal,Yes,< 2 seconds,Yes,51.8,1128,Yes,10,1140,No,,,,,135,,0,0,0
+271,Study Initiation,0,0,1325,No,,Yes,Normal,Yes,< 2 seconds,Yes,60.5,1300,Yes,10,1505,Yes,10,1600,302,201,,0,0,0,0
+272,Study Initiation,0,0,1533,Yes,Moderate,Yes,Increased,Yes,2 - 5 seconds,Yes,72.9,1703,Yes,14,1559,Yes,6,1704,356,234,,0,0,0,0
+273,Study Initiation,0,0,1730,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,59.5,1740,Yes,17,1745,Yes,3,2100,298,199,,0,0,0,0
+274,Study Initiation,0,0,1410,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,43,1309,Yes,10,1415,No,,,,,119,,0,0,0
+275,Study Initiation,0,0,1600,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,53,1700,No,,,Yes,20,1840,293,193,,0,0,,0
+276,Study Initiation,0,0,0900,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,40.5,0849,Yes,10,0921,No,,,,,114,,0,0,0
+277,Study Initiation,0,0,0912,Yes,Moderate,Yes,Increased,Yes,< 2 seconds,Yes,101.3,0912,Yes,10,0940,No,,,,,223,,0,0,0
+278,Study Initiation,0,0,1914,No,,Yes,Normal,Yes,< 2 seconds,Yes,29.1,1830,Yes,10,1955,Yes,10,2130,166,118,,0,0,0,0
+279,Study Initiation,0,0,1413,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,No,55.2,1422,Yes,10,1435,No,,,,,141,,0,0,0
+280,Study Initiation,0,0,1800,No,,Yes,Normal,Yes,< 2 seconds,No,32.5,1759,Yes,10,1830,No,,,181,127,,,0,0,0
+281,Study Initiation,0,0,1930,No,,Yes,Normal,Yes,< 2 seconds,No,18,1900,Yes,10,1950,No,,,,,69,,0,0,0
+282,Study Initiation,0,0,1752,No,,Yes,Normal,Yes,2 - 5 seconds,No,29.6,1800,Yes,10,1615,Yes,10,1839,181,125,,0,0,0,0
+283,Study Initiation,0,0,1835,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,54.6,1835,Yes,10,1850,Yes,10,2058,276,185,,0,0,0,0
+284,Study Initiation,0,0,0806,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,29.7,0741,Yes,10,0854,No,,,,,94,,0,0,0
+285,Study Initiation,0,0,1408,No,,Yes,Normal,Yes,< 2 seconds,Yes,63.4,1412,Yes,10,1425,No,,,,,156,,0,0,0
+286,Study Initiation,0,0,1515,No,,Yes,Normal,Yes,< 2 seconds,No,28,1254,Yes,10,1440,No,,,,,91,,0,0,0
+287,Study Initiation,0,0,1925,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,45.3,1916,Yes,10,1953,No,,,,,123,,0,0,0
+288,Study Initiation,0,0,1930,No,,Yes,Weak,Yes,2 - 5 seconds,No,61.3,1845,Yes,10,1920,Yes,20,2215,,,128,0,0,0,0
+289,Study Initiation,0,0,1240,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,28.2,1240,Yes,10,1253,Yes,10,1353,158,113,,0,0,0,0
+290,Study Initiation,0,0,1600,No,,Yes,Weak,Yes,2 - 5 seconds,No,31.2,1556,Yes,20,1715,No,,,,,91,,0,0,0
+291,Study Initiation,0,0,1900,No,,Yes,Weak,Yes,2 - 5 seconds,Yes,34.7,1900,Yes,10,1920,Yes,10,2020,190,133,,0,0,0,0
+292,Study Initiation,0,0,1715,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,65.8,1700,Yes,10,1730,Yes,10,1848,325,215,,0,0,0,0
+293,Study Initiation,0,0,1805,No,,Yes,Normal,Yes,< 2 seconds,Yes,44.5,1805,Yes,20,1830,No,,,233,159,,,0,0,0
+294,Study Initiation,0,0,1213,No,,Yes,Normal,Yes,< 2 seconds,Yes,59.3,1210,Yes,10,1200,No,,,,,148,,0,0,0
+295,Study Initiation,0,0,2252,No,,Yes,Normal,Yes,< 2 seconds,Yes,18.4,2327,Yes,14,2253,Yes,6,0049,118,87,,0,-1,-1,-1
+296,Study Initiation,0,0,1000,No,,Yes,Normal,Yes,< 2 seconds,No,15.3,1001,Yes,10,1132,No,,,,,63,,0,0,0
+297,Study Initiation,0,0,1445,Yes,Unknown,Yes,Normal,Yes,< 2 seconds,No,58.7,1435,Yes,17,1435,No,,,,,139,,0,0,0
+298,Study Initiation,0,0,1602,No,,Yes,Normal,Yes,2 - 5 seconds,No,21,1710,No,,,Yes,10,1725,,,79,0,0,,0
+299,Study Initiation,0,0,1241,No,,Yes,Normal,Yes,< 2 seconds,No,71.4,1215,Yes,10,1304,Yes,10,1504,350,231,,0,0,0,0
+300,Study Initiation,0,0,2130,No,,Yes,Normal,Yes,< 2 seconds,Yes,60.6,2116,Yes,16,2230,No,,,,,143,,-1,-1,-1
+301,Study Initiation,0,0,2045,No,,Yes,Normal,Yes,< 2 seconds,Yes,56.3,2043,Yes,10,2100,No,,,,,144,,0,0,0
+302,Study Initiation,0,0,1430,No,,Yes,Normal,Yes,< 2 seconds,No,72.8,1439,Yes,10,1456,Yes,10,1800,355,234,,0,0,0,0
+303,Study Initiation,0,0,1530,No,,Yes,Normal,Yes,2 - 5 seconds,No,33.2,1526,Yes,10,1625,No,,,,,101,,0,0,0
+304,Study Initiation,0,0,0100,No,,No,,Yes,2 - 5 seconds,Yes,26.31,0100,Yes,10,0115,Yes,10,0225,154,110,,0,0,0,0
+305,Study Initiation,0,0,1430,No,,Yes,Normal,Yes,< 2 seconds,Yes,69,1255,Yes,10,1314,Yes,10,1454,339,224,,0,0,0,0
+306,Study Initiation,0,0,2021,No,,Yes,Weak,Yes,2 - 5 seconds,Yes,12.48,2154,Yes,10,2110,No,,,,,55,,0,0,0
+307,Study Initiation,0,0,0912,No,,No,,Yes,2 - 5 seconds,Yes,40.2,0912,Yes,10,0927,No,,,,,114,,0,0,0
+308,Study Initiation,0,0,1042,No,,Yes,Normal,Yes,2 - 5 seconds,No,21,1040,Yes,10,1155,Yes,10,1340,131,96,,0,0,0,0
+309,Study Initiation,0,0,1230,No,,Yes,Normal,Yes,< 2 seconds,Yes,35.2,1218,Yes,10,1305,Yes,10,1405,193,134,,0,0,0,0
+310,Study Initiation,0,0,1043,No,,Yes,Normal,Yes,< 2 seconds,Yes,55.8,1313,Yes,17,1052,No,,,,,133,,0,0,0
+311,Study Initiation,0,0,2330,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,64.9,2229,Yes,10,2300,Yes,10,0100,321,213,,0,-1,-1,-1
+312,Study Initiation,0,0,1643,No,,No,,No,,Yes,41,1645,Yes,10,1705,No,,,,,115,,0,0,0
+313,Study Initiation,0,0,1730,No,,Yes,Normal,No,,Yes,51.8,1810,Yes,10,1714,Yes,10,1823,266,179,,0,0,0,0
+314,Study Initiation,0,0,0045,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,43.9,0055,Yes,10,0115,Yes,10,0200,249,166,,0,0,0,0
+315,Study Initiation,0,0,1608,No,,Yes,Normal,Yes,2 - 5 seconds,No,34.6,1516,Yes,7,1630,Yes,7,1735,198,136,,0,0,0,0
+316,Study Initiation,0,0,1249,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,70,1304,Yes,15,1444,Yes,5,1620,343,227,,0,0,0,0
+317,Study Initiation,0,0,2210,No,,Yes,Weak,Yes,2 - 5 seconds,No,13.8,2120,Yes,20,2155,No,,,93,71,,,-1,-1,-1
+318,Study Initiation,0,0,1745,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,Yes,59.2,1739,Yes,27,1800,No,,,,,128,,0,0,0
+319,Study Initiation,0,0,1531,No,,Yes,Normal,Yes,< 2 seconds,Yes,39.1,1535,Yes,40,1558,No,,,,,88,,0,0,0
+320,Study Initiation,0,0,1906,No,,Yes,Normal,Yes,< 2 seconds,Yes,57,1900,Yes,18,1920,No,,,,,136,,0,0,0
+321,Study Initiation,0,0,1700,Yes,Mild,Yes,Weak,Yes,2 - 5 seconds,No,30,1611,Yes,20,1643,No,,,,,89,,0,0,0
+322,Study Initiation,0,0,1040,No,,Yes,Normal,Yes,< 2 seconds,Yes,23.3,1033,Yes,10,1055,Yes,10,1200,141,102,,0,0,0,0
+323,Study Initiation,0,0,1645,Yes,Mild,Yes,Normal,Yes,< 2 seconds,No,28.3,1628,Yes,10,1721,No,,,,,92,,0,0,0
+324,Study Initiation,0,0,2014,No,,Yes,Normal,Yes,< 2 seconds,No,46.5,2014,Yes,10,2115,Yes,10,0002,241,164,,1,0,0,0
+325,Study Initiation,0,0,1645,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,18.7,1335,Yes,20,1426,No,,,120,89,,,0,0,0
+326,Study Initiation,0,0,1919,No,,Yes,Normal,Yes,2 - 5 seconds,No,32,1919,Yes,11,1944,Yes,9,2145,191,131,,0,0,0,0
+327,Study Initiation,0,0,1430,No,,Yes,Increased,Yes,2 - 5 seconds,Yes,35.7,1434,Yes,10,1450,Yes,10,1558,195,135,,0,0,0,0
+328,Study Initiation,0,0,1357,No,,Yes,Normal,Yes,< 2 seconds,Yes,57.1,1337,Yes,10,1434,No,,,,,145,,0,0,0
+329,Study Initiation,0,0,1300,No,,Yes,Normal,Yes,< 2 seconds,No,34.8,1027,Yes,10,1310,Yes,10,1440,191,133,,0,0,0,0
+330,Study Initiation,0,0,1700,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,70.5,1642,Yes,10,1715,Yes,10,1855,346,228,,0,0,0,0
+331,Study Initiation,0,0,1430,No,,Yes,Normal,Yes,< 2 seconds,Yes,79.6,1410,Yes,10,1450,Yes,10,1631,385,252,,0,0,0,0
+332,Study Initiation,0,0,1250,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,56.8,1305,Yes,10,1310,Yes,10,1415,286,191,,0,0,0,0
+333,Study Initiation,0,0,1310,No,,Yes,Normal,Yes,< 2 seconds,No,19.4,0956,Yes,10,1030,No,,,,,72,,0,0,0
+334,Study Initiation,0,0,1300,No,,No,,Yes,2 - 5 seconds,Yes,49.6,1218,Yes,10,1210,Yes,10,1340,255,172,,0,0,0,0
+335,Study Initiation,0,0,1418,No,,Yes,Normal,Yes,< 2 seconds,No,23,1634,Yes,10,1515,No,,,,,82,,0,0,0
+336,Study Initiation,0,0,1550,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,53.1,1645,Yes,10,1334,No,,,,,138,,0,0,0
+337,Study Initiation,0,0,1315,No,,Yes,Normal,Yes,2 - 5 seconds,No,52.9,1315,Yes,10,1335,Yes,10,1445,269,181,,0,0,0,0
+338,Study Initiation,0,0,1700,No,,Yes,Normal,Yes,< 2 seconds,No,47.4,1646,Yes,11,1720,No,,,,,127,,0,0,0
+339,Study Initiation,0,0,1210,No,,Yes,Normal,Yes,< 2 seconds,Yes,37,1148,Yes,10,1220,Yes,10,1320,200,139,,0,0,0,0
+340,Study Initiation,0,0,1038,No,,Yes,Normal,Yes,< 2 seconds,Yes,60.9,1000,Yes,10,1027,No,,,,,152,,0,0,0
+341,Study Initiation,0,0,1910,No,,Yes,Normal,Yes,< 2 seconds,No,27,1524,Yes,10,1855,No,,,,,90,,0,0,0
+342,Study Initiation,0,0,2153,Yes,Unknown,Yes,Increased,Yes,2 - 5 seconds,Yes,62.1,2203,Yes,10,2205,Yes,10,2305,309,206,,0,0,0,0
+343,Study Initiation,0,0,1549,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,No,84.5,1543,Yes,10,1543,No,,,,,195,,0,0,0
+344,Study Initiation,0,0,1230,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,59.2,1215,Yes,10,1300,No,,,,,149,,0,0,0
+345,Study Initiation,0,0,2000,Yes,Moderate,Yes,Normal,Yes,2 - 5 seconds,Yes,56.6,2107,Yes,10,2030,Yes,10,2130,286,191,,0,0,0,0
+346,Study Initiation,0,0,1415,Yes,Unknown,Yes,Increased,Yes,< 2 seconds,Yes,38.9,1359,Yes,10,1425,Yes,10,1557,209,144,,0,0,0,0
+347,Study Initiation,0,0,1530,No,,Yes,Normal,Yes,< 2 seconds,No,33,1554,Yes,10,1532,Yes,10,1645,183,128,,0,0,0,0
+348,Study Initiation,0,0,1637,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,45.4,1634,Yes,10,1652,Yes,10,1734,237,161,,0,0,0,0
+349,Study Initiation,0,0,1324,No,,Yes,Normal,Yes,< 2 seconds,No,87.6,1316,Yes,10,1410,No,,,,,200,,0,-30,0
+350,Study Initiation,0,0,1223,No,,Yes,Normal,Yes,2 - 5 seconds,No,28.3,1223,Yes,10,1406,Yes,10,1454,163,115,,0,0,0,0
+351,Study Initiation,0,0,0939,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,44.3,0957,Yes,20,1016,No,,,,,112,,0,0,0
+352,Study Initiation,0,0,2005,No,,Yes,Normal,Yes,< 2 seconds,No,11.7,2100,Yes,10,2215,Yes,10,2355,82,63,,0,0,0,0
+353,Study Initiation,0,0,1802,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,36.8,1805,Yes,10,1814,No,,,,,107,,0,0,0
+354,Study Initiation,0,0,1203,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,46.6,1200,Yes,10,1215,Yes,10,1257,242,164,,0,0,0,0
+355,Study Initiation,0,0,1600,No,,Yes,Normal,Yes,< 2 seconds,No,43.2,1606,Yes,10,1700,No,,,,,119,,0,0,0
+356,Study Initiation,0,0,2119,No,,Yes,Increased,Yes,2 - 5 seconds,No,33.6,1813,Yes,10,2100,No,,,,,102,,0,0,0
+357,Study Initiation,0,0,0800,No,,Yes,Normal,Yes,< 2 seconds,Yes,45,0815,Yes,10,0830,No,,,,,123,,0,0,0
+358,Study Initiation,0,0,1528,No,,Yes,Normal,Yes,< 2 seconds,Yes,65.1,1600,Yes,10,1540,Yes,10,1730,322,214,,0,0,0,0
+359,Study Initiation,0,0,1300,No,,Yes,Normal,Yes,< 2 seconds,No,28.5,1155,Yes,10,1445,No,,,,,92,,0,0,0
+360,Study Initiation,0,0,1231,Yes,Moderate,Yes,Normal,Yes,2 - 5 seconds,Yes,55.4,1245,Yes,10,1253,No,,,,,141,,0,0,0
+361,Study Initiation,0,0,0901,No,,Yes,Normal,Yes,< 2 seconds,No,26.8,1050,Yes,9,0910,Yes,9,1044,158,112,,0,0,0,0
+362,Study Initiation,0,0,1630,No,,Yes,Normal,Yes,< 2 seconds,No,42.2,1503,Yes,10,1615,No,,,,,117,,0,0,0
+363,Study Initiation,0,0,1300,No,,Yes,Normal,Yes,< 2 seconds,Yes,51.2,1156,Yes,10,1300,No,,,,,134,,0,0,0
+364,Study Initiation,0,0,1554,No,,No,,Yes,< 2 seconds,No,47.5,1556,Yes,10,1658,No,,,,,127,,0,0,0
+365,Study Initiation,0,0,1226,No,,Yes,Weak,Yes,> 5 seconds,No,27.4,1215,Yes,10,1350,No,,,,,90,,0,0,0
+366,Study Initiation,0,0,1904,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,48.6,1845,Yes,10,1957,Yes,10,2032,251,170,,0,0,0,0
+367,Study Initiation,0,0,1900,No,,Yes,Normal,Yes,< 2 seconds,Yes,31.9,1821,Yes,10,1921,Yes,10,2015,178,125,,0,0,0,0
+368,Study Initiation,0,0,2026,No,,Yes,Normal,Yes,< 2 seconds,No,56,2001,Yes,10,2245,Yes,10,2330,283,189,,0,0,0,0
+369,Study Initiation,0,0,1734,No,,Yes,Normal,Yes,< 2 seconds,No,16.4,1726,Yes,10,1745,Yes,10,1850,108,80,,0,0,0,0
+370,Study Initiation,0,0,1515,No,,Yes,Increased,Yes,2 - 5 seconds,No,34.1,1511,Yes,10,1515,No,,,,,113,,0,0,0
+371,Study Initiation,0,0,1745,No,,No,,No,,Yes,71.5,1627,Yes,10,1701,No,,,,,171,,0,0,0
+372,Study Initiation,0,0,1823,No,,Yes,Normal,Yes,< 2 seconds,Yes,60.25,1812,Yes,8,1741,Yes,12,2042,301,201,,0,0,0,0
+373,Study Initiation,0,0,1429,Not Documented,,Yes,Bounding,Yes,2 - 5 seconds,Yes,62.25,1517,Yes,12,1420,No,,,,,152,,0,0,0
+374,Study Initiation,0,0,1343,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,Yes,37.7,1349,Yes,10,1429,Yes,10,1533,203,141,,0,0,0,0
+375,Study Initiation,0,0,1236,No,,Yes,Normal,Yes,2 - 5 seconds,No,22,1235,Yes,10,1405,Yes,10,1612,135,99,,0,0,0,0
+376,Study Initiation,0,0,1105,Yes,Mild,Yes,Normal,Yes,< 2 seconds,No,19,1109,Yes,10,1211,No,,,129,94,,,0,0,0
+377,Study Initiation,0,0,1950,No,,No,,No,,No,60.2,1940,Yes,10,2050,Yes,10,2210,301,201,,0,0,0,0
+378,Study Initiation,0,0,1500,No,,Yes,Normal,Yes,< 2 seconds,No,83,1425,Yes,10,1456,Yes,10,1645,400,261,,0,0,0,0
+379,Study Initiation,0,0,2221,No,,Yes,Normal,Yes,< 2 seconds,Yes,22.8,2330,Yes,10,2257,Yes,10,2357,139,101,,0,0,0,0
+380,Study Initiation,0,0,1623,No,,Yes,Increased,Yes,< 2 seconds,No,17.3,1700,Yes,10,1730,No,,,,,69,,0,0,0
+381,Study Initiation,0,0,0315,No,,Yes,Weak,Yes,2 - 5 seconds,Yes,78.5,0538,Yes,10,0355,Yes,10,0545,380,249,,0,0,0,0
+382,Study Initiation,0,0,1128,No,,Yes,Normal,Yes,< 2 seconds,Yes,57.6,1102,Yes,10,1134,No,,,,,146,,0,0,0
+383,Study Initiation,0,0,2030,No,,Yes,Normal,Yes,< 2 seconds,Yes,56.1,2014,Yes,10,2140,No,,,,,143,,0,0,0
+384,Study Initiation,0,0,1730,No,,Yes,Normal,No,,Yes,73,1721,Yes,10,1800,Yes,10,1915,356,235,,0,0,0,0
+385,Study Initiation,0,0,1136,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,37.1,1136,Yes,11,1339,No,,,,,107,,0,0,0
+386,Study Initiation,0,0,0025,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,48,2324,Yes,10,0005,Yes,10,0107,248,168,,0,0,0,-1
+387,Study Initiation,0,0,2027,No,,Yes,Normal,Yes,< 2 seconds,No,26.3,0010,Yes,11,2113,Yes,9,0013,154,110,,1,0,0,1
+388,Study Initiation,0,0,1925,No,,No,,Yes,2 - 5 seconds,No,42.6,1921,Yes,10,2048,No,,,,,118,,0,0,0
+389,Study Initiation,0,0,0733,No,,No,,No,,Yes,51.85,0733,Yes,10,0902,Yes,10,0950,266,179,,0,0,0,0
+390,Study Initiation,0,0,1348,No,,Yes,Increased,Yes,2 - 5 seconds,Yes,33.7,1335,Yes,20,1400,No,,,186,130,,,0,0,0
+391,Study Initiation,0,0,2040,No,,Yes,Normal,Yes,< 2 seconds,Yes,60.6,2047,Yes,10,2040,Yes,10,2125,303,202,,0,0,0,0
+392,Study Initiation,0,0,1049,No,,No,,Yes,< 2 seconds,Yes,70.4,1248,Yes,23,1055,No,,,,,150,,0,0,-1
+393,Study Initiation,0,0,1525,No,,Yes,Normal,Yes,2 - 5 seconds,No,71.9,1530,Yes,10,1553,No,,,,,172,,0,0,0
+394,Study Initiation,0,0,1910,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,Yes,47,1858,Yes,10,1930,Yes,10,2110,244,165,,0,0,0,0
+395,Study Initiation,0,0,1819,No,,Yes,Normal,Yes,< 2 seconds,No,17,1753,No,,,No,,,118,86,,,0,,0
+396,Study Initiation,0,0,1330,No,,Yes,Normal,Yes,< 2 seconds,No,54.6,1233,Yes,10,1400,Yes,10,1554,277,186,,0,0,0,0
+397,Study Initiation,0,0,1455,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,47.5,1333,Yes,10,1429,Yes,5,1653,255,171,,0,0,0,0
+398,Study Initiation,0,0,1048,No,,Yes,Increased,Yes,< 2 seconds,Yes,49.5,1037,Yes,10,1109,Yes,10,1140,255,172,,0,0,0,0
+399,Study Initiation,0,0,1400,Yes,Moderate,Yes,Normal,Yes,2 - 5 seconds,No,31.6,1331,Yes,10,1407,Yes,10,1526,177,124,,0,0,0,0
+400,Study Initiation,0,0,2234,No,,Yes,Normal,Yes,< 2 seconds,Yes,41.4,2229,No,,,Yes,20,2340,219,150,,0,0,,0
+401,Study Initiation,0,0,1540,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,Yes,19.8,1725,Yes,10,1644,Yes,10,1814,125,93,,0,0,0,0
+402,Study Initiation,0,0,1715,No,,Yes,Normal,Yes,2 - 5 seconds,No,18.8,1721,Yes,20,1530,No,,,,,69,,0,0,0
+403,Study Initiation,0,0,1017,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,54.2,1009,Yes,10,1033,No,,,,,139,,0,0,0
+404,Study Initiation,0,0,1701,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,58.2,1700,Yes,10,1708,No,,,,,147,,0,0,0
+405,Study Initiation,0,0,1930,No,,Yes,Normal,Yes,< 2 seconds,No,76.6,1823,Yes,10,1926,No,,,,,180,,0,0,0
+406,Study Initiation,0,0,2209,No,,Yes,Normal,Yes,2 - 5 seconds,No,25.3,2142,Yes,10,2221,Yes,10,2305,150,107,,0,0,0,0
+407,Study Initiation,0,0,1340,No,,Yes,Bounding,Yes,2 - 5 seconds,Yes,44.1,1355,Yes,10,1340,No,,,,,120,,0,0,0
+408,Study Initiation,0,0,2000,No,,No,,Yes,< 2 seconds,No,39.9,1949,Yes,13,2000,No,,,,,111,,0,0,0
+409,Study Initiation,0,0,1908,Yes,Mild,Yes,Normal,Yes,< 2 seconds,No,24.5,1908,No,,,Yes,20,2037,146,105,,0,0,,0
+410,Study Initiation,0,0,2313,No,,Yes,Normal,Yes,< 2 seconds,Yes,56.2,2234,Yes,10,2359,Yes,10,0036,284,190,,0,-1,-1,-1
+411,Study Initiation,0,0,1519,No,,Yes,Normal,Yes,< 2 seconds,No,26.8,1519,No,,,Yes,10,1711,,,89,0,0,,0
+412,Study Initiation,0,0,1033,No,,Yes,Normal,Yes,< 2 seconds,Yes,26.4,1023,Yes,10,1050,No,,,,,88,,0,0,0
+413,Study Initiation,0,0,1138,Not Documented,,Yes,Normal,Yes,< 2 seconds,No,8.55,1135,No,,,Yes,20,1435,63,48,,0,0,,0
+414,Study Initiation,0,0,2305,Yes,Mild,Yes,Bounding,Yes,2 - 5 seconds,Yes,61,0040,Yes,8,0010,Yes,2,0122,,,152,0,-1,0,0
+415,Study Initiation,0,0,1203,No,,Yes,Normal,Yes,< 2 seconds,Yes,73.9,1151,Yes,14,1250,Yes,6,1400,360,237,,0,0,0,0
+416,Study Initiation,0,0,1258,No,,Yes,Normal,Yes,< 2 seconds,No,32,1248,Yes,10,1341,Yes,10,1511,179,125,,0,0,0,0
+417,Study Initiation,0,0,1709,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,66.5,1703,No,,,Yes,20,1855,,,155,0,0,,0
+418,Study Initiation,0,0,1843,No,,Yes,Normal,Yes,< 2 seconds,No,32.2,1934,Yes,10,1940,Yes,10,2045,180,126,,0,0,0,0
+419,Study Initiation,0,0,1443,Yes,Mild,Yes,Increased,Yes,2 - 5 seconds,No,42.2,1305,Yes,10,1445,No,,,,,117,,0,0,0
+420,Study Initiation,0,0,1358,No,,Yes,Normal,Yes,< 2 seconds,No,12.8,1352,Yes,10,1546,No,,,,,56,,0,0,0
+421,Study Initiation,0,0,0935,No,,Yes,Normal,Yes,2 - 5 seconds,No,27,0930,Yes,10,0946,No,,,,,90,,0,0,0
+422,Study Initiation,0,0,0920,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,18.6,0924,Yes,10,1001,No,,,,,73,,0,0,0
+423,Study Initiation,0,0,1109,No,,No,,Yes,2 - 5 seconds,No,77.8,1109,Yes,10,1140,Yes,10,1529,377,247,,0,0,0,0
+424,Study Initiation,0,0,1800,No,,Yes,Normal,Yes,< 2 seconds,No,48.9,1800,Yes,10,1932,Yes,10,2044,252,170,,0,0,0,0
+425,Study Initiation,0,0,0112,Yes,Severe,Yes,Normal,Yes,2 - 5 seconds,No,44,0100,Yes,10,0105,Yes,30,0330,,,121,0,0,0,0
+426,Study Initiation,0,0,1730,No,,Yes,Normal,Yes,< 2 seconds,Yes,52.8,1702,Yes,10,1743,No,,,,,137,,0,0,0
+427,Study Initiation,0,0,0939,No,,Yes,Normal,Yes,< 2 seconds,Yes,27.1,0942,Yes,10,0950,Yes,10,1245,157,112,,0,0,0,0
+428,Study Initiation,0,0,1530,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,50.9,1610,Yes,20,1522,No,,,261,176,,,0,0,0
+429,Study Initiation,0,0,1318,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,78.7,1304,Yes,10,1422,No,,,,,184,,0,0,0
+430,Study Initiation,0,0,0730,No,,Yes,Normal,Yes,< 2 seconds,Yes,45.5,0654,Yes,10,0743,No,,,,,123,,0,0,0
+431,Study Initiation,0,0,1427,No,,No,,Yes,2 - 5 seconds,No,20.6,1436,Yes,10,1500,Yes,10,1540,130,95,,0,0,0,0
+432,Study Initiation,0,0,1706,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,Yes,32.1,1725,Yes,10,1735,No,,,,,99,,0,0,0
+433,Study Initiation,0,0,1955,Yes,Mild,Yes,Weak,Yes,2 - 5 seconds,Yes,33.5,1927,Yes,10,1948,Yes,10,2054,185,129,,0,0,0,0
+434,Study Initiation,0,0,1800,No,,Yes,Weak,Yes,2 - 5 seconds,Yes,45.7,1742,Yes,20,1850,No,,,,,114,,0,0,0
+435,Study Initiation,0,0,0540,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,24.9,0538,Yes,10,0652,Yes,10,0804,148,106,,0,0,0,0
+436,Study Initiation,0,0,1700,No,,Yes,Normal,Yes,< 2 seconds,No,17.8,1700,Yes,11,1740,Yes,10,1845,114,85,,0,0,0,0
+437,Study Initiation,0,0,1337,No,,Yes,Normal,Yes,< 2 seconds,No,39.1,1341,Yes,20,1520,No,,,,,103,,0,0,0
+438,Study Initiation,0,0,1440,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,40.6,1419,Yes,10,1500,Yes,10,1600,216,148,,0,0,0,0
+439,Study Initiation,0,0,1324,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,Yes,59.5,1334,Yes,10,1415,No,,,,,149,,0,0,0
+440,Study Initiation,0,0,1419,No,,No,,No,,No,9.62,1305,Yes,10,1407,No,,,,,46,,0,0,0
+441,Study Initiation,0,0,1830,No,,Yes,Normal,Yes,< 2 seconds,No,15.9,1800,Yes,10,1908,Yes,10,2110,105,78,,0,0,0,0
+442,Study Initiation,0,0,1248,No,,No,,Yes,2 - 5 seconds,No,25,1248,Yes,10,1350,Yes,10,1741,148,107,,0,0,0,0
+443,Study Initiation,0,0,1730,Yes,Unknown,Yes,Normal,No,,No,27.2,1733,Yes,10,1837,Yes,10,1931,158,113,,0,0,0,0
+444,Study Initiation,0,0,2301,No,,Yes,Normal,Yes,2 - 5 seconds,No,50,2304,Yes,20,2305,No,,,,,121,,0,0,0
+445,Study Initiation,0,0,1008,No,,Yes,Normal,Yes,< 2 seconds,Yes,52.7,0957,No,,,Yes,19,1105,,,127,0,0,,0
+446,Study Initiation,0,0,1227,No,,Yes,Normal,Yes,< 2 seconds,Yes,28,1232,Yes,10,1318,No,,,,,91,,0,0,0
+447,Study Initiation,0,0,1028,No,,Yes,Increased,Yes,2 - 5 seconds,No,17.7,1031,Yes,20,1115,Yes,10,1354,107,81,,0,0,0,0
+448,Study Initiation,0,0,1115,Yes,Moderate,No,,Yes,< 2 seconds,Yes,62.5,1046,Yes,10,1128,No,,,,,155,,0,0,0
+449,Study Initiation,0,0,2000,No,,Yes,Normal,Yes,< 2 seconds,Yes,59.7,1913,Yes,10,1957,No,,,,,149,,0,0,0
+450,Study Initiation,0,0,1257,No,,Yes,Normal,Yes,2 - 5 seconds,No,20.9,1259,Yes,20,1330,No,,,,,74,,0,0,0
+451,Study Initiation,0,0,1317,No,,No,,Yes,< 2 seconds,No,14.4,1530,Yes,10,1321,Yes,10,1510,97,73,,0,0,0,0
+452,Study Initiation,0,0,1450,No,,Yes,Normal,Yes,< 2 seconds,No,43.6,1427,Yes,10,1555,Yes,10,1800,229,156,,0,0,0,0
+453,Study Initiation,0,0,1010,No,,Yes,Weak,Yes,< 2 seconds,No,14.4,1030,Yes,20,1030,No,,,90,68,,,0,0,0
+454,Study Initiation,0,0,1603,No,,Yes,Weak,Yes,2 - 5 seconds,Yes,20,1605,Yes,10,1623,No,,,,,77,,0,0,0
+455,Study Initiation,0,0,1045,No,,Yes,Increased,Yes,2 - 5 seconds,Yes,47.6,1022,Yes,10,1030,Yes,10,1118,246,167,,0,0,0,0
+456,Study Initiation,0,0,1915,No,,Yes,Increased,Yes,< 2 seconds,No,18.9,2042,Yes,10,1941,No,,,,,74,,0,0,0
+457,Study Initiation,0,0,1455,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,72.2,1459,Yes,10,1540,No,,,,,172,,0,0,0
+458,Study Initiation,0,0,0930,No,,Yes,Increased,Yes,2 - 5 seconds,Yes,44.4,1000,Yes,20,1000,No,,,232,158,,,0,0,0
+459,Study Initiation,0,0,0730,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,74.9,0720,Yes,26,0725,No,,,,,151,,0,0,0
+460,Study Initiation,0,0,1013,No,,No,,Yes,2 - 5 seconds,Yes,62.25,1013,No,,,Yes,10,1230,,,154,0,0,,0
+461,Study Initiation,0,0,1100,No,,Yes,Increased,Yes,< 2 seconds,No,31.5,1045,Yes,10,1015,No,,,,,98,,0,0,0
+462,Study Initiation,0,0,1130,No,,Yes,Weak,Yes,2 - 5 seconds,No,38.1,1125,Yes,20,1140,Yes,10,1500,205,142,,0,0,0,0
+463,Study Initiation,0,0,1724,No,,Yes,Normal,Yes,2 - 5 seconds,No,18.5,1721,No,,,Yes,20,2128,119,88,,0,0,,0
+464,Study Initiation,0,0,1929,No,,Yes,Normal,Yes,2 - 5 seconds,No,35.7,1929,Yes,10,2040,No,,,,,105,,0,0,0
+465,Study Initiation,0,0,1500,No,,Yes,Normal,Yes,< 2 seconds,No,19.3,1430,Yes,10,1542,Yes,10,1709,123,91,,0,0,0,0
+466,Study Initiation,0,0,0021,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,76.9,2313,Yes,10,2344,No,,,,,181,,0,-1,-1
+467,Study Initiation,0,0,1605,No,,Yes,Normal,Yes,2 - 5 seconds,No,41,1513,Yes,10,1615,Yes,10,1655,220,150,,0,0,0,0
+468,Study Initiation,0,0,1230,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,69.3,1200,Yes,14,1242,Yes,6,1435,340,225,,0,0,0,0
+469,Study Initiation,0,0,2000,No,,Yes,Normal,Yes,< 2 seconds,No,68.1,1845,Yes,10,2010,No,,,,,165,,0,0,0
+470,Study Initiation,0,0,1528,No,,Yes,Normal,Yes,< 2 seconds,No,11.1,1515,Yes,10,1636,Yes,10,1736,79,61,,0,0,0,0
+471,Study Initiation,0,0,0948,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,69.4,0926,Yes,10,1024,No,,,,,167,,0,0,0
+472,Study Initiation,0,0,2054,No,,Yes,Normal,Yes,< 2 seconds,No,39.7,2024,No,,,Yes,10,2355,,,113,0,0,,0
+473,Study Initiation,0,0,1237,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,61.1,1237,Yes,10,1315,No,,,,,152,,0,0,0
+474,Study Initiation,0,0,1728,No,,Yes,Normal,Yes,< 2 seconds,Yes,61.1,1720,Yes,10,1750,No,,,,,152,,0,0,0
+475,Study Initiation,0,0,1258,No,,Yes,Normal,Yes,< 2 seconds,Yes,63.6,1200,Yes,20,1309,No,,,316,210,,,0,0,0
+476,Study Initiation,0,0,2000,No,,Yes,Normal,Yes,< 2 seconds,Yes,25.4,2033,Yes,20,2100,No,,,,,81,,0,0,0
+477,Study Initiation,0,0,1815,Yes,Mild,Yes,Normal,Yes,< 2 seconds,No,30.6,1754,Yes,10,1824,Yes,10,2024,173,122,,0,0,0,0
+478,Study Initiation,0,0,2112,No,,Yes,Normal,Yes,< 2 seconds,Yes,74.4,2105,Yes,10,2238,Yes,10,0022,362,238,,1,0,0,0
+479,Study Initiation,0,0,1300,Yes,Mild,Yes,Normal,Yes,< 2 seconds,No,41.5,1455,Yes,10,1349,Yes,10,1513,219,150,,0,0,0,0
+480,Study Initiation,0,0,1440,No,,Yes,Normal,Yes,2 - 5 seconds,No,53.1,1430,No,,,Yes,10,1515,,,137,0,0,,0
+481,Study Initiation,0,0,0700,No,,Yes,Normal,Yes,2 - 5 seconds,No,61.5,0627,Yes,20,0702,No,,,,,140,,0,0,0
+482,Study Initiation,0,0,1320,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,30.9,1353,Yes,10,1413,Yes,10,1508,174,123,,0,0,0,0
+483,Study Initiation,0,0,1600,No,,Yes,Normal,Yes,< 2 seconds,No,26.6,1550,Yes,10,1635,No,,,,,89,,0,0,0
+484,Study Initiation,0,0,2200,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,57.2,2213,Yes,10,2130,Yes,10,2220,,,145,0,0,0,0
+485,Study Initiation,0,0,1917,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,70,1901,Yes,7,2002,Yes,7,2218,,,162,0,0,0,0
+486,Study Initiation,0,0,2115,No,,Yes,Weak,Yes,2 - 5 seconds,Yes,72.5,2051,Yes,10,2135,Yes,10,2232,354,233,,0,0,0,0
+487,Study Initiation,0,0,0600,Yes,Not Documented,Yes,Normal,Yes,< 2 seconds,Yes,47.9,0919,Yes,20,0620,No,,,,,118,,0,0,0
+488,Study Initiation,0,0,0900,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,55.7,0858,Yes,18,0841,No,,,,,133,,0,0,0
+489,Study Initiation,0,0,1830,No,,Yes,Normal,Yes,< 2 seconds,No,45.7,1812,Yes,10,1901,Yes,10,2015,238,162,,0,0,0,0
+490,Study Initiation,0,0,0850,No,,Yes,Normal,Yes,< 2 seconds,Yes,47,0830,Yes,10,0915,Yes,10,1100,244,166,,31,0,0,0
+491,Study Initiation,0,0,1025,No,,Yes,Normal,Yes,< 2 seconds,No,26.5,1045,Yes,20,1119,No,,,,,82,,0,0,0
+492,Study Initiation,0,0,1245,No,,Yes,Weak,Yes,2 - 5 seconds,Yes,86.2,1300,Yes,20,1233,No,,,,,180,,0,0,0
+493,Study Initiation,0,0,1553,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,26.8,1634,Yes,10,1615,Yes,10,1715,156,111,,0,0,0,0
+494,Study Initiation,0,0,1430,No,,Yes,Normal,Yes,< 2 seconds,No,11.6,1423,Yes,10,1352,No,,,,,53,,0,0,0
+495,Study Initiation,0,0,1158,No,,Yes,Normal,Yes,< 2 seconds,No,39.1,1158,Yes,10,1240,No,,,,,112,,0,0,0
+496,Study Initiation,0,0,1401,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,25.5,1408,Yes,10,1615,Yes,10,1718,151,108,,0,0,0,0
+497,Study Initiation,0,0,0920,No,,Yes,Normal,Yes,< 2 seconds,Yes,56.4,0900,Yes,10,1027,No,,,,,143,,0,0,0
+498,Study Initiation,0,0,1350,No,,Yes,Normal,No,,No,46.2,1710,Yes,10,1405,No,,,,,128,,0,0,0
+499,Study Initiation,0,0,2015,No,,Yes,Normal,Yes,< 2 seconds,No,9.5,2000,Yes,20,2015,No,,,,,46,,0,0,0
+500,Study Initiation,0,0,1100,Not Documented,,Yes,Normal,Yes,2 - 5 seconds,No,31.1,1101,Yes,10,1045,Yes,10,1400,175,123,,0,0,0,0
+501,Study Initiation,0,0,1900,No,,Yes,Normal,Yes,< 2 seconds,Yes,60.06,1900,No,,,Yes,20,1938,300,200,,0,0,,0
+502,Study Initiation,0,0,1130,No,,Yes,Normal,Yes,< 2 seconds,Yes,46.2,0835,Yes,20,0910,No,,,,,115,,0,0,0
+503,Study Initiation,0,0,2100,No,,Yes,Normal,Yes,< 2 seconds,Yes,50.7,2240,Yes,10,2110,No,,,,,132,,0,0,0
+504,Study Initiation,0,0,1859,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,14.3,1901,Yes,29,1919,No,,,,,62,,0,0,0
+505,Study Initiation,0,0,1238,No,,Yes,Normal,Yes,< 2 seconds,Yes,58,1250,Yes,10,1310,Yes,10,1426,291,195,,0,0,0,0
+506,Study Initiation,0,0,1437,No,,Yes,Normal,Yes,< 2 seconds,Yes,22.7,1441,Yes,10,1535,No,,,,,82,,0,0,0
+507,Study Initiation,0,0,1100,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,49.5,1119,Yes,10,1130,Yes,10,1230,254,172,,0,0,0,0
+508,Study Initiation,0,0,1730,No,,Yes,Normal,Yes,< 2 seconds,No,40.2,1908,Yes,10,1908,No,,,,,114,,0,0,0
+509,Study Initiation,0,0,1914,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,Yes,63.2,2004,No,,,Yes,10,2030,,,156,0,0,,0
+510,Study Initiation,0,0,1242,No,,Yes,Normal,Yes,< 2 seconds,No,36.3,1221,Yes,10,1404,Yes,10,1647,197,137,,0,0,0,0
+511,Study Initiation,0,0,1555,No,,Yes,Normal,Yes,< 2 seconds,Yes,75.4,1447,Yes,10,1535,Yes,10,1721,367,241,,0,0,0,0
+512,Study Initiation,0,0,1937,No,,No,,Yes,< 2 seconds,Yes,97.9,1916,No,,,Yes,20,2206,464,301,,0,0,,0
+513,Study Initiation,0,0,0716,No,,Yes,Weak,Yes,> 5 seconds,No,25.6,0613,Yes,20,0830,No,,,,,82,,0,0,0
+514,Study Initiation,0,0,1645,No,,Yes,Normal,Yes,< 2 seconds,Yes,59.5,1620,Yes,20,1645,No,,,298,199,,,0,0,0
+515,Study Initiation,0,0,1334,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,62.6,1337,Yes,10,1440,Yes,10,1600,311,207,,0,0,0,0
+516,Study Initiation,0,0,1849,No,,No,,Yes,2 - 5 seconds,Yes,60,1805,Yes,8,1854,Yes,12,2048,300,200,,0,0,0,0
+517,Study Initiation,0,0,1608,No,,Yes,Normal,Yes,2 - 5 seconds,No,13.1,1830,Yes,20,1603,No,,,89,68,,,0,0,0
+518,Study Initiation,0,0,2026,No,,Yes,Normal,Yes,< 2 seconds,Yes,33.7,2026,Yes,10,2115,Yes,10,2300,187,130,,0,0,0,0
+519,Study Initiation,0,0,1300,No,,Yes,Normal,Yes,< 2 seconds,Yes,26,1228,Yes,10,1338,No,,,,,88,,0,0,0
+520,Study Initiation,0,0,1700,No,,Yes,Increased,Yes,< 2 seconds,No,31.1,1546,Yes,10,1730,No,,,,,97,,0,0,0
+521,Study Initiation,0,0,1359,Yes,Mild,Yes,Normal,Yes,< 2 seconds,No,78,1351,Yes,10,1420,Yes,10,1459,378,248,,0,0,0,0
+522,Study Initiation,0,0,1333,No,,Yes,Normal,Yes,< 2 seconds,Yes,41,1502,Yes,10,1359,No,,,,,115,,0,0,0
+523,Study Initiation,0,0,1136,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,55.4,1142,Yes,5,1108,Yes,15,1338,280,188,,0,0,0,0
+524,Study Initiation,0,0,0855,No,,Yes,Weak,Yes,2 - 5 seconds,Yes,29.8,0837,Yes,10,0855,No,,,,,95,,0,0,0
+525,Study Initiation,0,0,1346,Yes,Not Documented,Yes,Normal,Yes,< 2 seconds,Yes,18.7,1346,No,,,Yes,20,1535,120,89,,0,0,,0
+526,Study Initiation,0,0,2006,No,,Yes,Normal,Yes,< 2 seconds,No,37.2,1918,Yes,10,2046,Yes,10,2155,201,139,,0,0,0,0
+527,Study Initiation,0,0,1959,No,,Yes,Normal,Yes,< 2 seconds,Yes,21.7,1900,Yes,10,1940,Yes,10,2120,135,99,,0,0,0,0
+528,Study Initiation,0,0,1843,No,,Yes,Normal,Yes,< 2 seconds,Yes,53.1,1843,Yes,20,1915,No,,,,,126,,0,0,0
+529,Study Initiation,0,0,1313,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,35.5,1157,Yes,10,1240,Yes,10,1345,194,135,,0,0,0,0
+530,Study Initiation,0,0,1500,No,,Yes,Weak,Yes,2 - 5 seconds,No,31.6,1444,Yes,10,1425,Yes,10,1520,177,124,,0,0,0,0
+531,Study Initiation,0,0,0915,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,36.2,0915,Yes,20,0916,No,,,197,137,,,0,0,0
+532,Study Initiation,0,0,1317,Yes,Mild,Yes,Increased,Yes,2 - 5 seconds,No,80.5,1255,Yes,10,1355,No,,,,,188,,0,0,0
+533,Study Initiation,0,0,1030,No,,Yes,Normal,Yes,< 2 seconds,Yes,71.7,1019,Yes,10,1235,No,,,,,171,,0,0,0
+534,Study Initiation,0,0,1515,No,,Yes,Normal,Yes,< 2 seconds,Yes,52.6,1512,Yes,10,1617,Yes,10,1937,268,180,,0,0,0,0
+535,Study Initiation,0,0,2030,No,,Yes,Normal,Yes,< 2 seconds,Yes,54.2,1953,Yes,10,2118,No,,,,,139,,0,0,0
+536,Study Initiation,0,0,0820,No,,Yes,Normal,Yes,< 2 seconds,Yes,68.3,0812,Yes,20,0838,Yes,10,1147,336,222,,3,0,0,0
+537,Study Initiation,0,0,1900,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,No,35.1,1759,Yes,10,1856,Yes,10,2000,192,134,,0,0,0,0
+538,Study Initiation,0,0,1339,No,,Yes,Normal,Yes,< 2 seconds,No,33.7,1334,Yes,10,1335,No,,,,,102,,0,0,0
+539,Study Initiation,0,0,0712,No,,No,,No,,No,22.6,0714,Yes,10,0725,Yes,10,0812,138,100,,0,0,0,0
+540,Study Initiation,0,0,0830,No,,Yes,Normal,Yes,< 2 seconds,Yes,34,0816,Yes,10,0550,No,,,,,102,,0,0,0
+541,Study Initiation,0,0,1812,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,49.8,1727,Yes,20,1816,No,,,256,173,,,0,0,0
+542,Study Initiation,0,0,2051,No,,Yes,Normal,Yes,< 2 seconds,Yes,26.2,2051,Yes,10,2140,No,,,,,88,,0,0,0
+543,Study Initiation,0,0,1305,No,,Yes,Normal,Yes,< 2 seconds,No,9.7,1400,Yes,10,1410,Yes,10,1701,71,55,,0,0,0,0
+544,Study Initiation,0,0,1650,No,,No,,No,,Yes,45.2,1703,Yes,20,1800,No,,,,,114,,0,0,0
+545,Study Initiation,0,0,1434,No,,Yes,Normal,Yes,< 2 seconds,Yes,19.9,1431,Yes,10,1455,No,,,,,76,,0,0,0
+546,Study Initiation,0,0,1534,No,,Yes,Normal,Yes,< 2 seconds,No,48.5,1542,Yes,10,1706,No,,,,,129,,0,0,0
+547,Study Initiation,0,0,1814,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,63.1,2308,Yes,10,1914,Yes,10,0100,,,156,1,0,0,0
+548,Study Initiation,0,0,1906,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,42.1,1953,Yes,10,1930,No,,,,,117,,0,0,0
+549,Study Initiation,0,0,0907,No,,Yes,Normal,Yes,2 - 5 seconds,No,37.7,1040,Yes,10,1033,No,,,,,109,,0,0,0
+550,Study Initiation,0,0,1634,No,,Yes,Normal,Yes,< 2 seconds,No,14.6,1635,Yes,20,1655,No,,,98,74,,,0,0,0
+551,Study Initiation,0,0,1150,No,,Yes,Normal,Yes,2 - 5 seconds,No,8.75,1140,Yes,10,1250,No,,,,,42,,0,0,0
+552,Study Initiation,0,0,1506,No,,Yes,Increased,Yes,< 2 seconds,No,23.4,1436,Yes,10,1542,No,,,,,83,,0,0,0
+553,Study Initiation,0,0,1426,No,,Yes,Normal,Yes,< 2 seconds,No,15.3,1447,Yes,10,1530,Yes,10,1635,102,76,,0,0,0,0
+554,Study Initiation,0,0,1446,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,58.6,1420,Yes,10,1446,Yes,10,1720,294,197,,0,0,0,0
+555,Study Initiation,0,0,1230,No,,Yes,Normal,Yes,2 - 5 seconds,No,13.6,1208,Yes,10,1318,No,,,,,58,,0,0,0
+556,Study Initiation,0,0,1627,No,,Yes,Normal,Yes,< 2 seconds,No,20.9,1628,Yes,10,1648,No,,,,,78,,0,0,0
+557,Study Initiation,0,0,1500,No,,Yes,Normal,Yes,< 2 seconds,Yes,51.8,1504,Yes,10,1547,Yes,10,1644,264,178,,0,0,0,0
+558,Study Initiation,0,0,1110,No,,Yes,Normal,Yes,< 2 seconds,Yes,70.7,1037,Yes,10,1100,Yes,10,1215,347,229,,0,0,0,0
+559,Study Initiation,0,0,2000,No,,Yes,Normal,Yes,< 2 seconds,No,15.5,1917,Yes,10,1958,No,,,,,64,,0,0,0
+560,Study Initiation,0,0,1330,No,,Yes,Normal,Yes,< 2 seconds,No,51.6,1410,No,,,Yes,10,1432,,,135,0,0,,0
+561,Study Initiation,0,0,1742,No,,Yes,Increased,Yes,2 - 5 seconds,No,10.5,1738,Yes,10,1812,Yes,10,1912,76,59,,0,0,0,0
+562,Study Initiation,0,0,1739,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,35,2010,Yes,10,1758,Yes,10,1915,183,127,,0,0,0,0
+563,Study Initiation,0,0,1801,No,,Yes,Normal,Yes,< 2 seconds,No,30.4,1804,Yes,7,1803,Yes,26,2053,,,95,0,0,0,0
+564,Study Initiation,0,0,1318,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,60.6,1317,Yes,17,1413,No,,,,,143,,0,0,0
+565,Study Initiation,0,0,0809,No,,Yes,Normal,Yes,< 2 seconds,Yes,88.1,0805,No,,,Yes,20,1014,422,275,,0,0,,0
+566,Study Initiation,0,0,0940,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,57.2,1225,Yes,35,1030,No,,,252,175,,,0,0,0
+567,Study Initiation,0,0,1838,No,,Yes,Normal,Yes,2 - 5 seconds,No,44,1812,Yes,10,2100,No,,,,,121,,0,0,0
+568,Study Initiation,0,0,1800,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,51.3,1726,Yes,10,1900,No,,,,,134,,0,0,0
+569,Study Initiation,0,0,1630,No,,Yes,Normal,Yes,< 2 seconds,Yes,41.6,1830,Yes,10,1730,No,,,,,116,,0,0,0
+570,Study Initiation,0,0,1600,Yes,Moderate,Yes,Normal,Yes,2 - 5 seconds,No,35.7,1532,Yes,10,1630,No,,,,,105,,0,0,0
+571,Study Initiation,0,0,0448,No,,Yes,Normal,Yes,< 2 seconds,Yes,39.1,0448,Yes,10,0620,Yes,10,0741,209,144,,0,0,0,0
+572,Study Initiation,0,0,1400,No,,Yes,Normal,Yes,< 2 seconds,No,59.1,1348,Yes,3,1412,Yes,17,1430,296,198,,0,0,0,0
+573,Study Initiation,0,0,1545,No,,No,,Yes,2 - 5 seconds,No,40.6,1538,Yes,20,1610,No,,,216,148,,,0,0,0
+574,Study Initiation,0,0,1314,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,19.5,1304,Yes,10,1324,Yes,10,1351,124,92,,0,0,0,0
+575,Study Initiation,0,0,1630,No,,Yes,Normal,Yes,< 2 seconds,No,34,1623,Yes,10,1728,Yes,10,1835,187,131,,0,0,0,0
+576,Study Initiation,0,0,1028,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,44.6,1029,Yes,20,1123,No,,,233,159,,,0,0,0
+577,Study Initiation,0,0,1851,Yes,Mild,Yes,Bounding,Yes,2 - 5 seconds,Yes,69.3,1851,Yes,22,1920,Yes,10,2125,300,205,,0,0,0,0
+578,Study Initiation,0,0,1250,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,53.1,1250,Yes,12,1310,Yes,7,1517,273,183,,0,0,0,0
+579,Study Initiation,0,0,1420,No,,Yes,Normal,Yes,2 - 5 seconds,No,33.4,1324,Yes,10,1440,Yes,10,1559,185,129,,0,0,0,0
+580,Study Initiation,0,0,2200,Not Documented,,Not Documented,,Not Documented,,No,35.3,2120,No,,,Yes,20,0035,193,134,,0,-1,,-1
+581,Study Initiation,0,0,1616,No,,Yes,Increased,Yes,2 - 5 seconds,No,12.7,1603,Yes,10,1705,No,,,,,56,,0,0,0
+582,Study Initiation,0,0,1700,No,,Yes,Normal,Yes,2 - 5 seconds,No,27.5,1830,Yes,19,1730,No,,,160,114,,,0,0,0
+583,Study Initiation,0,0,1833,No,,Yes,Normal,Yes,< 2 seconds,No,27.8,1833,Yes,10,1930,No,,,,,91,,0,0,0
+584,Study Initiation,0,0,1440,No,,No,,No,,No,68.5,1406,Yes,20,1545,No,,,337,223,,,0,0,0
+585,Study Initiation,0,0,1252,No,,Yes,Normal,Yes,< 2 seconds,No,33,1252,Yes,10,1459,Yes,10,1650,183,128,,0,0,0,0
+586,Study Initiation,0,0,1833,No,,Yes,Normal,Yes,< 2 seconds,Yes,33,1745,Yes,20,1819,No,,,,,95,,0,0,0
+587,Study Initiation,0,0,2055,No,,No,,Yes,< 2 seconds,Yes,23,2113,Yes,10,2130,Yes,10,2320,140,101,,0,0,0,0
+588,Study Initiation,0,0,1730,No,,Yes,Normal,Yes,< 2 seconds,Yes,41,1708,Yes,14,1708,No,,,,,112,,0,0,0
+589,Study Initiation,0,0,0930,No,,No,,Yes,2 - 5 seconds,Yes,67,0846,Yes,10,0915,Yes,10,1010,330,219,,0,0,0,0
+590,Study Initiation,0,0,2345,No,,Yes,Normal,Yes,< 2 seconds,No,36.1,2328,Yes,10,0015,Yes,10,0115,197,136,,0,-1,0,-1
+591,Study Initiation,0,0,0958,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,59.4,0952,Yes,10,1030,Yes,10,1130,298,199,,0,0,0,0
+592,Study Initiation,0,0,1745,No,,Yes,Normal,Yes,< 2 seconds,No,27.09,1918,Yes,10,1700,No,,,,,89,,0,0,0
+593,Study Initiation,0,0,1409,No,,Yes,Weak,Yes,2 - 5 seconds,Yes,41.6,1338,Yes,10,1420,Yes,10,1525,220,151,,0,0,0,0
+594,Study Initiation,0,0,1134,No,,Yes,Increased,Yes,2 - 5 seconds,Yes,39.1,1134,Yes,10,1330,No,,,,,113,,0,0,0
+595,Study Initiation,0,0,1522,No,,Yes,Normal,Yes,< 2 seconds,No,12.5,1516,Yes,8,1220,No,,,,,56,,0,0,0
+596,Study Initiation,0,0,1100,No,,Yes,Normal,Yes,< 2 seconds,Yes,60.9,1042,Yes,10,1125,Yes,10,1336,304,204,,0,0,0,0
+597,Study Initiation,0,0,1030,No,,Yes,Normal,Yes,< 2 seconds,Yes,58.5,0944,Yes,10,1015,No,,,,,147,,0,0,0
+598,Study Initiation,0,0,2040,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,24.9,2017,Yes,20,2050,No,,,,,80,,0,0,0
+599,Study Initiation,0,0,1238,No,,Yes,Normal,Yes,< 2 seconds,Yes,32.35,1233,No,,,Yes,10,1701,,,99,0,0,,0
+600,Study Initiation,0,0,1632,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,57.4,1535,Yes,10,1630,No,,,,,145,,0,0,0
+601,Study Initiation,0,0,1400,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,56.2,1347,Yes,20,1400,No,,,,,143,,0,0,0
+602,Study Initiation,0,0,2252,No,,Yes,Normal,Yes,2 - 5 seconds,No,39.3,2257,Yes,20,2308,No,,,,,104,,-1,-1,-1
+603,Study Initiation,0,0,0315,No,,Yes,Normal,Yes,< 2 seconds,Yes,44.2,0315,Yes,10,0350,No,,,,,121,,0,0,0
+604,Study Initiation,0,0,0927,No,,Yes,Normal,Yes,2 - 5 seconds,No,31.6,0927,Yes,10,0935,Yes,10,1117,177,124,,0,0,0,0
+605,Study Initiation,0,0,1622,No,,Yes,Normal,Yes,< 2 seconds,No,39,1551,Yes,10,1708,No,,,,,112,,0,0,0
+606,Study Initiation,0,0,1730,No,,Yes,Increased,Yes,2 - 5 seconds,No,42.9,1719,Yes,10,1751,Yes,10,1820,226,154,,0,0,0,0
+607,Study Initiation,0,0,1722,No,,Yes,Weak,Yes,2 - 5 seconds,Yes,26.3,2053,Yes,10,1742,No,,,,,88,,0,0,0
+608,Study Initiation,0,0,1544,No,,Yes,Weak,Yes,2 - 5 seconds,Yes,32.2,1720,Yes,10,1628,No,,,,,99,,0,0,0
+609,Study Initiation,0,0,1318,No,,Yes,Normal,Yes,2 - 5 seconds,No,21.1,1303,Yes,10,1424,Yes,10,1545,131,96,,0,0,0,0
+610,Study Initiation,0,0,2240,No,,Yes,Normal,Yes,2 - 5 seconds,No,64.8,2240,Yes,10,0206,No,,,,,159,,-1,0,-1
+611,Study Initiation,0,0,1400,No,,Yes,Normal,Yes,< 2 seconds,Yes,92.1,1127,Yes,10,1149,Yes,10,1529,439,286,,0,0,0,0
+612,Study Initiation,0,0,1849,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,62.5,1849,Yes,10,1944,No,,,,,155,,0,0,0
+613,Study Initiation,0,0,1709,No,,Yes,Normal,Yes,< 2 seconds,No,47.9,1547,Yes,10,1657,No,,,,,128,,0,0,0
+614,Study Initiation,0,0,1633,No,,Yes,Normal,Yes,< 2 seconds,No,16,1335,Yes,10,1430,Yes,10,1815,105,79,,0,0,0,0
+615,Study Initiation,0,0,1945,No,,Yes,Normal,Yes,< 2 seconds,Yes,54.5,1945,Yes,10,2055,Yes,20,2325,,,117,0,0,0,0
+616,Study Initiation,0,0,1652,No,,Yes,Weak,Yes,2 - 5 seconds,Yes,53,1715,Yes,10,1800,No,,,,,137,,0,0,0
+617,Study Initiation,0,0,1215,No,,Yes,Normal,Yes,< 2 seconds,Yes,29.1,1153,No,,,Yes,20,1300,166,118,,0,0,,0
+618,Study Initiation,0,0,2031,No,,Yes,Normal,Yes,< 2 seconds,Yes,45.9,2001,Yes,10,2118,No,,,,,124,,0,0,0
+619,Study Initiation,0,0,1243,No,,Yes,Normal,Yes,< 2 seconds,No,47.65,1244,Yes,10,1407,Yes,10,1447,246,167,,0,0,0,0
+620,Study Initiation,0,0,1030,No,,Yes,Normal,Yes,2 - 5 seconds,No,20.5,1002,No,,,Yes,10,1130,,,78,0,0,,0
+621,Study Initiation,0,0,1545,No,,Yes,Weak,Yes,2 - 5 seconds,Yes,78.2,1551,Yes,20,1600,No,,,,,168,,0,0,0
+622,Study Initiation,0,0,1733,No,,Yes,Normal,Yes,< 2 seconds,No,12.5,1723,Yes,10,1723,No,,,,,55,,0,0,0
+623,Study Initiation,0,0,1850,No,,Yes,Normal,Yes,< 2 seconds,No,46,1823,Yes,10,2035,Yes,10,2234,239,163,,0,0,0,0
+624,Study Initiation,0,0,1950,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,29.6,2220,Yes,20,2130,No,,,168,119,,,0,0,0
+625,Study Initiation,0,0,0635,No,,Yes,Normal,Yes,< 2 seconds,Yes,29.4,0636,Yes,13,0654,Yes,10,0903,165,117,,0,0,0,0
+626,Study Initiation,0,0,1223,No,,Yes,Normal,Yes,< 2 seconds,Yes,96.3,1310,Yes,10,1233,Yes,10,1357,458,297,,0,0,0,0
+627,Study Initiation,0,0,2218,No,,Yes,Normal,Yes,> 5 seconds,No,55,2210,Yes,10,2130,Yes,10,0000,267,181,,1,0,0,0
+628,Study Initiation,0,0,1114,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,No,29.4,1335,Yes,10,1152,Yes,10,1352,167,118,,0,0,0,0
+629,Study Initiation,0,0,1655,No,,Yes,Normal,Yes,< 2 seconds,No,33.1,1538,Yes,10,1655,No,,,,,101,,0,0,0
+630,Study Initiation,0,0,1604,No,,Yes,Normal,Yes,< 2 seconds,Yes,43.5,1526,Yes,10,1556,No,,,,,120,,0,0,0
+631,Study Initiation,0,0,1402,No,,Yes,Normal,Yes,< 2 seconds,No,24,1424,Yes,10,1420,Yes,10,1525,144,104,,0,0,0,0
+632,Study Initiation,0,0,1600,No,,Yes,Bounding,Yes,< 2 seconds,No,42.7,1541,Yes,20,1710,No,,,,,109,,0,0,0
+633,Study Initiation,0,0,1330,No,,Yes,Weak,Yes,2 - 5 seconds,Yes,44,1304,Yes,10,1335,Yes,10,1436,231,157,,0,0,0,0
+634,Study Initiation,0,0,1128,No,,Yes,Normal,Yes,< 2 seconds,No,55.9,1128,No,,,Yes,10,1253,,,142,0,0,,0
+635,Study Initiation,0,0,0922,Yes,Severe,Yes,Normal,Yes,< 2 seconds,Yes,77,0900,Yes,10,1000,Yes,10,1130,,,181,0,0,0,0
+636,Study Initiation,0,0,1158,Yes,Unknown,No,,Yes,< 2 seconds,Yes,38.4,1333,Yes,10,1236,Yes,10,1400,207,143,,0,0,0,0
+637,Study Initiation,0,0,1120,No,,Yes,Normal,No,,Yes,37.5,1232,Yes,43,1120,No,,,167,122,,,0,0,0
+638,Study Initiation,0,0,1338,No,,Yes,Normal,Yes,< 2 seconds,No,34.1,1223,Yes,20,1250,No,,,,,95,,0,0,0
+639,Study Initiation,0,0,1810,No,,Yes,Normal,Yes,2 - 5 seconds,No,58.6,1810,Yes,10,1830,No,,,,,147,,0,0,0
+640,Study Initiation,0,0,1750,No,,Yes,Normal,Yes,< 2 seconds,No,38.8,1745,Yes,10,1844,Yes,10,2017,208,143,,0,0,0,0
+641,Study Initiation,0,0,1525,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,12.1,1457,Yes,10,1545,No,,,,,54,,0,0,0
+642,Study Initiation,0,0,0710,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,81.3,0715,Yes,10,0735,Yes,10,0840,393,257,,0,0,0,0
+643,Study Initiation,0,0,1157,No,,Yes,Normal,Yes,< 2 seconds,Yes,64.45,1157,No,,,Yes,10,1348,,,158,0,0,,0
+644,Study Initiation,0,0,1513,Yes,Mild,Yes,Normal,Yes,< 2 seconds,No,58.9,1425,Yes,10,1508,Yes,10,1600,295,197,,0,0,0,0
+645,Study Initiation,0,0,0956,No,,No,,Yes,2 - 5 seconds,Yes,57.2,1004,Yes,10,1017,Yes,10,1055,288,193,,0,0,0,0
+646,Study Initiation,0,0,1707,Yes,Unknown,Yes,Weak,No,,No,23.9,1715,Yes,10,1725,Yes,10,1815,144,104,,0,0,0,0
+647,Study Initiation,0,0,1437,No,,Yes,Normal,Yes,< 2 seconds,Yes,36.8,1424,Yes,10,1445,Yes,10,1550,199,138,,0,0,0,0
+648,Study Initiation,0,0,1022,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,30.7,1023,Yes,10,1140,No,,,,,96,,0,0,0
+649,Study Initiation,0,0,2036,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,54.6,1029,Yes,20,2055,No,,,,,131,,0,0,0
+650,Study Initiation,0,0,0837,No,,Yes,Weak,Yes,< 2 seconds,Yes,54.8,0820,Yes,10,0820,No,,,,,140,,0,0,0
+651,Study Initiation,0,0,1310,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,Yes,65.4,1310,Yes,10,1329,No,,,,,160,,0,0,0
+652,Study Initiation,0,0,1505,No,,Yes,Normal,Yes,< 2 seconds,No,23.9,1515,Yes,10,1624,Yes,10,1824,144,104,,0,0,0,0
+653,Study Initiation,0,0,1830,Not Documented,,Not Documented,,Not Documented,,No,24.2,1811,Yes,10,1905,No,,,,,84,,0,0,0
+654,Study Initiation,0,0,1145,Yes,Mild,Yes,Weak,Yes,2 - 5 seconds,Yes,45.9,1147,Yes,20,1224,No,,,239,162,,,0,0,0
+655,Study Initiation,0,0,1932,No,,Yes,Increased,Yes,< 2 seconds,Yes,43.2,1851,No,,,Yes,20,2140,227,155,,0,0,,0
+656,Study Initiation,0,0,1215,No,,Yes,Normal,Yes,2 - 5 seconds,No,42.1,1048,Yes,10,1200,Yes,10,1245,222,152,,0,0,0,0
+657,Study Initiation,0,0,1315,No,,Yes,Normal,Yes,< 2 seconds,No,26.9,1307,Yes,10,1352,Yes,10,1500,157,112,,0,0,0,0
+658,Study Initiation,0,0,2030,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,No,36.8,1820,Yes,10,1950,Yes,10,2132,199,138,,0,0,0,0
+659,Study Initiation,0,0,0430,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,Yes,43.4,0400,Yes,10,0359,Yes,10,0540,227,155,,0,0,0,0
+660,Study Initiation,0,0,0750,No,,No,,Yes,2 - 5 seconds,No,40,0809,Yes,25,0800,No,,,205,143,,,0,0,0
+661,Study Initiation,0,0,1708,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,52.8,1723,Yes,14,1703,Yes,5,1837,271,182,,0,0,0,0
+662,Study Initiation,0,0,0830,Yes,Severe,Yes,Normal,Yes,< 2 seconds,Yes,35.4,1047,Yes,10,0820,Yes,10,1100,194,135,,0,0,0,0
+663,Study Initiation,0,0,1430,No,,Yes,Weak,Yes,2 - 5 seconds,No,35,1430,Yes,10,1500,Yes,10,1605,192,133,,0,0,0,0
+664,Study Initiation,0,0,2145,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,Yes,53.9,2114,Yes,10,2217,No,,,,,139,,0,0,0
+665,Study Initiation,0,0,0624,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,Yes,38.9,0606,Yes,10,0700,No,,,,,111,,0,0,0
+666,Study Initiation,0,0,1620,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,72.3,1612,Yes,10,1650,No,,,384,248,,,0,0,0
+667,Study Initiation,0,0,1230,No,,Yes,Normal,Yes,< 2 seconds,Yes,36,1231,Yes,14,1305,Yes,10,1419,190,133,,0,0,0,0
+668,Study Initiation,0,0,1800,No,,Yes,Normal,Yes,< 2 seconds,No,25.4,1700,Yes,10,1745,No,,,,,87,,0,0,0
+669,Study Initiation,0,0,1345,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,69.2,1335,Yes,10,1455,No,,,,,167,,0,0,0
+670,Study Initiation,0,0,0950,No,,Yes,Normal,Yes,< 2 seconds,Yes,46.2,0859,Yes,10,0950,No,,,,,125,,0,0,0
+671,Study Initiation,0,0,1947,No,,Yes,Normal,Yes,< 2 seconds,No,34.7,1949,Yes,10,2111,No,,,,,104,,0,0,0
+672,Study Initiation,0,0,2030,Not Documented,Not Documented,Yes,Normal,Yes,2 - 5 seconds,No,11.4,2005,Yes,10,1730,Yes,10,2141,81,62,,0,0,0,0
+673,Study Initiation,0,0,0130,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,Yes,55,0048,Yes,30,0130,No,,,,,118,,0,0,0
+674,Study Initiation,0,0,1145,No,,No,,Yes,< 2 seconds,No,37.1,1127,Yes,10,1246,No,,,,,108,,0,0,0
+675,Study Initiation,0,0,1400,No,,Yes,Normal,Yes,< 2 seconds,No,57,1345,Yes,10,1450,Yes,10,1603,287,192,,0,0,0,0
+676,Study Initiation,0,0,1720,No,,Yes,Normal,Yes,2 - 5 seconds,No,19.9,1800,Yes,10,1810,No,,,,,78,,0,0,0
+677,Study Initiation,0,0,1515,No,,Yes,Normal,Yes,2 - 5 seconds,No,34.5,1346,Yes,10,1545,Yes,10,1745,190,132,,0,0,0,0
+678,Study Initiation,0,0,0510,No,,Yes,Increased,Yes,< 2 seconds,No,47.9,0505,Yes,10,0537,No,,,,,148,,0,0,0
+679,Study Initiation,0,0,1630,No,,Yes,Normal,Yes,< 2 seconds,No,15.8,1642,Yes,10,1931,No,,,,,65,,0,0,0
+680,Study Initiation,0,0,0155,Yes,Moderate,Yes,Bounding,Yes,2 - 5 seconds,Yes,49.5,0159,Yes,10,0223,Yes,10,0335,255,172,,0,0,0,0
+681,Study Initiation,0,0,1141,No,,Yes,Normal,Yes,< 2 seconds,Yes,48.4,1200,Yes,20,1230,No,,,250,169,,,0,0,0
+682,Study Initiation,0,0,1130,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,73.6,0932,Yes,10,1117,No,,,,,175,,0,0,0
+683,Study Initiation,0,0,1645,No,,Yes,Increased,Yes,2 - 5 seconds,Yes,35.8,1620,Yes,20,1655,No,,,,,98,,0,0,0
+684,Study Initiation,0,0,1742,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,61.4,1745,Yes,10,1800,Yes,10,1945,306,204,,0,0,0,0
+685,Study Initiation,0,0,1451,No,,Yes,Increased,Yes,2 - 5 seconds,No,17.9,1433,Yes,20,1433,No,,,115,86,,,0,0,0
+686,Study Initiation,0,0,1125,No,,Yes,Normal,Yes,2 - 5 seconds,No,81,1133,Yes,10,1100,Yes,10,1213,391,256,,0,0,0,0
+687,Study Initiation,0,0,0858,No,,Yes,Normal,Yes,2 - 5 seconds,No,20,0853,Yes,10,0945,No,,,,,77,,0,0,0
+688,Study Initiation,0,0,1320,Yes,Moderate,Yes,Normal,Yes,2 - 5 seconds,Yes,55.9,1313,Yes,10,1405,No,,,,,142,,0,0,0
+689,Study Initiation,0,0,1754,No,,Yes,Weak,Yes,2 - 5 seconds,Yes,60.1,1732,Yes,10,1829,No,,,,,150,,0,0,0
+690,Study Initiation,0,0,1130,No,,Yes,Normal,Yes,< 2 seconds,No,44.6,1118,Yes,10,1257,Yes,10,1826,233,159,,0,0,0,0
+691,Study Initiation,0,0,1700,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,67.5,1602,Yes,10,1631,Yes,10,1802,333,220,,0,0,0,0
+692,Study Initiation,0,0,0950,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,42.1,0954,Yes,10,1014,Yes,10,1120,223,152,,0,0,0,0
+693,Study Initiation,0,0,1415,Yes,Mild,Yes,Normal,Yes,< 2 seconds,No,53.5,1349,Yes,10,1515,Yes,10,1755,272,183,,0,0,0,0
+694,Study Initiation,0,0,1505,No,,Yes,Normal,Yes,< 2 seconds,No,26.3,1332,Yes,20,1438,No,,,,,83,,0,0,0
+695,Study Initiation,0,0,1554,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,24.9,1602,Yes,10,1610,Yes,10,1640,148,106,,0,0,0,0
+696,Study Initiation,0,0,1208,No,,Yes,Weak,Yes,2 - 5 seconds,Yes,50.5,1220,Yes,20,1315,No,,,,,122,,0,0,0
+697,Study Initiation,0,0,0715,No,,Yes,Normal,Yes,< 2 seconds,Yes,54,0559,Yes,10,0703,Yes,10,0835,274,184,,0,0,0,0
+698,Study Initiation,0,0,1044,No,,Yes,Normal,Yes,< 2 seconds,No,57.5,1029,Yes,10,1100,No,,,,,145,,0,0,0
+699,Study Initiation,0,0,1452,No,,No,,Yes,< 2 seconds,Yes,43,1449,Yes,10,1519,Yes,10,1625,226,155,,0,0,0,0
+700,Study Initiation,0,0,2200,No,,Yes,Weak,Yes,2 - 5 seconds,No,46.7,2123,Yes,10,2240,Yes,10,2345,242,164,,0,0,0,0
+701,Study Initiation,0,0,1815,No,,Yes,Normal,Yes,2 - 5 seconds,No,26.3,1651,Yes,10,1843,Yes,10,1957,154,110,,0,0,0,0
+702,Study Initiation,0,0,1530,Not Documented,,Yes,Normal,Yes,2 - 5 seconds,No,20.7,1551,Yes,20,1558,No,,,139,100,,,0,0,0
+703,Study Initiation,0,0,1603,No,,Yes,Normal,Yes,< 2 seconds,No,32.8,1603,Yes,10,1625,No,,,,,100,,0,0,0
+704,Study Initiation,0,0,1900,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,70.7,1728,Yes,10,1836,Yes,10,1950,346,229,,0,0,0,0
+705,Study Initiation,0,0,1719,No,,Yes,Normal,Yes,< 2 seconds,No,19.4,1401,Yes,10,1752,No,,,,,75,,0,0,0
+706,Study Initiation,0,0,1840,No,,Yes,Normal,Yes,< 2 seconds,No,24.3,1737,Yes,10,1855,No,,,,,85,,0,0,0
+707,Study Initiation,0,0,1135,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,32.5,1120,Yes,10,1141,Yes,10,1245,180,126,,0,0,0,0
+708,Study Initiation,0,0,1537,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,38.6,1537,Yes,10,1615,Yes,10,1720,208,143,,0,0,0,0
+709,Study Initiation,0,0,1130,No,,Yes,Normal,Yes,2 - 5 seconds,No,44.9,1115,Yes,10,1117,No,,,,,122,,0,0,0
+710,Study Initiation,0,0,1830,No,,Yes,Normal,Yes,2 - 5 seconds,No,21.4,1900,Yes,19,1726,No,,,134,98,,,0,0,0
+711,Study Initiation,0,0,0824,No,,Yes,Increased,Yes,< 2 seconds,Yes,52.2,0900,Yes,10,0818,No,,,288,190,,,0,0,0
+712,Study Initiation,0,0,1321,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,38.1,1322,Yes,10,1415,Yes,10,1515,205,142,,0,0,0,0
+713,Study Initiation,0,0,1023,No,,Yes,Normal,Yes,2 - 5 seconds,No,10.3,1103,Yes,40,1125,No,,,,,43,,0,0,0
+714,Study Initiation,0,0,1856,No,,Yes,Normal,Yes,< 2 seconds,No,32,1839,Yes,10,1930,No,,,,,99,,0,0,0
+715,Study Initiation,0,0,1230,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,26.1,1152,Yes,20,1212,No,,,,,82,,0,0,0
+716,Study Initiation,0,0,1127,No,,No,,Yes,2 - 5 seconds,No,37.2,1103,No,,,Yes,10,1310,,,108,0,0,,0
+717,Study Initiation,0,0,1700,Yes,Mild,Yes,Bounding,Yes,2 - 5 seconds,Yes,66.7,1730,Yes,10,1650,Yes,10,1735,329,218,,0,0,0,0
+718,Study Initiation,0,0,0619,No,,Yes,Normal,Yes,< 2 seconds,Yes,55.3,0619,Yes,20,0628,No,,,284,190,,,0,0,0
+719,Study Initiation,0,0,1054,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,51.4,1035,Yes,10,1050,Yes,10,1153,263,177,,0,0,0,0
+720,Study Initiation,0,0,1640,No,,Yes,Normal,Yes,2 - 5 seconds,No,29.3,1635,Yes,10,1724,No,,,,,94,,0,0,0
+721,Study Initiation,0,0,1940,Yes,Moderate,Yes,Increased,Yes,2 - 5 seconds,No,50.9,1908,Yes,20,2131,No,,,261,176,,,0,0,0
+722,Study Initiation,0,0,1759,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,33.6,1809,Yes,10,1905,No,,,,,102,,0,0,0
+723,Study Initiation,0,0,1930,Yes,Unknown,Yes,Normal,Yes,< 2 seconds,Yes,34.5,1939,Yes,20,2019,No,,,,,96,,0,0,0
+724,Study Initiation,0,0,1730,No,,Yes,Bounding,Yes,2 - 5 seconds,No,41.5,1701,Yes,5,1610,Yes,15,1805,220,151,,0,0,0,0
+725,Study Initiation,0,0,1355,No,,Yes,Normal,Yes,2 - 5 seconds,No,31.4,1355,Yes,10,1230,Yes,10,1503,176,124,,0,0,0,0
+726,Study Initiation,0,0,1715,No,,Yes,Normal,Yes,< 2 seconds,No,44.3,1807,Yes,10,1717,Yes,10,1822,250,167,,0,0,0,0
+727,Study Initiation,0,0,1510,No,,Yes,Normal,Yes,2 - 5 seconds,No,18.4,1510,No,,,Yes,20,1723,118,87,,0,0,,0
+728,Study Initiation,0,0,1410,Yes,Mild,Yes,Weak,Yes,> 5 seconds,Yes,49.8,1405,Yes,10,1445,Yes,10,1550,256,173,,0,0,0,0
+729,Study Initiation,0,0,1756,No,,No,,Yes,< 2 seconds,Yes,37.8,1800,Yes,9,1904,No,,,,,110,,0,0,0
+730,Study Initiation,0,0,1540,No,,Yes,Normal,Yes,< 2 seconds,Yes,42.5,1357,Yes,10,1630,Yes,10,1730,224,153,,0,0,0,0
+731,Study Initiation,0,0,1319,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,No,33,1232,Yes,10,1242,Yes,10,1433,183,128,,0,0,0,0
+732,Study Initiation,0,0,1754,No,,Yes,Normal,Yes,< 2 seconds,No,28.5,1655,Yes,10,1749,No,,,,,92,,0,0,0
+733,Study Initiation,0,0,1341,Not Documented,,Yes,Weak,No,,No,34.5,1530,Yes,29,1341,No,,,,,90,,0,0,0
+734,Study Initiation,0,0,1711,No,,Yes,Normal,Yes,< 2 seconds,No,55.2,1711,Yes,10,1934,No,,,,,141,,0,0,0
+735,Study Initiation,0,0,1605,No,,Yes,Normal,Yes,< 2 seconds,Yes,46.9,1523,Yes,10,1610,Yes,10,1715,243,165,,0,0,0,0
+736,Study Initiation,0,0,2200,Yes,Mild,Yes,Increased,Yes,< 2 seconds,No,25.2,2212,Yes,10,2030,No,,,,,86,,0,0,0
+737,Study Initiation,0,0,1400,No,,Yes,Normal,Yes,< 2 seconds,Yes,52.5,1320,Yes,10,1346,Yes,10,1458,268,180,,0,0,0,0
+738,Study Initiation,0,0,1315,No,,Yes,Weak,Yes,2 - 5 seconds,Yes,58,1217,Yes,20,1155,No,,,291,195,,,0,0,0
+739,Study Initiation,0,0,2229,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,30.7,2225,Yes,10,2353,No,,,,,96,,-1,-1,-1
+740,Study Initiation,0,0,1700,Not Documented,,Yes,Normal,Yes,< 2 seconds,No,26.3,1940,Yes,20,1830,No,,,,,88,,0,0,0
+741,Study Initiation,0,0,1519,No,,Yes,Increased,Yes,< 2 seconds,Yes,70.7,1519,Yes,10,1600,Yes,10,1657,,,155,0,0,0,0
+742,Study Initiation,0,0,1500,No,,Yes,Normal,Yes,< 2 seconds,No,65.5,1454,Yes,10,2155,No,,,,,160,,0,0,0
+743,Study Initiation,0,0,2005,No,,Yes,Normal,Yes,< 2 seconds,No,16.8,1938,Yes,10,2130,No,,,117,85,,,0,0,0
+744,Study Initiation,0,0,1335,No,,Yes,Bounding,Yes,2 - 5 seconds,No,64,1333,Yes,10,1400,Yes,10,1500,300,211,,0,0,0,0
+745,Study Initiation,0,0,1047,No,,Yes,Normal,Yes,2 - 5 seconds,No,20.7,0930,Yes,10,1055,No,,,,,78,,0,0,0
+746,Study Initiation,0,0,1321,No,,Yes,Normal,Yes,< 2 seconds,Yes,17.5,1324,Yes,10,1403,Yes,10,1508,113,84,,0,0,0,0
+747,Study Initiation,0,0,1355,Not Documented,,Yes,Weak,Yes,2 - 5 seconds,Yes,37.4,1339,Yes,10,1359,Yes,10,1449,,,101,0,0,0,0
+748,Study Initiation,0,0,1645,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,No,54.5,1900,Yes,10,1600,Yes,10,2007,276,185,,0,0,0,0
+749,Study Initiation,0,0,1710,Yes,Moderate,Yes,Normal,Yes,2 - 5 seconds,Yes,63.8,1710,Yes,10,1740,No,,,,,157,,0,0,0
+750,Study Initiation,0,0,1821,No,,Yes,Normal,Yes,< 2 seconds,No,16.6,1825,Yes,10,1847,Yes,10,2038,115,84,,0,0,0,0
+751,Study Initiation,0,0,1422,No,,Yes,Normal,Yes,< 2 seconds,Yes,85.7,1448,Yes,10,1525,Yes,10,1635,412,269,,0,0,0,0
+752,Study Initiation,0,0,0845,No,,Yes,Normal,Yes,< 2 seconds,Yes,57.7,1025,Yes,20,0900,No,,,,,132,,0,0,0
+753,Study Initiation,0,0,1700,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,No,29.3,1652,Yes,10,1830,Yes,10,2044,167,118,,0,0,0,0
+754,Study Initiation,0,0,1054,Not Documented,,Yes,Normal,Yes,2 - 5 seconds,Yes,60.2,1054,Yes,20,1050,No,,,301,201,,,0,0,0
+755,Study Initiation,0,0,2100,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,84.5,2209,Yes,10,2110,No,,,,,196,,0,0,0
+756,Study Initiation,0,0,1847,No,,Yes,Normal,Yes,2 - 5 seconds,No,66.2,1713,Yes,15,1851,Yes,5,2100,327,217,,0,0,0,0
+757,Study Initiation,0,0,1243,No,,Yes,Normal,Yes,< 2 seconds,Yes,56.7,1045,Yes,10,1107,No,,,,,145,,0,0,0
+758,Study Initiation,0,0,1031,No,,Yes,Normal,Yes,< 2 seconds,Yes,28.9,1035,Yes,10,1217,No,,,,,93,,0,0,0
+759,Study Initiation,0,0,0430,No,,Yes,Increased,Yes,2 - 5 seconds,Yes,47,0410,Yes,20,0415,Yes,10,0620,224,156,,0,0,0,0
+760,Study Initiation,0,0,2016,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,38.4,1941,Yes,10,1700,No,,,,,110,,0,0,0
+761,Study Initiation,0,0,1215,No,,Yes,Normal,Yes,< 2 seconds,No,13.7,1205,Yes,10,1327,Yes,10,1500,93,70,,0,0,0,31
+762,Study Initiation,0,0,2043,No,,Yes,Bounding,Yes,2 - 5 seconds,No,13.4,2330,Yes,19,2133,No,,,,,55,,0,0,0
+763,Study Initiation,0,0,1045,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,64.6,1040,Yes,10,1055,No,,,,,158,,0,0,0
+764,Study Initiation,0,0,1838,No,,Yes,Increased,Yes,< 2 seconds,No,85.9,1838,Yes,10,1600,Yes,10,1932,412,269,,0,0,0,0
+765,Study Initiation,0,0,0632,No,,Yes,Normal,Yes,2 - 5 seconds,No,16.5,0636,Yes,10,0640,Yes,10,1300,108,81,,0,0,0,0
+766,Study Initiation,0,0,2117,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,Yes,49,2116,Yes,20,2245,No,,,252,171,,,-1,-1,-1
+767,Study Initiation,0,0,1305,No,,Yes,Bounding,Yes,2 - 5 seconds,No,15.1,1315,Yes,10,1325,No,,,,,63,,0,0,0
+768,Study Initiation,0,0,1550,No,,No,,No,,No,33.5,1445,Yes,10,1515,No,,,,,101,,0,0,0
+769,Study Initiation,0,0,1322,Yes,Moderate,Yes,Normal,Yes,2 - 5 seconds,Yes,82.1,1331,Yes,12,1340,No,,,,,187,,0,0,0
+770,Study Initiation,0,0,2113,No,,Yes,Normal,Yes,2 - 5 seconds,No,22.5,2117,Yes,10,2140,No,,,,,81,,0,0,0
+771,Study Initiation,0,0,0527,Yes,Moderate,Yes,Normal,Yes,2 - 5 seconds,Yes,57.4,0440,Yes,17,0525,Yes,10,0632,271,184,,0,0,0,0
+772,Study Initiation,0,0,1227,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,30,1206,Yes,10,1254,No,,,,,95,,0,0,0
+773,Study Initiation,0,0,1330,No,,Yes,Normal,Yes,2 - 5 seconds,No,49.3,1306,Yes,10,1350,Yes,10,1455,254,172,,0,0,0,0
+774,Study Initiation,0,0,1741,No,,Yes,Normal,Yes,2 - 5 seconds,No,22.9,1726,Yes,5,1852,Yes,15,2002,139,101,,0,0,0,0
+775,Study Initiation,0,0,1330,No,,Yes,Normal,Yes,2 - 5 seconds,No,14.6,1143,Yes,9,1246,No,,,,,61,,0,0,0
+776,Study Initiation,0,0,0950,Yes,Unknown,Yes,Normal,Yes,2 - 5 seconds,Yes,70.9,0954,Yes,10,1016,Yes,10,1101,347,229,,0,0,0,0
+777,Study Initiation,0,0,2213,No,,Yes,Weak,Yes,2 - 5 seconds,No,34.2,2216,Yes,10,2301,No,,,,,103,,0,0,0
+778,Study Initiation,0,0,1030,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,54.6,0953,Yes,10,1022,No,,,,,140,,0,0,0
+779,Study Initiation,0,0,2218,No,,Yes,Normal,Yes,2 - 5 seconds,No,14.2,2218,No,,,Yes,10,2340,96,72,,0,0,,0
+780,Study Initiation,0,0,1507,No,,Yes,Normal,Yes,2 - 5 seconds,No,10.5,1507,Yes,10,1600,Yes,10,1905,76,59,,0,0,0,3
+781,Study Initiation,0,0,1040,No,,Yes,Normal,Yes,< 2 seconds,Yes,67,1022,Yes,15,1147,No,,,,,156,,0,0,0
+782,Study Initiation,0,0,1300,No,,Yes,Normal,Yes,2 - 5 seconds,No,20.9,1209,Yes,10,1321,No,,,,,78,,0,0,0
+783,Study Initiation,0,0,1045,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,29.4,1030,Yes,10,1110,No,,,,,94,,0,0,0
+784,Study Initiation,0,0,2100,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,Yes,53.8,2108,Yes,10,2100,No,,,,,139,,0,0,0
+785,Study Initiation,0,0,1230,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,Yes,56,1158,Yes,10,1216,Yes,10,1332,283,189,,0,0,0,0
+786,Study Initiation,0,0,1730,No,,Yes,Normal,Yes,< 2 seconds,Yes,33.1,1708,Yes,10,1732,Yes,10,1919,183,128,,0,0,0,0
+787,Study Initiation,0,0,1805,No,,Yes,Normal,Yes,2 - 5 seconds,No,43.1,1808,Yes,10,1824,No,,,,,120,,0,0,0
+788,Study Initiation,0,0,1630,No,,Yes,Weak,Yes,2 - 5 seconds,Yes,73,1620,Yes,20,1705,No,,,355,234,,,0,0,0
+789,Study Initiation,0,0,1900,No,,Yes,Normal,Yes,< 2 seconds,Yes,35.9,1841,Yes,20,1905,No,,,,,99,,0,0,0
+790,Study Initiation,0,0,1319,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,Yes,55.8,1316,Yes,10,1352,Yes,10,1600,282,189,,0,0,0,0
+791,Study Initiation,0,0,1411,No,,Yes,Normal,Yes,< 2 seconds,No,13.5,1552,Yes,10,1552,No,,,,,58,,0,0,0
+792,Study Initiation,0,0,1205,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,32.8,1152,Yes,11,1235,Yes,9,1340,182,127,,0,0,0,0
+793,Study Initiation,0,0,1800,No,,Yes,Normal,Yes,< 2 seconds,Yes,88.5,1830,Yes,10,1706,Yes,10,1830,424,276,,0,0,0,0
+794,Study Initiation,0,0,1928,No,,Yes,Normal,Yes,2 - 5 seconds,No,34.6,1900,Yes,10,2040,Yes,10,2140,190,133,,0,0,0,0
+795,Study Initiation,0,0,1020,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,73.3,1009,Yes,10,1027,Yes,10,1215,358,235,,0,0,0,0
+796,Study Initiation,0,0,1443,No,,Yes,Increased,Yes,< 2 seconds,Yes,50,1448,Yes,10,1524,Yes,10,1734,257,173,,0,0,0,0
+797,Study Initiation,0,0,1851,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,34.7,1829,Yes,10,1959,No,,,,,102,,0,0,0
+798,Study Initiation,0,0,1200,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,35.8,1113,Yes,35,1055,No,,,,,87,,0,0,0
+799,Study Initiation,0,0,1146,No,,Yes,Normal,Yes,< 2 seconds,No,53,1155,Yes,19,1210,No,,,,,127,,0,0,0
+800,Study Initiation,0,0,1238,Yes,Severe,No,,Yes,< 2 seconds,Yes,58.1,1403,Yes,10,1339,Yes,10,1445,290,194,,0,0,0,0
+801,Study Initiation,0,0,1130,No,,Yes,Normal,Yes,< 2 seconds,Yes,48.5,1034,Yes,10,1146,No,,,,,129,,0,0,0
+802,Study Initiation,0,0,1630,No,,Yes,Normal,Yes,2 - 5 seconds,No,27.9,1610,Yes,20,1632,Yes,20,1954,161,114,,0,0,0,0
+803,Study Initiation,0,0,2000,No,,Yes,Bounding,No,,Yes,46.4,2205,Yes,10,2015,Yes,6,2216,259,173,,0,0,0,0
+804,Study Initiation,0,0,1306,No,,Yes,Normal,Yes,< 2 seconds,No,24.1,1252,No,,,Yes,20,1648,144,104,,0,0,,0
+805,Study Initiation,0,0,1319,No,,Yes,Normal,Yes,< 2 seconds,Yes,22,1318,Yes,20,1400,No,,,,,76,,0,0,0
+806,Study Initiation,0,0,1126,No,,Yes,Normal,Yes,< 2 seconds,Yes,51.1,1110,Yes,10,1135,Yes,10,1321,261,176,,0,0,0,0
+807,Study Initiation,0,0,1300,No,,Yes,Normal,Yes,< 2 seconds,Yes,57.5,1330,Yes,10,1305,No,,,,,145,,0,0,0
+808,Study Initiation,0,0,1651,No,,Yes,Normal,Yes,< 2 seconds,No,51.2,1656,Yes,10,1940,Yes,10,2301,263,177,,0,0,0,0
+809,Study Initiation,0,0,0900,No,,Yes,Normal,Yes,< 2 seconds,Yes,47.1,0851,No,,,Yes,10,1021,283,185,,0,0,,0
+810,Study Initiation,0,0,1500,No,,Yes,Normal,Yes,2 - 5 seconds,No,52.8,1509,Yes,10,1703,Yes,10,1740,269,181,,0,0,0,0
+811,Study Initiation,0,0,2150,No,,Yes,Normal,Yes,2 - 5 seconds,No,12.9,2104,Yes,20,1917,No,,,,,54,,0,0,0
+812,Study Initiation,0,0,1900,No,,Yes,Normal,Yes,< 2 seconds,No,16.2,1802,Yes,10,1920,Yes,10,2028,106,79,,0,0,0,0
+813,Study Initiation,0,0,1226,No,,Yes,Weak,Yes,> 5 seconds,No,26.3,1456,Yes,10,1417,Yes,10,1505,154,110,,0,0,0,0
+814,Study Initiation,0,0,1540,No,,Yes,Normal,No,,No,73.2,1529,Yes,10,1615,Yes,10,1806,357,235,,0,0,0,0
+815,Study Initiation,0,0,1900,No,,Yes,Normal,Yes,< 2 seconds,Yes,68.2,1847,Yes,10,1925,Yes,10,2040,336,222,,0,0,0,0
+816,Study Initiation,0,0,2032,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,Yes,49.3,2228,Yes,20,2054,No,,,253,171,,,0,0,0
+817,Study Initiation,0,0,1130,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,Yes,61.7,1030,Yes,10,1127,No,,,,,153,,0,0,0
+818,Study Initiation,0,0,1408,No,,No,,Yes,< 2 seconds,No,26.9,1216,Yes,10,1455,Yes,10,1650,157,112,,0,0,0,0
+819,Study Initiation,0,0,2300,No,,Yes,Normal,Yes,2 - 5 seconds,No,37.9,2222,Yes,10,2310,No,,,,,109,,0,0,0
+820,Study Initiation,0,0,1104,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,64.7,1047,Yes,10,1105,No,,,,,159,,0,0,0
+821,Study Initiation,0,0,1949,No,,Yes,Normal,Yes,< 2 seconds,No,30,1930,Yes,10,2125,Yes,10,2230,170,120,,0,0,0,0
+822,Study Initiation,0,0,1030,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,42.8,0952,Yes,10,1007,No,,,,,118,,0,0,0
+823,Study Initiation,0,0,0940,Yes,Moderate,Yes,Increased,Yes,< 2 seconds,Yes,79.6,0944,Yes,10,1007,No,,,,,186,,0,0,0
+824,Study Initiation,0,0,0945,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,Yes,49.2,0950,Yes,20,1135,No,,,,,120,,0,0,0
+825,Study Initiation,0,0,1400,No,,Yes,Normal,Yes,< 2 seconds,Yes,47,1427,Yes,11,1415,Yes,9,1605,244,165,,0,0,0,0
+826,Study Initiation,0,0,1156,No,,Yes,Normal,No,,No,8.8,1156,Yes,10,1307,No,,,,,44,,0,0,0
+827,Study Initiation,0,0,1600,No,,Yes,Normal,Yes,< 2 seconds,No,22.5,1421,Yes,10,1731,Yes,10,1839,138,100,,0,0,0,0
+828,Study Initiation,0,0,1037,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,47.9,1055,Yes,15,1007,Yes,5,1540,248,168,,0,0,0,0
+829,Study Initiation,0,0,1322,Yes,Moderate,Yes,Normal,Yes,2 - 5 seconds,No,25.4,1314,Yes,10,1345,Yes,10,1539,151,109,,0,0,0,0
+830,Study Initiation,0,0,0800,No,,Yes,Normal,Yes,< 2 seconds,Yes,18.6,0733,Yes,20,0800,No,,,119,88,,,0,0,0
+831,Study Initiation,0,0,1225,Yes,Unknown,Yes,Normal,Yes,2 - 5 seconds,Yes,37.2,1154,Yes,10,1212,Yes,10,1300,201,139,,0,0,0,0
+832,Study Initiation,0,0,0950,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,66.6,0950,Yes,8,1009,Yes,12,1040,329,218,,0,0,0,0
+833,Study Initiation,0,0,0955,No,,Yes,Normal,Yes,< 2 seconds,Yes,52.3,0943,Yes,10,0958,No,,,,,136,,0,0,0
+834,Study Initiation,0,0,0841,No,,Yes,Normal,Yes,< 2 seconds,Yes,31.7,0843,Yes,10,0915,No,,,,,98,,0,0,0
+835,Study Initiation,0,0,1551,No,,Yes,Normal,Yes,< 2 seconds,Yes,31.1,1627,Yes,10,1643,Yes,10,1815,175,123,,0,0,0,0
+836,Study Initiation,0,0,1121,No,,Yes,Bounding,Yes,2 - 5 seconds,Yes,26.9,1033,Yes,10,1119,No,,,,,89,,0,0,0
+837,Study Initiation,0,0,2315,No,,Yes,Normal,Yes,< 2 seconds,No,64.9,2310,Yes,10,2358,No,,,,,159,,-1,-1,-1
+838,Study Initiation,0,0,1620,No,,Yes,Normal,Yes,< 2 seconds,No,24.8,1753,Yes,20,1603,No,,,,,80,,0,0,0
+839,Study Initiation,0,0,0900,No,,No,,Yes,2 - 5 seconds,Yes,43,1120,Yes,16,1038,No,,,,,113,,0,0,0
+840,Study Initiation,0,0,1809,No,,Yes,Normal,Yes,< 2 seconds,No,28.9,1818,Yes,10,1845,Yes,10,1955,165,117,,0,0,0,0
+841,Study Initiation,0,0,1046,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,60,1023,Yes,10,1038,No,,,,,150,,0,0,0
+842,Study Initiation,0,0,1610,No,,Yes,Increased,Yes,< 2 seconds,Yes,50.3,1520,Yes,10,1530,No,,,,,132,,0,0,0
+843,Study Initiation,0,0,1345,No,,Yes,Normal,Yes,< 2 seconds,Yes,69.3,1205,Yes,10,1345,No,,,,,167,,0,0,0
+844,Study Initiation,0,0,1204,No,,Yes,Normal,Yes,2 - 5 seconds,No,7.85,1000,Yes,10,1128,Yes,10,1358,58,44,,0,0,0,0
+845,Study Initiation,0,0,1223,Yes,Unknown,Yes,Normal,Yes,> 5 seconds,No,24.5,1134,Yes,20,1237,No,,,,,80,,0,0,0
+846,Study Initiation,0,0,2000,No,,Yes,Increased,Yes,2 - 5 seconds,No,26.4,1952,Yes,10,2040,No,,,,,88,,0,0,0
+847,Study Initiation,0,0,0700,No,,Yes,Normal,Yes,< 2 seconds,No,15.6,0700,Yes,10,0800,No,,,,,64,,0,0,0
+848,Study Initiation,0,0,1639,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,No,23.7,1622,Yes,10,1647,No,,,,,83,,0,0,0
+849,Study Initiation,0,0,1139,Yes,Unknown,Yes,Normal,Yes,< 2 seconds,Yes,60.9,1135,Yes,13,1222,No,,,,,148,,0,0,0
+850,Study Initiation,0,0,1448,No,,Yes,Normal,Yes,2 - 5 seconds,No,12.4,1420,Yes,10,1522,No,,,,,55,,0,0,0
+851,Study Initiation,0,0,1349,No,,Yes,Increased,No,,No,12,1324,Yes,20,1400,No,,,,,52,,0,0,0
+852,Study Initiation,0,0,1150,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,67,1202,Yes,10,1154,No,,,,,163,,0,0,0
+853,Study Initiation,0,0,2130,No,,Yes,Normal,Yes,< 2 seconds,No,32.2,2046,Yes,10,2115,Yes,10,2215,180,126,,0,0,0,0
+854,Study Initiation,0,0,1220,No,,Yes,Normal,Yes,< 2 seconds,No,17.1,1220,No,,,Yes,20,1458,111,83,,0,0,,0
+855,Study Initiation,0,0,0432,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,62.3,0430,Yes,10,0505,No,,,336,219,,,0,0,0
+856,Study Initiation,0,0,0905,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,48.3,0916,Yes,10,1340,Yes,10,1415,249,169,,0,0,0,0
+857,Study Initiation,0,0,0822,No,,Yes,Normal,Yes,< 2 seconds,Yes,57.5,1125,Yes,12,0913,Yes,12,1025,280,189,,0,0,0,0
+858,Study Initiation,0,0,1020,No,,Yes,Normal,Yes,2 - 5 seconds,No,42.5,1020,Yes,10,1040,Yes,10,1421,224,153,,0,0,0,0
+859,Study Initiation,0,0,1945,No,,Yes,Normal,Yes,< 2 seconds,Yes,66,1705,Yes,15,1740,No,,,,,154,,0,0,0
+860,Study Initiation,0,0,0832,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,29.9,0901,Yes,10,0949,Yes,10,1025,170,120,,0,0,0,0
+861,Study Initiation,0,0,2050,No,,Not Documented,,Yes,< 2 seconds,Yes,63.7,2054,Yes,10,2125,Yes,10,2300,343,223,,0,0,0,0
+862,Study Initiation,0,0,1149,Yes,Unknown,Yes,Normal,Yes,< 2 seconds,Yes,52.9,1149,Yes,10,1205,No,,,,,137,,0,0,0
+863,Study Initiation,0,0,1645,No,,Yes,Normal,No,,No,22.6,1536,Yes,10,1630,Yes,10,1834,129,96,,0,0,0,0
+864,Study Initiation,0,0,1647,No,,Yes,Normal,Yes,< 2 seconds,Yes,37.5,1655,Yes,10,1713,Yes,10,1909,,,101,0,0,0,0
+865,Study Initiation,0,0,1340,No,,No,,Yes,< 2 seconds,Yes,82.1,1406,Yes,9,1355,Yes,11,1455,396,259,,0,0,0,0
+866,Study Initiation,0,0,2230,No,,Yes,Normal,Yes,< 2 seconds,Yes,39.2,2230,Yes,10,2325,No,,,,,112,,0,0,1
+867,Study Initiation,0,0,0000,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,68.1,0000,Yes,10,0020,Yes,10,0120,333,221,,0,0,0,0
+868,Study Initiation,0,0,1530,No,,Yes,Normal,Yes,2 - 5 seconds,No,25.6,1720,Yes,10,1659,No,,,,,87,,0,0,0
+869,Study Initiation,0,0,1320,No,,Yes,Normal,Yes,2 - 5 seconds,No,46,1248,Yes,20,1411,No,,,239,163,,,0,0,0
+870,Study Initiation,0,0,1732,No,,Yes,Normal,Yes,< 2 seconds,No,105,1816,Yes,10,1848,Yes,10,2044,473,307,,0,0,0,0
+871,Study Initiation,0,0,1337,Yes,Mild,Yes,Normal,Yes,< 2 seconds,No,47.3,1333,Yes,20,1406,No,,,243,165,,,0,0,0
+872,Study Initiation,0,0,1317,No,,Yes,Normal,Yes,< 2 seconds,No,12.2,1149,Yes,10,1300,No,,,,,55,,0,0,0
+873,Study Initiation,0,0,2030,No,,Yes,Normal,Yes,< 2 seconds,Yes,44.4,1921,Yes,20,2030,No,,,232,158,,,0,0,0
+874,Study Initiation,0,0,1547,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,46.8,1501,Yes,10,1604,No,,,,,126,,0,0,0
+875,Study Initiation,0,0,1300,No,,Yes,Normal,No,,No,13.1,1309,Yes,10,1424,Yes,10,1645,90,68,,0,0,0,0
+876,Study Initiation,0,0,1626,No,,Yes,Normal,No,,No,33.4,1638,Yes,21,1740,No,,,,,101,,0,0,0
+877,Study Initiation,0,0,1709,No,,Yes,Normal,Yes,2 - 5 seconds,No,29.2,1647,Yes,10,1822,Yes,10,2048,167,118,,0,0,0,0
+878,Study Initiation,0,0,1418,No,,Yes,Normal,Yes,2 - 5 seconds,No,23,1225,Yes,10,1315,No,,,,,82,,0,0,0
+879,Study Initiation,0,0,1934,No,,Yes,Increased,Yes,2 - 5 seconds,No,44.8,1934,No,,,Yes,20,2111,234,159,,1,0,,0
+880,Study Initiation,0,0,1200,Yes,Moderate,Yes,Normal,Yes,2 - 5 seconds,Yes,67.7,1200,Yes,16,1200,No,,,,,156,,0,0,0
+881,Study Initiation,0,0,1229,No,,Yes,Normal,Yes,2 - 5 seconds,No,9.2,1238,Yes,10,1311,Yes,10,1345,67,52,,0,0,0,0
+882,Study Initiation,0,0,2030,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,59.7,2017,Yes,10,1952,No,,,,,150,,0,0,0
+883,Study Initiation,0,0,0200,No,,Yes,Weak,Yes,2 - 5 seconds,Yes,72.2,0300,Yes,10,0200,No,,,,,172,,0,0,0
+884,Study Initiation,0,0,1652,No,,Yes,Normal,Yes,2 - 5 seconds,No,20.45,1649,Yes,10,1824,Yes,10,2150,129,95,,0,0,0,0
+885,Study Initiation,0,0,1100,No,,Yes,Normal,Yes,< 2 seconds,Yes,27.6,1021,Yes,10,1132,No,,,,,91,,0,0,0
+886,Study Initiation,0,0,1330,No,,Yes,Normal,Yes,2 - 5 seconds,No,18.1,1248,Yes,10,1320,No,,,,,71,,0,0,0
+887,Study Initiation,0,0,1400,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,26.4,1640,Yes,10,1501,Yes,10,1718,155,111,,0,0,0,0
+888,Study Initiation,0,0,2208,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,47.9,2100,Yes,10,2155,No,,,,,128,,0,0,0
+889,Study Initiation,0,0,1530,No,,Yes,Normal,Yes,< 2 seconds,Yes,48.3,1507,Yes,10,1535,Yes,10,1730,248,168,,0,0,0,0
+890,Study Initiation,0,0,1219,Yes,Severe,Yes,Increased,Yes,< 2 seconds,Yes,60.3,1213,Yes,10,1245,No,,,,,151,,0,0,0
+891,Study Initiation,0,0,1145,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,64,1010,Yes,11,1030,No,,,340,222,,,0,0,0
+892,Study Initiation,0,0,1436,No,,Yes,Normal,Yes,< 2 seconds,No,15.1,1530,Yes,10,1507,Yes,10,1609,107,79,,0,0,0,0
+893,Study Initiation,0,0,0850,Yes,Moderate,Yes,Increased,Yes,< 2 seconds,Yes,56.3,0823,Yes,10,0907,Yes,10,1032,289,193,,0,0,0,0
+894,Study Initiation,0,0,1220,No,,Yes,Normal,Yes,< 2 seconds,No,24.6,1109,Yes,10,1204,Yes,10,1310,147,106,,0,0,0,0
+895,Study Initiation,0,0,1055,No,,Yes,Normal,Yes,< 2 seconds,Yes,57.5,1047,Yes,10,1146,Yes,10,1255,313,205,,0,0,0,0
+896,Study Initiation,0,0,1700,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,34.7,1838,Yes,20,1708,No,,,191,133,,,0,0,0
+897,Study Initiation,0,0,1015,No,,Yes,Normal,Yes,< 2 seconds,Yes,67.7,1000,Yes,10,1025,Yes,10,1125,333,221,,0,0,0,0
+898,Study Initiation,0,0,1500,No,,Yes,Normal,Yes,< 2 seconds,No,33.1,1300,Yes,9,1445,No,,,,,101,,0,0,0
+899,Study Initiation,0,0,1838,No,,Yes,Normal,Yes,2 - 5 seconds,No,14,1830,Yes,10,1902,No,,,,,59,,0,0,0
+900,Study Initiation,0,0,1735,No,,Yes,Normal,Yes,< 2 seconds,No,24.9,1721,Yes,10,1835,No,,,,,86,,0,0,0
+901,Study Initiation,0,0,1846,No,,Yes,Normal,Yes,2 - 5 seconds,No,44.5,1841,Yes,11,1959,Yes,10,2205,230,157,,0,0,0,0
+902,Study Initiation,0,0,1351,No,,Yes,Normal,Yes,< 2 seconds,No,40.6,1345,Yes,10,1356,No,,,,,114,,0,0,0
+903,Study Initiation,0,0,1900,No,,Yes,Normal,Yes,< 2 seconds,Yes,48,1517,Yes,10,1545,Yes,10,2029,268,178,,0,0,0,0
+904,Study Initiation,0,0,1736,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,Yes,59.1,1746,Yes,10,1816,Yes,10,1919,296,198,,0,0,0,0
+905,Study Initiation,0,0,2024,Yes,Moderate,Yes,Increased,Yes,< 2 seconds,Yes,78.5,2024,Yes,10,2110,Yes,10,2227,379,249,,0,0,0,0
+906,Study Initiation,0,0,1240,No,,Yes,Normal,Yes,< 2 seconds,No,62.9,1243,Yes,10,1255,No,,,,,155,,0,0,0
+907,Study Initiation,0,0,1632,No,,Yes,Normal,Yes,2 - 5 seconds,No,29.4,1642,Yes,10,1753,Yes,10,1910,167,118,,0,0,0,0
+908,Study Initiation,0,0,1619,No,,Yes,Normal,Yes,< 2 seconds,Yes,39.6,1511,Yes,10,1620,Yes,10,1900,212,146,,0,0,0,0
+909,Study Initiation,0,0,2015,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,No,27.4,2015,Yes,10,2108,No,,,,,90,,0,0,0
+910,Study Initiation,0,0,1830,No,,Yes,Normal,Yes,< 2 seconds,No,25.4,1733,Yes,10,1800,Yes,10,1959,150,108,,0,0,0,0
+911,Study Initiation,0,0,1337,No,,Yes,Normal,Yes,2 - 5 seconds,No,30,1349,Yes,10,1400,Yes,10,1535,170,120,,0,0,0,0
+912,Study Initiation,0,0,1923,No,,Yes,Normal,Yes,2 - 5 seconds,No,11.2,1923,Yes,20,2034,No,,,,,49,,0,0,0
+913,Study Initiation,0,0,1452,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,45.5,1442,Yes,10,1502,Yes,10,1535,236,161,,0,0,0,0
+914,Study Initiation,0,0,1344,No,,Yes,Weak,No,,No,58.3,1333,Yes,10,1410,Yes,10,1525,,,135,0,0,0,0
+915,Study Initiation,0,0,1830,No,,Yes,Normal,Yes,< 2 seconds,No,29.2,1759,Yes,10,1953,Yes,3,2100,168,118,,0,0,0,0
+916,Study Initiation,0,0,1506,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,No,44.5,1502,Yes,20,1612,No,,,,,112,,0,0,0
+917,Study Initiation,0,0,1751,Yes,Moderate,No,,Yes,2 - 5 seconds,No,30,1655,Yes,10,1915,Yes,10,2015,170,120,,0,0,0,0
+918,Study Initiation,0,0,1113,No,,Yes,Normal,Yes,< 2 seconds,Yes,43,1040,Yes,10,1100,No,,,,,119,,0,0,0
+919,Study Initiation,0,0,1444,No,,Yes,Normal,Yes,< 2 seconds,No,39.6,1440,Yes,10,1445,No,,,,,113,,0,0,0
+920,Study Initiation,0,0,1737,No,,Yes,Normal,Yes,< 2 seconds,No,16.2,2114,Yes,10,1932,No,,,,,66,,0,0,0
+921,Study Initiation,0,0,1706,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,46.4,1705,Yes,10,1735,No,,,,,124,,0,0,0
+922,Study Initiation,0,0,2127,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,24.5,2113,Yes,20,2153,No,,,146,105,,,0,0,0
+923,Study Initiation,0,0,2230,No,,Yes,Normal,Yes,< 2 seconds,No,20.9,2216,Yes,10,2300,Yes,10,2355,131,96,,0,0,0,0
+924,Study Initiation,0,0,1723,No,,Yes,Normal,Yes,< 2 seconds,No,32.3,1652,Yes,10,1745,No,,,,,99,,0,0,0
+925,Study Initiation,0,0,2200,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,No,36,2130,Yes,10,2135,No,,,,,106,,0,0,0
+926,Study Initiation,0,0,1752,No,,Yes,Normal,Yes,2 - 5 seconds,No,47,1733,Yes,10,1907,No,,,,,126,,0,0,0
+927,Study Initiation,0,0,1850,No,,Yes,Normal,Yes,2 - 5 seconds,No,39.4,1756,Yes,10,1852,No,,,,,112,,0,0,0
+928,Study Initiation,0,0,0638,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,48.4,0653,Yes,20,0712,No,,,,,116,,0,0,0
+929,Study Initiation,0,0,0844,No,,Yes,Normal,Yes,< 2 seconds,Yes,54.3,0845,Yes,13,0901,Yes,7,1015,275,185,,0,0,0,0
+930,Study Initiation,0,0,1600,No,,Yes,Bounding,Yes,< 2 seconds,Yes,57.2,1428,Yes,10,1530,No,,,,,145,,0,0,0
+931,Study Initiation,0,0,1200,No,,Yes,Weak,Yes,2 - 5 seconds,No,22,1200,Yes,20,1116,No,,,135,99,,,0,0,0
+932,Study Initiation,0,0,2200,No,,Yes,Weak,Yes,< 2 seconds,No,40.2,2027,Yes,10,2220,No,,,,,114,,0,0,0
+933,Study Initiation,0,0,1128,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,56.8,1455,Yes,10,1131,No,,,,,145,,0,0,0
+934,Study Initiation,0,0,0935,No,,Yes,Normal,Yes,< 2 seconds,Yes,52.9,1049,Yes,10,1000,Yes,10,1052,269,181,,0,0,0,0
+935,Study Initiation,0,0,0852,No,,Yes,Normal,Yes,< 2 seconds,Yes,97.8,0852,Yes,20,0944,Yes,10,1147,420,279,,0,0,0,0
+936,Study Initiation,0,0,1039,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,39.2,1039,Yes,10,1148,Yes,10,1230,210,145,,0,0,0,0
+937,Study Initiation,0,0,2000,No,,Yes,Normal,Yes,< 2 seconds,No,37.1,1907,Yes,20,1943,No,,,,,100,,0,0,0
+938,Study Initiation,0,0,1515,No,,Yes,Normal,Yes,< 2 seconds,No,46.2,1529,Yes,10,1615,No,,,,,125,,0,0,0
+939,Study Initiation,0,0,0929,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,50,0944,Yes,20,1015,No,,,,,121,,0,0,0
+940,Study Initiation,0,0,1530,No,,Yes,Normal,Yes,2 - 5 seconds,No,60,1530,Yes,10,1515,No,,,,,150,,0,0,0
+941,Study Initiation,0,0,1412,Yes,Moderate,Yes,Normal,Yes,2 - 5 seconds,Yes,73.9,1650,Yes,10,1437,No,,,,,175,,0,0,0
+942,Study Initiation,0,0,1234,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,37.8,1232,Yes,20,1300,No,,,235,160,,,0,0,0
+943,Study Initiation,0,0,1607,No,,Yes,Normal,No,,Yes,62.1,1603,Yes,15,1730,No,,,,,146,,0,0,0
+944,Study Initiation,0,0,1838,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,21.5,1827,No,,,Yes,20,1905,133,97,,0,0,,0
+945,Study Initiation,0,0,1042,No,,Yes,Normal,Yes,2 - 5 seconds,No,39.8,1154,Yes,10,1030,Yes,10,1407,212,146,,0,0,0,0
+946,Study Initiation,0,0,1222,No,,Yes,Normal,Yes,< 2 seconds,No,12.9,1220,Yes,10,1418,No,,,,,57,,0,0,0
+947,Study Initiation,0,0,1100,No,,Yes,Increased,Yes,2 - 5 seconds,No,22.4,1240,Yes,20,1052,No,,,135,99,,,0,0,0
+948,Study Initiation,0,0,1600,No,,Yes,Normal,Yes,< 2 seconds,Yes,57.2,1602,Yes,10,1700,No,,,,,145,,0,0,0
+949,Study Initiation,0,0,1740,No,,Yes,Normal,Yes,2 - 5 seconds,No,16.4,2213,Yes,21,1852,No,,,,,63,,0,0,0
+950,Study Initiation,0,0,1836,No,,Yes,Normal,Yes,< 2 seconds,Yes,29.8,1835,Yes,10,1935,Yes,10,2033,169,119,,0,0,0,0
+951,Study Initiation,0,0,1212,No,,Yes,Normal,Yes,< 2 seconds,Yes,18,1203,Yes,17,1257,No,,,,,69,,0,0,0
+952,Study Initiation,0,0,1900,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,Yes,65,1744,Yes,10,1900,Yes,10,2117,349,227,,0,0,0,0
+953,Study Initiation,0,0,2110,Yes,Moderate,Yes,Normal,Yes,2 - 5 seconds,Yes,49.4,2055,Yes,10,2120,No,,,,,130,,0,0,0
+954,Study Initiation,0,0,1340,No,,Yes,Normal,Yes,< 2 seconds,Yes,35.6,1316,Yes,10,1345,Yes,10,1430,194,135,,0,0,0,0
+955,Study Initiation,0,0,1030,No,,Yes,Normal,Yes,< 2 seconds,No,15.9,1030,Yes,10,1108,No,,,111,82,,,0,0,0
+956,Study Initiation,0,0,1935,No,,Yes,Normal,Yes,< 2 seconds,No,36.9,1747,Yes,10,1842,Yes,10,2038,200,138,,0,0,0,0
+957,Study Initiation,0,0,1248,No,,Yes,Normal,Yes,< 2 seconds,No,29.5,1215,Yes,10,1253,Yes,10,1430,167,118,,0,0,0,0
+958,Study Initiation,0,0,1845,No,,Yes,Normal,Yes,< 2 seconds,No,20,1819,Yes,10,1819,No,,,,,77,,0,0,0
+959,Study Initiation,0,0,0908,No,,Yes,Normal,Yes,< 2 seconds,Yes,57.6,0850,Yes,10,0910,No,,,,,146,,0,0,0
+960,Study Initiation,0,0,1434,No,,Yes,Normal,Yes,2 - 5 seconds,No,37.2,1408,Yes,20,1456,No,,,,,100,,0,0,0
+961,Study Initiation,0,0,1530,No,,Yes,Normal,Yes,2 - 5 seconds,No,49.5,1502,Yes,10,1529,Yes,10,1640,255,172,,0,0,0,0
+962,Study Initiation,0,0,1631,No,,Yes,Normal,Yes,< 2 seconds,No,32.4,1631,Yes,10,1746,No,,,,,99,,0,0,0
+963,Study Initiation,0,0,0130,No,,Yes,Normal,Yes,2 - 5 seconds,No,24.9,0102,Yes,10,0220,No,,,158,112,,,0,0,0
+964,Study Initiation,0,0,1904,No,,No,,Yes,< 2 seconds,No,40.6,1855,Yes,10,1952,No,,,,,115,,0,0,0
+965,Study Initiation,0,0,1105,No,,Yes,Normal,Yes,< 2 seconds,Yes,49.2,1104,Yes,10,1117,No,,,,,130,,0,0,0
+966,Study Initiation,0,0,2030,Yes,Not Documented,Not Documented,,Not Documented,,Yes,71.4,2032,Yes,21,2045,No,,,,,155,,0,0,0
+967,Study Initiation,0,0,2315,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,No,54,2251,No,,,Yes,10,0021,,,139,1,0,,0
+968,Study Initiation,0,0,1616,No,,Yes,Increased,Yes,2 - 5 seconds,Yes,39,1616,Yes,10,1744,Yes,10,1858,209,144,,0,0,0,0
+969,Study Initiation,0,0,1840,No,,Yes,Normal,Yes,< 2 seconds,No,31.4,1849,No,,,Yes,10,2147,176,124,,0,0,,0
+970,Study Initiation,0,0,1415,No,,Yes,Normal,Yes,2 - 5 seconds,No,48.3,1315,Yes,10,1430,Yes,10,1530,250,169,,0,0,0,0
+971,Study Initiation,0,0,1852,Yes,Mild,Yes,Normal,Yes,< 2 seconds,No,30.8,1846,Yes,10,2005,No,,,,,96,,0,0,0
+972,Study Initiation,0,0,1312,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,62.8,1301,Yes,10,1324,Yes,10,1426,312,207,,0,0,0,0
+973,Study Initiation,0,0,1445,No,,Yes,Bounding,Yes,2 - 5 seconds,No,39.3,1502,Yes,10,1508,No,,,,,112,,0,0,0
+974,Study Initiation,0,0,1330,No,,Yes,Normal,Yes,< 2 seconds,Yes,25,1320,Yes,11,1345,Yes,9,1423,148,107,,0,0,0,0
+975,Study Initiation,0,0,1545,No,,Yes,Normal,Yes,< 2 seconds,Yes,29,1511,Yes,10,1600,No,,,166,117,,,0,0,0
+976,Study Initiation,0,0,2028,Yes,Moderate,Yes,Increased,Yes,2 - 5 seconds,Yes,55.6,1919,Yes,10,2030,No,,,,,142,,0,0,0
+977,Study Initiation,0,0,0933,No,,Yes,Weak,Yes,2 - 5 seconds,No,7.2,1130,Yes,61,0940,No,,,,,28,,0,0,0
+978,Study Initiation,0,0,0929,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,43.8,0929,Yes,10,1003,No,,,,,120,,0,0,0
+979,Study Initiation,0,0,1415,No,,Yes,Normal,Yes,< 2 seconds,No,42.7,1440,Yes,20,1405,No,,,224,154,,,0,0,0
+980,Study Initiation,0,0,0803,No,,Yes,Normal,Yes,< 2 seconds,Yes,61.5,0803,Yes,16,0835,No,,,,,145,,0,0,0
+981,Study Initiation,0,0,1200,No,,Yes,Normal,No,,Yes,49.4,1204,Yes,20,1334,No,,,,,120,,0,0,0
+982,Study Initiation,0,0,1230,No,,Yes,Normal,Yes,< 2 seconds,No,36.8,1108,Yes,10,1241,Yes,10,1530,200,138,,0,0,0,0
+983,Study Initiation,0,0,1330,No,,Yes,Weak,Yes,2 - 5 seconds,No,13.9,1339,Yes,10,1415,Yes,10,1510,94,71,,0,0,0,0
+984,Study Initiation,0,0,1726,No,,Yes,Normal,Yes,< 2 seconds,Yes,24.2,1726,Yes,20,1751,No,,,144,104,,,0,0,0
+985,Study Initiation,0,0,1256,No,,Yes,Normal,Yes,< 2 seconds,No,39,1219,Yes,10,1318,Yes,10,1445,209,144,,0,0,0,0
+986,Study Initiation,0,0,2000,No,,Yes,Normal,Yes,< 2 seconds,No,51.6,1913,Yes,10,2008,Yes,10,2157,264,178,,0,0,0,0
+987,Study Initiation,0,0,1251,No,,Yes,Normal,No,,Yes,28,1234,Yes,10,1300,No,,,173,121,,,0,0,0
+988,Study Initiation,0,0,2017,No,,Yes,Normal,Yes,< 2 seconds,No,78.5,2007,Yes,10,1932,Yes,10,2328,380,249,,0,0,0,0
+989,Study Initiation,0,0,1300,No,,Yes,Normal,Yes,< 2 seconds,Yes,20.5,1229,Yes,10,1325,No,,,,,78,,0,0,0
+990,Study Initiation,0,0,1625,No,,Yes,Normal,Yes,< 2 seconds,No,44.6,1707,No,,,Yes,10,1949,,,122,0,0,,0
+991,Study Initiation,0,0,1314,No,,Yes,Normal,Yes,< 2 seconds,No,33.9,1314,Yes,10,1408,Yes,10,1452,188,131,,0,0,0,0
+992,Study Initiation,0,0,1854,No,,Yes,Normal,Yes,< 2 seconds,No,66.8,2049,Yes,10,2005,Yes,10,2138,329,218,,0,0,0,0
+993,Study Initiation,0,0,1345,Yes,Moderate,Yes,Normal,Yes,2 - 5 seconds,No,33.3,1356,Yes,10,1345,Yes,10,1445,185,129,,0,0,0,0
+994,Study Initiation,0,0,1300,Yes,Mild,Yes,Normal,Yes,< 2 seconds,No,15.7,1254,Yes,10,1306,Yes,10,1352,103,77,,0,0,0,0
+995,Study Initiation,0,0,0849,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,24.7,0849,Yes,10,0950,Yes,10,1141,147,106,,0,0,0,0
+996,Study Initiation,0,0,2215,Yes,Mild,Yes,Normal,Yes,< 2 seconds,No,36.3,2022,Yes,10,2120,No,,,,,107,,0,0,0
+997,Study Initiation,0,0,2200,Not Documented,,Yes,Normal,Yes,< 2 seconds,No,12,2132,No,,,Yes,20,2333,84,64,,0,0,,0
+998,Study Initiation,0,0,0831,Not Documented,,Yes,Normal,Yes,2 - 5 seconds,No,47.3,0831,Yes,10,1010,No,,,,,127,,0,0,0
+999,Study Initiation,0,0,1500,No,,Yes,Normal,Yes,2 - 5 seconds,No,10.1,1450,Yes,10,1546,Yes,10,1700,74,57,,0,0,0,0
+1000,Study Initiation,0,0,1500,No,,Yes,Normal,Yes,< 2 seconds,No,28.8,1437,Yes,10,1528,No,,,173,121,,,0,0,0
+1001,Study Initiation,0,0,1428,No,,Yes,Normal,Yes,< 2 seconds,No,13.2,1612,Yes,10,1516,Yes,10,1605,90,68,,0,0,0,0
+1002,Study Initiation,0,0,1725,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,28,1850,Yes,10,1756,No,,,,,91,,0,0,0
+1003,Study Initiation,0,0,1708,No,,Yes,Normal,Yes,< 2 seconds,No,23.7,1500,Yes,10,1703,No,,,,,83,,0,0,0
+1004,Study Initiation,0,0,1619,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,Yes,93.8,1622,Yes,10,1734,Yes,10,1941,446,290,,0,0,0,0
+1005,Study Initiation,0,0,1445,Yes,Moderate,Yes,Normal,Yes,2 - 5 seconds,No,44,1444,Yes,10,1515,No,,,,,121,,0,0,0
+1006,Study Initiation,0,0,1757,No,,No,,No,,Yes,57.5,1613,Yes,10,1745,No,,,,,,,0,0,0
+1007,Study Initiation,0,0,0320,No,,Yes,Bounding,Yes,2 - 5 seconds,Yes,40.6,0349,Yes,10,0340,Yes,10,0500,216,148,,0,0,0,0
+1008,Study Initiation,0,0,1258,No,,Yes,Normal,Yes,< 2 seconds,Yes,42.4,1245,Yes,10,1330,Yes,10,1426,224,153,,0,0,0,0
+1009,Study Initiation,0,0,1137,No,,Yes,Normal,Yes,2 - 5 seconds,No,10.5,1137,Yes,10,1231,No,,,,,50,,0,0,0
+1010,Study Initiation,0,0,0945,No,,Yes,Normal,Yes,< 2 seconds,Yes,72,0945,Yes,10,1045,No,,,382,247,,,0,0,0
+1011,Study Initiation,0,0,1704,No,,Yes,Normal,No,,Yes,104.4,1700,Yes,10,1818,Yes,10,1924,473,307,,0,0,0,0
+1012,Study Initiation,0,0,1051,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,50.4,1051,Yes,10,1040,No,,,,,132,,0,0,0
+1013,Study Initiation,0,0,1230,Yes,Mild,Yes,Normal,Yes,< 2 seconds,No,47.8,1219,Yes,10,1307,Yes,10,1418,245,167,,0,0,0,0
+1014,Study Initiation,0,0,1536,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,50.6,1536,Yes,10,1602,Yes,10,1742,,,133,0,0,0,0
+1015,Study Initiation,0,0,0835,No,,Yes,Normal,Yes,2 - 5 seconds,No,29.3,0833,Yes,10,0855,Yes,10,1000,167,118,,0,0,0,0
+1016,Study Initiation,0,0,2100,No,,Yes,Weak,Yes,< 2 seconds,No,14.2,2028,Yes,20,2100,No,,,,,57,,0,0,0
+1017,Study Initiation,0,0,1500,No,,Yes,Normal,Yes,< 2 seconds,Yes,54.5,1444,Yes,10,1551,No,,,,,140,,0,0,0
+1018,Study Initiation,0,0,1610,No,,Yes,Normal,Yes,< 2 seconds,No,117.8,1526,Yes,8,1330,No,,,,,223,,0,0,0
+1019,Study Initiation,0,0,1139,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,42.1,1133,Yes,10,1200,Yes,10,1330,222,152,,0,0,0,0
+1020,Study Initiation,0,0,1430,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,68,1630,Yes,10,1531,Yes,10,1645,333,221,,0,0,0,0
+1021,Study Initiation,0,0,1239,No,,Yes,Increased,Yes,2 - 5 seconds,No,32.1,1243,Yes,10,1329,No,,,,,99,,0,0,0
+1022,Study Initiation,0,0,1711,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,Yes,58.5,1714,Yes,7,1651,Yes,13,1840,294,196,,0,0,0,0
+1023,Study Initiation,0,0,0850,No,,Yes,Normal,Yes,< 2 seconds,Yes,60,0826,Yes,10,0900,Yes,10,1015,300,200,,0,0,0,0
+1024,Study Initiation,0,0,1838,Yes,Mild,Yes,Weak,Yes,< 2 seconds,No,21.5,1839,Yes,10,1840,No,,,,,80,,0,0,0
+1025,Study Initiation,0,0,1901,No,,Yes,Normal,Yes,< 2 seconds,No,11.2,1705,Yes,10,1941,No,,,,,52,,0,0,0
+1026,Study Initiation,0,0,0955,No,,Yes,Normal,Yes,< 2 seconds,No,104.7,1300,Yes,20,0857,No,,,473,307,,,0,0,0
+1027,Study Initiation,0,0,1300,No,,Yes,Normal,Yes,< 2 seconds,Yes,26,1307,Yes,10,1330,Yes,10,1605,164,114,,0,0,0,0
+1028,Study Initiation,0,0,0500,Yes,Moderate,Yes,Normal,Yes,2 - 5 seconds,Yes,52.5,0406,Yes,10,0438,Yes,10,0556,269,181,,0,0,0,0
+1029,Study Initiation,0,0,1105,No,,Yes,Normal,Yes,2 - 5 seconds,No,25,1125,Yes,20,1005,No,,,150,108,,,0,0,0
+1030,Study Initiation,0,0,1130,No,,Yes,Normal,Yes,< 2 seconds,Yes,25,1230,Yes,10,1132,No,,,,,86,,0,0,0
+1031,Study Initiation,0,0,1003,Yes,Moderate,Yes,Normal,Yes,2 - 5 seconds,Yes,52.1,0939,Yes,7,1012,Yes,13,1107,266,179,,0,0,0,0
+1032,Study Initiation,0,0,0951,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,73.4,0949,Yes,13,1048,No,,,378,245,,,0,0,0
+1033,Study Initiation,0,0,0900,No,,Yes,Normal,Yes,< 2 seconds,No,39.7,0824,Yes,10,0927,Yes,10,1036,212,146,,0,0,0,0
+1034,Study Initiation,0,0,0957,No,,No,,No,,Yes,27.2,0959,Yes,10,1026,Yes,10,1109,158,113,,0,0,0,0
+1035,Study Initiation,0,0,1900,Yes,Mild,Yes,Weak,Yes,2 - 5 seconds,No,26.8,1307,Yes,20,1625,No,,,,,84,,0,0,0
+1036,Study Initiation,0,0,0630,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,55,0544,Yes,10,0600,No,,,,,201,,0,0,0
+1037,Study Initiation,0,0,1831,No,,Yes,Normal,Yes,< 2 seconds,No,38.85,1827,Yes,10,1920,No,,,,,111,,0,0,0
+1038,Study Initiation,0,0,1836,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,53.1,1834,Yes,19,1841,No,,,,,128,,0,0,0
+1039,Study Initiation,0,0,2026,No,,Yes,Bounding,Yes,2 - 5 seconds,Yes,69.5,2023,Yes,20,2100,Yes,10,0815,341,225,,1,0,0,0
+1040,Study Initiation,0,0,1350,No,,Yes,Normal,Yes,2 - 5 seconds,No,43,1500,Yes,23,1436,No,,,221,152,,,0,0,0
+1041,Study Initiation,0,0,1605,No,,Yes,Normal,Yes,< 2 seconds,No,10.5,1605,Yes,20,1720,No,,,76,59,,,0,0,0
+1042,Study Initiation,0,0,0800,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,52.2,0649,Yes,10,0745,No,,,,,136,,0,0,0
+1043,Study Initiation,0,0,1050,Yes,Mild,No,,Yes,< 2 seconds,Yes,50,1055,Yes,10,1119,Yes,10,1245,257,173,,0,0,0,0
+1044,Study Initiation,0,0,1304,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,34,1226,Yes,10,1300,Yes,10,1410,187,131,,0,0,0,0
+1045,Study Initiation,0,0,1122,No,,Yes,Normal,Yes,< 2 seconds,Yes,38.9,1126,Yes,10,1145,No,,,,,119,,0,0,0
+1046,Study Initiation,0,0,1320,No,,Yes,Bounding,Yes,< 2 seconds,Yes,52.7,1315,Yes,20,1404,No,,,271,182,,,0,0,0
+1047,Study Initiation,0,0,1444,Yes,Mild,No,,Yes,< 2 seconds,Yes,26.8,1856,Yes,10,1502,Yes,10,2000,156,112,,0,0,0,0
+1048,Study Initiation,0,0,1126,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,43.6,1138,Yes,23,1150,No,,,224,154,,,0,0,0
+1049,Study Initiation,0,0,1400,No,,Yes,Weak,Yes,2 - 5 seconds,No,55.6,1500,Yes,11,1425,Yes,9,1535,281,188,,0,0,0,0
+1050,Study Initiation,0,0,1200,No,,Yes,Normal,Yes,< 2 seconds,No,82.8,1158,Yes,12,1410,Yes,8,1500,399,261,,0,0,0,0
+1051,Study Initiation,0,0,1145,No,,Yes,Normal,Yes,< 2 seconds,No,46.2,1112,Yes,10,1223,Yes,10,1304,240,163,,0,0,0,0
+1052,Study Initiation,0,0,1419,No,,Yes,Normal,Yes,< 2 seconds,No,21.7,1335,Yes,20,1422,No,,,134,98,,,0,0,0
+1053,Study Initiation,0,0,1330,No,,Yes,Normal,Yes,2 - 5 seconds,No,15.4,1556,Yes,10,1511,No,,,,,64,,0,0,0
+1054,Study Initiation,0,0,1146,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,59.1,1053,Yes,10,1146,No,,,,,148,,0,0,0
+1055,Study Initiation,0,0,1030,Yes,Mild,Yes,Normal,Yes,< 2 seconds,No,30,1020,Yes,10,1120,No,,,,,95,,0,0,0
+1056,Study Initiation,0,0,1204,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,47.5,1137,Yes,10,1230,Yes,10,1335,246,167,,0,0,0,0
+1057,Study Initiation,0,0,1304,No,,Yes,Normal,Yes,2 - 5 seconds,No,23.9,1307,Yes,20,1437,No,,,,,79,,0,0,0
+1058,Study Initiation,0,0,1233,Yes,Mild,Yes,Weak,Yes,< 2 seconds,No,49.1,1404,No,,,Yes,10,1416,,,130,0,0,,0
+1059,Study Initiation,0,0,0849,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,46.3,0816,Yes,10,0900,Yes,10,1036,241,163,,0,0,0,0
+1060,Study Initiation,0,0,1208,No,,Yes,Normal,Yes,< 2 seconds,Yes,43.2,1106,Yes,23,1235,No,,,,,107,,0,0,0
+1061,Study Initiation,0,0,1230,No,,Yes,Weak,Yes,2 - 5 seconds,No,32.7,1556,Yes,20,1404,No,,,,,93,,0,0,0
+1062,Study Initiation,0,0,1400,No,,Yes,Normal,Yes,< 2 seconds,No,10.7,1349,Yes,10,1545,No,,,,,50,,0,0,0
+1063,Study Initiation,0,0,1230,No,,Yes,Weak,Yes,2 - 5 seconds,No,25.6,1135,No,,,Yes,20,1345,151,108,,0,0,,0
+1064,Study Initiation,0,0,1511,No,,Yes,Normal,Yes,< 2 seconds,No,21.3,1451,Yes,10,1515,Yes,10,1815,132,97,,0,0,0,0
+1065,Study Initiation,0,0,2225,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,27.3,2225,Yes,10,2300,No,,,,,90,,-1,-1,-1
+1066,Study Initiation,0,0,2013,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,54.9,1937,Yes,18,1945,No,,,,,131,,0,0,0
+1067,Study Initiation,0,0,2105,No,,Yes,Normal,Yes,< 2 seconds,Yes,62.5,2057,Yes,16,2246,Yes,4,0052,311,207,,0,-1,-1,-1
+1068,Study Initiation,0,0,1653,No,,Yes,Normal,Yes,< 2 seconds,Yes,74.1,1615,Yes,10,1659,Yes,10,1907,361,238,,0,0,0,0
+1069,Study Initiation,0,0,0707,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,62.6,0708,Yes,10,0719,Yes,10,0942,311,207,,0,0,0,0
+1070,Study Initiation,0,0,1630,No,,Yes,Normal,Yes,< 2 seconds,Yes,27.5,2026,Yes,10,1530,No,,,,,93,,0,0,0
+1071,Study Initiation,0,0,1427,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,51.5,1334,No,,,Yes,10,1446,,,134,0,0,,0
+1072,Study Initiation,0,0,1410,No,,Yes,Normal,No,,No,12.3,1242,Yes,10,1405,Yes,10,1515,86,65,,0,0,0,0
+1073,Study Initiation,0,0,1915,No,,Yes,Normal,Yes,< 2 seconds,No,49.5,2057,Yes,10,2020,Yes,10,2140,254,172,,0,0,0,0
+1074,Study Initiation,0,0,1530,Yes,Mild,Yes,Normal,Yes,< 2 seconds,No,119.8,1512,Yes,10,1637,No,,,,,223,,0,0,0
+1075,Study Initiation,0,0,1407,No,,Yes,Normal,Yes,2 - 5 seconds,No,32.6,1309,Yes,10,1435,Yes,10,1530,181,127,,0,0,0,28
+1076,Study Initiation,0,0,0830,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,Yes,44.1,0755,Yes,11,0830,Yes,9,1050,231,158,,0,0,0,0
+1077,Study Initiation,0,0,1847,Yes,Mild,Yes,Normal,Yes,< 2 seconds,No,32.3,1900,Yes,10,1943,Yes,10,2038,180,126,,0,0,0,0
+1078,Study Initiation,0,0,1100,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,51.8,1035,Yes,10,1100,No,,,,,135,,0,0,0
+1079,Study Initiation,0,0,1409,No,,Yes,Normal,Yes,2 - 5 seconds,No,72,1408,Yes,10,1445,Yes,10,1549,352,232,,0,0,0,0
+1080,Study Initiation,0,0,1035,No,,Yes,Normal,Yes,< 2 seconds,Yes,71.8,1204,Yes,7,1220,No,,,,,176,,0,0,0
+1081,Study Initiation,0,0,1300,No,,Yes,Weak,Yes,2 - 5 seconds,No,30.5,1240,Yes,10,1240,Yes,10,1350,173,122,,0,0,0,0
+1082,Study Initiation,0,0,1740,No,,Yes,Weak,Yes,2 - 5 seconds,No,42.2,1738,No,,,Yes,10,1816,,,117,0,0,,0
+1083,Study Initiation,0,0,1830,No,,Yes,Normal,Yes,< 2 seconds,Yes,19.5,1803,Yes,10,1847,Yes,10,2023,124,92,,0,0,0,0
+1084,Study Initiation,0,0,1203,No,,No,,No,,Yes,52,1159,Yes,10,1235,Yes,10,1647,267,180,,0,0,0,0
+1085,Study Initiation,0,0,0935,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,48,0900,Yes,20,0945,No,,,,,118,,0,0,0
+1086,Study Initiation,0,0,0952,No,,Yes,Normal,Yes,< 2 seconds,Yes,67.2,0905,Yes,10,1000,Yes,10,1218,330,213,,0,0,0,0
+1087,Study Initiation,0,0,1220,No,,Yes,Increased,Yes,2 - 5 seconds,Yes,13.35,1212,Yes,20,1336,No,,,,,55,,0,0,0
+1088,Study Initiation,0,0,0841,Not Documented,,Yes,Weak,Yes,2 - 5 seconds,No,19.6,0830,Yes,10,0850,Yes,10,0959,124,92,,0,0,0,0
+1089,Study Initiation,0,0,2128,No,,Yes,Normal,Yes,< 2 seconds,No,34.5,2115,Yes,10,2140,Yes,10,2240,190,132,,0,0,0,0
+1090,Study Initiation,0,0,2330,No,,Yes,Normal,Yes,< 2 seconds,Yes,32.7,2135,Yes,10,2300,No,,,,,100,,-1,-1,-1
+1091,Study Initiation,0,0,2157,No,,Yes,Increased,Yes,< 2 seconds,Yes,93.8,2120,Yes,10,2223,No,,,515,328,,,0,0,1
+1092,Study Initiation,0,0,1721,No,,Yes,Normal,Yes,< 2 seconds,Yes,42.6,1749,Yes,10,1805,No,,,,,118,,0,0,0
+1093,Study Initiation,0,0,1722,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,60.5,1720,Yes,10,1745,Yes,10,1900,302,201,,0,0,0,0
+1094,Study Initiation,0,0,0000,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,44.5,0100,Yes,10,0032,Yes,10,0115,249,167,,1,0,0,0
+1095,Study Initiation,0,0,1601,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,46.9,1503,Yes,10,1814,No,,,,,126,,0,0,0
+1096,Study Initiation,0,0,1146,No,,Yes,Increased,Yes,2 - 5 seconds,No,47.4,1143,Yes,10,1220,No,,,245,166,,,0,0,0
+1097,Study Initiation,0,0,2130,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,22.8,2051,Yes,10,2125,Yes,10,2250,148,106,,0,0,0,0
+1098,Study Initiation,0,0,1315,No,,Yes,Normal,Yes,2 - 5 seconds,No,31.1,1315,Yes,20,1415,Yes,20,1515,175,123,,0,0,0,0
+1099,Study Initiation,0,0,1230,Yes,Unknown,Yes,Normal,Yes,2 - 5 seconds,Yes,110,1200,Yes,10,1245,No,,,,,223,,0,0,0
+1100,Study Initiation,0,0,1500,No,,Yes,Normal,Yes,< 2 seconds,No,84,1445,Yes,10,1548,Yes,10,1722,404,264,,0,0,0,0
+1101,Study Initiation,0,0,1630,No,,Yes,Normal,Yes,< 2 seconds,Yes,14.6,1630,Yes,10,1654,No,,,,,61,,0,0,0
+1102,Study Initiation,0,0,0833,No,,Yes,Normal,Yes,< 2 seconds,Yes,63.7,0838,Yes,10,0855,Yes,10,1000,316,210,,0,0,0,0
+1103,Study Initiation,0,0,1450,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,58.2,1441,Yes,10,1454,No,,,,,147,,0,0,0
+1104,Study Initiation,0,0,1906,No,,Yes,Normal,Yes,< 2 seconds,Yes,45.9,1745,Yes,10,1800,Yes,10,1937,258,172,,0,0,0,0
+1105,Study Initiation,0,0,1044,No,,Yes,Normal,Yes,< 2 seconds,Yes,52,1056,No,,,Yes,20,1406,,,125,0,0,,0
+1106,Study Initiation,0,0,1700,No,,Yes,Normal,Yes,< 2 seconds,Yes,52.6,1854,Yes,10,1747,Yes,10,1934,266,179,,0,0,0,0
+1107,Study Initiation,0,0,1330,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,34.4,1246,No,,,Yes,20,1439,189,132,,0,0,,0
+1108,Study Initiation,0,0,0759,No,,Yes,Normal,Yes,< 2 seconds,Yes,12,0747,Yes,10,0810,No,,,,,54,,0,0,0
+1109,Study Initiation,0,0,2314,No,,Yes,Normal,No,,Yes,38.1,2300,Yes,10,2345,No,,,,,109,,-1,-1,-1
+1110,Study Initiation,0,0,1715,Yes,Moderate,Yes,Weak,Yes,2 - 5 seconds,Yes,54.2,1630,Yes,20,1600,No,,,,,127,,0,0,0
+1111,Study Initiation,0,0,1359,Yes,Moderate,Yes,Normal,Yes,2 - 5 seconds,No,60.4,1359,No,,,Yes,10,1652,,,151,0,0,,0
+1112,Study Initiation,0,0,1100,Yes,Mild,Yes,Weak,Yes,2 - 5 seconds,No,25.4,1020,Yes,10,1241,Yes,10,1400,150,108,,0,0,0,0
+1113,Study Initiation,0,0,1016,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,59.7,1059,Yes,10,1145,Yes,10,1531,299,199,,0,0,0,0
+1114,Study Initiation,0,0,1045,No,,Yes,Increased,Yes,< 2 seconds,No,28.6,1200,Yes,10,1114,Yes,10,1215,164,117,,0,0,0,0
+1115,Study Initiation,0,0,0933,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,111.2,0934,Yes,10,1015,No,,,,,221,,0,0,0
+1116,Study Initiation,0,0,1300,No,,Yes,Normal,Yes,< 2 seconds,No,34.9,1450,No,,,Yes,10,1451,,,104,0,0,,0
+1117,Study Initiation,0,0,1904,No,,Yes,Weak,Yes,> 5 seconds,No,10,1912,Yes,10,2023,Yes,10,2300,73,57,,0,0,0,0
+1118,Study Initiation,0,0,1247,No,,Yes,Normal,Yes,< 2 seconds,No,16.4,1256,Yes,10,1400,No,,,,,66,,0,0,0
+1119,Study Initiation,0,0,1323,No,,Yes,Normal,Yes,< 2 seconds,No,45.7,1323,No,,,Yes,10,1536,,,124,0,0,,0
+1120,Study Initiation,0,0,1823,No,,Yes,Normal,Yes,< 2 seconds,Yes,50.1,1641,Yes,10,1800,Yes,10,2000,257,174,,0,0,0,0
+1121,Study Initiation,0,0,1827,No,,Yes,Normal,No,,Yes,36.5,1842,Yes,10,1854,Yes,10,2000,198,137,,0,0,0,0
+1122,Study Initiation,0,0,0838,No,,Yes,Increased,Yes,< 2 seconds,Yes,66.9,0838,Yes,10,0942,No,,,,,163,,0,0,0
+1123,Study Initiation,0,0,1100,No,,Yes,Normal,Yes,< 2 seconds,No,50.1,0900,Yes,38,0900,No,,,220,155,,,0,0,0
+1124,Study Initiation,0,0,1430,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,30.7,1430,Yes,10,1450,Yes,10,1605,174,122,,0,0,0,0
+1125,Study Initiation,0,0,0310,No,,Yes,Weak,Yes,2 - 5 seconds,No,34.8,0308,Yes,10,1413,Yes,10,1454,,,97,0,0,0,0
+1126,Study Initiation,0,0,1638,Yes,Severe,Yes,Increased,Yes,2 - 5 seconds,Yes,48.2,1705,Yes,10,1721,Yes,10,1830,249,169,,0,0,0,0
+1127,Study Initiation,0,0,0947,No,,Yes,Normal,Yes,< 2 seconds,Yes,62,0946,Yes,10,1057,No,,,,,154,,0,0,0
+1128,Study Initiation,0,0,1400,No,,Yes,Normal,Yes,< 2 seconds,No,69.8,1234,Yes,10,1323,No,,,,,168,,0,0,0
+1129,Study Initiation,0,0,1822,No,,Yes,Bounding,Yes,< 2 seconds,Yes,42.6,1831,Yes,10,1830,No,,,,,118,,0,0,0
+1130,Study Initiation,0,0,1144,No,,Yes,Normal,Yes,2 - 5 seconds,No,33.3,1143,Yes,20,1225,No,,,,,94,,0,0,0
+1131,Study Initiation,0,0,0634,No,,Yes,Normal,Yes,< 2 seconds,Yes,18.6,0608,Yes,10,0642,Yes,10,0800,119,88,,0,0,0,0
+1132,Study Initiation,0,0,1030,No,,Yes,Normal,Yes,< 2 seconds,No,14.6,0958,Yes,10,1214,Yes,10,1414,98,74,,0,0,0,0
+1133,Study Initiation,0,0,0934,No,,Yes,Weak,Yes,2 - 5 seconds,Yes,55.7,1027,Yes,11,0944,Yes,9,1045,281,189,,0,0,0,0
+1134,Study Initiation,0,0,1452,No,,Yes,Normal,Yes,< 2 seconds,No,17.6,1452,Yes,10,1622,Yes,10,1822,114,84,,0,0,0,0
+1135,Study Initiation,0,0,1400,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,81.9,1445,Yes,10,1345,No,,,,,190,,0,0,0
+1136,Study Initiation,0,0,2100,No,,Yes,Normal,Yes,2 - 5 seconds,No,10.9,2019,No,,,Yes,18,2148,79,60,,0,0,,0
+1137,Study Initiation,0,0,0900,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,41.4,0833,Yes,20,0904,No,,,219,150,,,0,0,0
+1138,Study Initiation,0,0,1230,No,,Yes,Normal,Yes,< 2 seconds,No,24.4,1122,Yes,10,1227,Yes,10,1340,146,105,,0,0,0,0
+1139,Study Initiation,0,0,0905,No,,Yes,Normal,Yes,2 - 5 seconds,No,60.7,0850,Yes,10,0915,No,,,,,151,,0,0,0
+1140,Study Initiation,0,0,1900,No,,Yes,Normal,Yes,2 - 5 seconds,No,13.9,1837,Yes,10,1915,Yes,10,1952,,,56,0,0,0,0
+1141,Study Initiation,0,0,1538,Yes,Unknown,Yes,Normal,Yes,2 - 5 seconds,Yes,85,1504,Yes,12,1558,No,,,,,193,,0,0,0
+1142,Study Initiation,0,0,1116,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,52.9,1120,Yes,10,1135,No,,,,,137,,0,0,0
+1143,Study Initiation,0,0,0853,No,,Yes,Bounding,Yes,2 - 5 seconds,Yes,41.1,1018,Yes,24,0830,No,,,,,103,,0,0,0
+1144,Study Initiation,0,0,1417,No,,Yes,Normal,Yes,2 - 5 seconds,No,23.4,1449,No,,,Yes,20,1503,141,102,,0,0,,0
+1145,Study Initiation,0,0,1347,Yes,Moderate,Yes,Normal,Yes,2 - 5 seconds,Yes,34.8,1351,Yes,20,1440,No,,,,,96,,0,0,0
+1146,Study Initiation,0,0,2245,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,66.1,2234,Yes,10,2305,Yes,10,0123,326,216,,0,-1,-1,-1
+1147,Study Initiation,0,0,2036,No,,Yes,Normal,Yes,< 2 seconds,Yes,56.1,2013,Yes,10,2045,No,,,,,143,,0,0,0
+1148,Study Initiation,0,0,2100,No,,Yes,Weak,Yes,2 - 5 seconds,No,20.7,2003,Yes,10,2105,No,,,,,78,,0,0,0
+1149,Study Initiation,0,0,1157,No,,Yes,Weak,Yes,2 - 5 seconds,No,23.8,1155,Yes,10,1245,No,,,,,82,,0,0,0
+1150,Study Initiation,0,0,2100,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,50.8,2048,Yes,10,2110,Yes,10,2211,,,123,0,0,0,0
+1151,Study Initiation,0,0,1115,No,,Yes,Normal,Yes,< 2 seconds,Yes,64.5,1101,No,,,Yes,20,1200,320,212,,0,0,,0
+1152,Study Initiation,0,0,1900,Yes,Mild,Yes,Increased,Yes,2 - 5 seconds,Yes,56.2,1851,Yes,10,2010,No,,,,,143,,0,0,0
+1153,Study Initiation,0,0,1103,No,,Yes,Normal,Yes,< 2 seconds,No,50.5,1023,Yes,10,1246,No,,,,,133,,0,0,0
+1154,Study Initiation,0,0,0500,No,,Yes,Increased,Yes,2 - 5 seconds,No,38.4,0600,Yes,20,0400,No,,,,,102,,0,0,0
+1155,Study Initiation,0,0,0936,No,,Yes,Increased,Yes,2 - 5 seconds,Yes,39.8,0852,Yes,10,1000,Yes,10,1038,212,146,,0,0,0,0
+1156,Study Initiation,0,0,1545,No,,Yes,Normal,Yes,< 2 seconds,No,48.4,1542,Yes,10,1734,Yes,10,1859,250,169,,0,0,0,0
+1157,Study Initiation,0,0,1829,No,,Yes,Increased,Yes,2 - 5 seconds,No,40.4,1829,Yes,10,1943,Yes,10,2029,215,148,,0,0,0,0
+1158,Study Initiation,0,0,1000,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,48.4,1054,Yes,10,1005,No,,,,,129,,0,0,0
+1159,Study Initiation,0,0,1200,No,,Yes,Normal,Yes,< 2 seconds,Yes,34.4,1214,Yes,20,1255,No,,,189,131,,,0,0,0
+1160,Study Initiation,0,0,1247,No,,Yes,Normal,Yes,2 - 5 seconds,No,54.2,1300,Yes,10,1508,No,,,,,139,,0,0,0
+1161,Study Initiation,0,0,0845,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,61.9,0709,Yes,20,0742,No,,,308,205,,,0,0,0
+1162,Study Initiation,0,0,0120,No,,Yes,Normal,Yes,< 2 seconds,Yes,50,0054,Yes,10,0054,Yes,10,0239,,,121,0,0,0,0
+1163,Study Initiation,0,0,1315,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,No,41.4,1241,Yes,10,1315,Yes,10,1517,219,150,,0,0,0,0
+1164,Study Initiation,0,0,0800,No,,Yes,Increased,Yes,< 2 seconds,Yes,35.4,0804,Yes,10,0817,Yes,10,1253,193,134,,0,0,0,0
+1165,Study Initiation,0,0,1230,No,,Yes,Normal,Yes,< 2 seconds,No,21,1200,Yes,10,1305,No,,,,,79,,0,0,0
+1166,Study Initiation,0,0,1100,No,,Yes,Normal,Yes,< 2 seconds,Yes,56.5,0954,Yes,10,1023,Yes,10,1137,285,191,,0,0,0,0
+1167,Study Initiation,0,0,1030,Yes,Mild,Yes,Bounding,Yes,< 2 seconds,Yes,76.7,1039,Yes,10,1057,No,,,,,181,,0,0,0
+1168,Study Initiation,0,0,1004,No,,Yes,Normal,Yes,< 2 seconds,Yes,45.9,1018,Yes,10,1015,Yes,10,1158,239,162,,0,0,0,0
+1169,Study Initiation,0,0,1414,No,,Yes,Normal,Yes,2 - 5 seconds,No,21,1350,Yes,10,1445,No,,,,,79,,0,0,0
+1170,Study Initiation,0,0,1311,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,Yes,44,1321,Yes,10,1410,No,,,,,121,,0,0,0
+1171,Study Initiation,0,0,0515,No,,Yes,Normal,Yes,< 2 seconds,Yes,45.8,0515,Yes,10,0520,No,,,,,145,,0,0,0
+1172,Study Initiation,0,0,1611,No,,Yes,Normal,Yes,2 - 5 seconds,No,22.65,1506,Yes,10,1755,No,,,,,82,,0,0,0
+1173,Study Initiation,0,0,1126,No,,Yes,Normal,Yes,< 2 seconds,Yes,62.1,1130,Yes,10,1250,No,,,,,154,,0,0,0
+1174,Study Initiation,0,0,1612,No,,Yes,Normal,Yes,< 2 seconds,No,137.9,1538,Yes,10,1728,Yes,10,1900,616,371,,0,0,0,0
+1175,Study Initiation,0,0,1355,Yes,Moderate,Yes,Normal,Yes,2 - 5 seconds,Yes,67.5,1359,Yes,10,1442,Yes,10,1601,360,234,,0,0,0,0
+1176,Study Initiation,0,0,1035,No,,Yes,Normal,Yes,2 - 5 seconds,No,15.7,1020,Yes,10,1100,Yes,10,1320,104,78,,0,0,0,0
+1177,Study Initiation,0,0,1627,No,,Yes,Normal,Yes,2 - 5 seconds,No,28.7,1514,Yes,10,1630,No,,,,,93,,0,0,0
+1178,Study Initiation,0,0,1545,No,,Yes,Normal,Yes,< 2 seconds,Yes,55,1500,Yes,20,1522,No,,,,,134,,0,0,0
+1179,Study Initiation,0,0,0800,No,,Yes,Normal,Yes,< 2 seconds,Yes,62.7,0726,Yes,10,0750,Yes,10,0906,312,207,,0,0,0,0
+1180,Study Initiation,0,0,0815,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,67.5,0813,No,,,No,,,,,164,,0,,0
+1181,Study Initiation,0,0,1830,No,,Yes,Normal,Yes,< 2 seconds,No,74.7,1827,Yes,23,1928,No,,,353,234,,,0,0,0
+1182,Study Initiation,0,0,2213,No,,Yes,Normal,Yes,< 2 seconds,Yes,33.2,2222,Yes,10,2326,No,,,,,101,,-1,-1,-1
+1183,Study Initiation,0,0,1405,No,,Yes,Normal,Yes,< 2 seconds,No,34.7,1222,Yes,10,1647,No,,,,,104,,0,0,0
+1184,Study Initiation,0,0,1055,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,No,42.4,1241,Yes,13,1157,No,,,,,115,,0,0,0
+1185,Study Initiation,0,0,1629,No,,Yes,Normal,Yes,< 2 seconds,Yes,24.8,1629,Yes,20,1751,No,,,147,106,,,0,0,0
+1186,Study Initiation,0,0,1600,No,,Yes,Normal,Yes,< 2 seconds,No,20,1600,Yes,10,1655,Yes,10,1748,127,93,,0,0,0,0
+1187,Study Initiation,0,0,1805,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,51.7,1751,Yes,10,1820,No,,,,,135,,0,0,0
+1188,Study Initiation,0,0,1750,No,,Yes,Normal,Yes,< 2 seconds,Yes,48,1726,Yes,10,1815,Yes,10,1921,248,168,,0,0,0,0
+1189,Study Initiation,0,0,1706,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,55.5,1706,Yes,10,1758,No,,,,,142,,0,0,0
+1190,Study Initiation,0,0,1833,No,,Yes,Increased,Yes,< 2 seconds,No,11.93,1833,Yes,10,1910,Yes,10,2046,84,64,,0,0,0,0
+1191,Study Initiation,0,0,1300,No,,Yes,Normal,Yes,< 2 seconds,No,10,1430,Yes,10,1330,No,,,,,48,,0,0,0
+1192,Study Initiation,0,0,1910,No,,Yes,Normal,Yes,< 2 seconds,Yes,53.8,1832,Yes,10,2026,Yes,10,2146,273,183,,0,0,0,0
+1193,Study Initiation,0,0,1036,No,,Yes,Normal,Yes,< 2 seconds,Yes,44.4,1039,Yes,10,1047,Yes,10,1154,,,112,0,0,0,0
+1194,Study Initiation,0,0,1350,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,48.8,1354,Yes,10,1433,No,,,,,129,,0,0,0
+1195,Study Initiation,0,0,0830,No,,Yes,Normal,Yes,< 2 seconds,No,31.1,0640,Yes,23,0748,No,,,171,121,,,0,0,0
+1196,Study Initiation,0,0,1400,No,,Yes,Normal,Yes,< 2 seconds,No,39.9,1400,Yes,10,1458,No,,,,,113,,0,0,0
+1197,Study Initiation,0,0,1533,No,,Yes,Normal,Yes,2 - 5 seconds,No,81.3,1529,Yes,20,1635,No,,,426,274,,,0,0,0
+1198,Study Initiation,0,0,0546,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,Yes,62.1,0551,Yes,10,0651,Yes,10,0836,309,206,,0,0,0,0
+1199,Study Initiation,0,0,1230,No,,Yes,Normal,Yes,2 - 5 seconds,No,45.5,1229,Yes,10,1322,Yes,10,1450,237,161,,0,0,0,0
+1200,Study Initiation,0,0,1330,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,54.7,1520,Yes,18,1213,No,,,,,131,,0,0,0
+1201,Study Initiation,0,0,1315,No,,Yes,Normal,Yes,2 - 5 seconds,No,50.7,1324,Yes,10,1411,No,,,,,133,,0,0,0
+1202,Study Initiation,0,0,1330,Yes,Mild,No,,Yes,< 2 seconds,No,29,1033,Yes,20,1109,No,,,,,87,,0,0,0
+1203,Study Initiation,0,0,1630,No,,Yes,Increased,Yes,2 - 5 seconds,No,37,1846,Yes,10,1624,Yes,10,1925,201,139,,0,0,0,0
+1204,Study Initiation,0,0,1252,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,51.3,1231,Yes,10,1300,Yes,10,1631,262,176,,0,0,0,0
+1205,Study Initiation,0,0,1035,Yes,Mild,Yes,Weak,Yes,2 - 5 seconds,Yes,56.4,1013,Yes,18,1045,No,,,,,134,,0,0,0
+1206,Study Initiation,0,0,1927,No,,Yes,Normal,Yes,2 - 5 seconds,No,18.6,1935,Yes,10,2016,No,,,,,73,,0,0,0
+1207,Study Initiation,0,0,1320,No,,Yes,Normal,Yes,< 2 seconds,No,44.1,1245,Yes,10,1440,Yes,10,1550,231,158,,0,0,0,0
+1208,Study Initiation,0,0,1500,No,,Yes,Normal,Yes,< 2 seconds,Yes,28.9,1310,Yes,10,1508,Yes,10,1625,165,117,,0,0,0,0
+1209,Study Initiation,0,0,0738,No,,No,,Yes,2 - 5 seconds,Yes,32,1001,Yes,10,0848,Yes,10,1144,179,125,,0,0,0,0
+1210,Study Initiation,0,0,0600,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,38.3,0551,Yes,10,0620,Yes,10,0800,206,142,,0,0,0,0
+1211,Study Initiation,0,0,1251,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,23.6,1256,Yes,10,1309,No,,,,,83,,0,0,0
+1212,Study Initiation,0,0,1600,No,,Yes,Normal,Yes,2 - 5 seconds,No,21.2,1528,Yes,10,1608,Yes,10,1756,132,97,,0,0,0,0
+1213,Study Initiation,0,0,2010,No,,Yes,Normal,Yes,< 2 seconds,No,45.8,1925,Yes,10,2030,No,,,,,124,,0,0,0
+1214,Study Initiation,0,0,1350,No,,Yes,Normal,Yes,2 - 5 seconds,No,38.1,1350,Yes,10,1420,Yes,10,1620,205,142,,0,0,0,0
+1215,Study Initiation,0,0,1615,No,,Yes,Normal,Yes,< 2 seconds,Yes,50.8,1629,Yes,10,1701,Yes,10,1818,260,175,,0,0,0,0
+1216,Study Initiation,0,0,1137,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,No,46.9,1137,Yes,10,1235,Yes,10,1406,243,165,,0,0,0,0
+1217,Study Initiation,0,0,1200,Yes,Moderate,Yes,Increased,Yes,2 - 5 seconds,Yes,51.4,1145,Yes,10,1100,No,,,,,135,,0,0,0
+1218,Study Initiation,0,0,0900,No,,Yes,Normal,Yes,2 - 5 seconds,No,26.5,0853,Yes,10,0939,No,,,,,88,,0,0,0
+1219,Study Initiation,0,0,1025,Yes,Mild,Yes,Normal,No,,Yes,59.9,1028,Yes,10,1051,No,,,,,150,,0,0,0
+1220,Study Initiation,0,0,1700,No,,No,,No,,No,109,1626,Yes,10,1715,Yes,10,1900,473,307,,0,0,0,0
+1221,Study Initiation,0,0,1729,No,,Yes,Normal,Yes,2 - 5 seconds,No,24.4,1701,Yes,10,1800,No,,,,,85,,0,0,0
+1222,Study Initiation,0,0,1827,No,,Yes,Normal,Yes,< 2 seconds,No,27.7,1807,Yes,10,1913,Yes,10,2100,160,114,,0,0,0,0
+1223,Study Initiation,0,0,1202,No,,Yes,Normal,Yes,< 2 seconds,No,60,1132,Yes,10,1310,Yes,10,1527,300,200,,0,0,0,0
+1224,Study Initiation,0,0,1415,No,,Yes,Normal,Yes,< 2 seconds,Yes,27.7,1401,Yes,20,1401,No,,,,,85,,0,0,0
+1225,Study Initiation,0,0,1042,No,,Yes,Normal,Yes,< 2 seconds,No,24.1,1215,Yes,42,1132,No,,,,,68,,0,0,0
+1226,Study Initiation,0,0,1415,No,,Yes,Weak,Yes,2 - 5 seconds,Yes,50.2,1400,Yes,10,1420,No,,,,,132,,0,0,0
+1227,Study Initiation,0,0,1414,No,,Yes,Normal,Yes,2 - 5 seconds,No,20.8,1405,Yes,10,1440,No,,,,,76,,0,0,0
+1228,Study Initiation,0,0,1930,No,,Yes,Normal,Yes,2 - 5 seconds,No,30,1851,Yes,10,1932,Yes,10,2107,170,120,,0,0,0,0
+1229,Study Initiation,0,0,1325,No,,Yes,Normal,Yes,< 2 seconds,No,47.6,1326,Yes,10,1503,Yes,10,1607,246,167,,0,0,0,0
+1230,Study Initiation,0,0,0945,No,,Yes,Weak,Yes,2 - 5 seconds,Yes,39.4,0931,Yes,20,1012,No,,,211,145,,,0,0,0
+1231,Study Initiation,0,0,2005,No,,Yes,Normal,Yes,< 2 seconds,No,58.7,2100,Yes,17,2030,Yes,3,2245,294,197,,0,0,0,0
+1232,Study Initiation,0,0,1330,No,,Yes,Normal,Yes,2 - 5 seconds,No,21.7,1324,Yes,11,1350,Yes,9,1435,134,98,,0,0,0,0
+1233,Study Initiation,0,0,1220,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,No,36.8,1223,Yes,10,1242,Yes,10,1319,199,138,,0,0,0,0
+1234,Study Initiation,0,0,1150,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,61.4,1113,Yes,10,1150,No,,,,,153,,0,0,0
+1235,Study Initiation,0,0,1707,Yes,Mild,No,,Yes,< 2 seconds,Yes,70.5,1625,Yes,10,1802,No,,,,,169,,0,0,0
+1236,Study Initiation,0,0,2133,No,,Yes,Normal,Yes,< 2 seconds,Yes,34.6,2110,Yes,10,2159,No,,,,,104,,0,0,0
+1237,Study Initiation,0,0,1812,No,,Yes,Normal,Yes,< 2 seconds,No,11.7,1735,Yes,10,1941,Yes,10,2142,82,63,,0,0,0,0
+1238,Study Initiation,0,0,1500,No,,Yes,Normal,Yes,< 2 seconds,No,11,1413,Yes,10,1514,Yes,10,1624,79,60,,0,0,0,0
+1239,Study Initiation,0,0,1435,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,61.2,1436,Yes,10,1503,Yes,10,1747,306,204,,0,0,0,0
+1240,Study Initiation,0,0,1100,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,38.1,1100,Yes,10,1118,Yes,11,1405,,,102,0,0,0,0
+1241,Study Initiation,0,0,1200,No,,No,,Yes,2 - 5 seconds,Yes,53.7,1116,Yes,10,1132,Yes,10,1240,273,183,,0,0,0,0
+1242,Study Initiation,0,0,1640,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,47.4,1644,Yes,10,1705,Yes,10,1805,246,167,,0,0,0,0
+1243,Study Initiation,0,0,1840,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,50.4,1816,Yes,10,1858,Yes,10,2030,258,174,,0,0,0,0
+1244,Study Initiation,0,0,1215,No,,Yes,Normal,Yes,< 2 seconds,No,17.9,1129,Yes,10,1248,No,,,,,71,,0,0,0
+1245,Study Initiation,0,0,1208,No,,Yes,Normal,Yes,2 - 5 seconds,No,41.1,1151,Yes,10,1229,No,,,,,115,,0,0,0
+1246,Study Initiation,0,0,1341,No,,Yes,Weak,Yes,2 - 5 seconds,Yes,33.7,1333,Yes,10,1405,No,,,,,102,,0,0,0
+1247,Study Initiation,0,0,1958,No,,Yes,Normal,Yes,< 2 seconds,No,76,1844,Yes,10,1950,No,,,,,179,,0,0,0
+1248,Study Initiation,0,0,1943,No,,No,,Yes,< 2 seconds,Yes,45.9,1927,Yes,10,1945,Yes,10,2100,,,115,0,0,0,0
+1249,Study Initiation,0,0,1713,No,,Yes,Normal,Not Documented,,No,27.6,1713,Yes,40,1940,No,,,,,73,,0,0,0
+1250,Study Initiation,0,0,0932,Yes,Mild,Yes,Increased,Yes,2 - 5 seconds,Yes,52.6,0932,Yes,20,0940,No,,,,,125,,0,0,0
+1251,Study Initiation,0,0,1155,Yes,Not Documented,Yes,Normal,Yes,2 - 5 seconds,Yes,18,1155,No,,,Yes,10,1222,124,90,,0,0,,0
+1252,Study Initiation,0,0,1905,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,25,2033,Yes,10,1712,No,,,159,112,,,0,0,0
+1253,Study Initiation,0,0,1210,No,,Yes,Increased,Yes,< 2 seconds,No,32.5,1208,Yes,10,0930,No,,,,,100,,0,0,0
+1254,Study Initiation,0,0,1437,No,,Yes,Normal,Yes,< 2 seconds,No,23.8,1445,Yes,20,1535,No,,,,,79,,0,0,0
+1255,Study Initiation,0,0,1917,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,42.7,1852,Yes,20,1939,No,,,,,109,,0,0,0
+1256,Study Initiation,0,0,1655,Yes,Moderate,Yes,Normal,Yes,< 2 seconds,Yes,55.2,1626,Yes,20,1654,No,,,,,132,,0,0,0
+1257,Study Initiation,0,0,1119,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,52.2,1325,Yes,12,1130,Yes,12,1226,255,173,,0,0,0,0
+1258,Study Initiation,0,0,1731,No,,Yes,Normal,Yes,< 2 seconds,Yes,71.8,1628,Yes,14,1750,No,,,,,166,,0,0,0
+1259,Study Initiation,0,0,2020,No,,Yes,Normal,Yes,< 2 seconds,Yes,41.3,1915,Yes,24,2208,No,,,212,147,,,0,0,0
+1260,Study Initiation,0,0,1329,Yes,Unknown,Yes,Normal,Yes,2 - 5 seconds,Yes,42.3,1329,Yes,10,1400,Yes,10,1500,222,152,,10,0,0,0
+1261,Study Initiation,0,0,1323,No,,Yes,Normal,No,,No,24.4,1318,Yes,10,1443,No,,,,,85,,0,0,0
+1262,Study Initiation,0,0,0045,No,,Yes,Normal,Yes,< 2 seconds,Yes,61.7,0037,Yes,16,0100,No,,,,,145,,0,0,0
+1263,Study Initiation,0,0,2000,Yes,Mild,Yes,Increased,Yes,< 2 seconds,Yes,48.2,1952,Yes,10,2022,No,,,,,128,,0,0,0
+1264,Study Initiation,0,0,1218,No,,Yes,Weak,Yes,2 - 5 seconds,Yes,29.5,1343,Yes,20,1256,Yes,20,1700,,,88,0,0,0,0
+1265,Study Initiation,0,0,0954,No,,Yes,Normal,Yes,2 - 5 seconds,No,16.7,1029,Yes,10,1018,Yes,10,1150,109,81,,0,0,0,0
+1266,Study Initiation,0,0,1521,No,,Yes,Normal,No,,No,27.8,1528,Yes,10,1635,No,,,,,91,,0,0,0
+1267,Study Initiation,0,0,1500,No,,Yes,Normal,Yes,< 2 seconds,No,6.9,1516,Yes,10,1519,Yes,10,1540,51,39,,0,0,0,0
+1268,Study Initiation,0,0,1540,No,,Yes,Weak,No,,Yes,45.9,1525,Yes,10,1620,Yes,10,1735,239,162,,0,0,0,0
+1269,Study Initiation,0,0,1045,No,,Yes,Normal,Yes,2 - 5 seconds,No,23,1045,Yes,10,1100,Yes,10,1255,140,101,,0,0,0,0
+1270,Study Initiation,0,0,0700,No,,Yes,Weak,Yes,2 - 5 seconds,No,28.6,0730,Yes,20,0715,Yes,21,1445,164,116,,0,0,0,0
+1271,Study Initiation,0,0,2100,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,33.4,2044,Yes,10,2136,No,,,,,101,,0,0,0
+1272,Study Initiation,0,0,1630,No,,Yes,Normal,Yes,< 2 seconds,No,11.6,1620,Yes,10,1705,Yes,10,1810,82,63,,0,0,0,0
+1273,Study Initiation,0,0,0700,No,,Yes,Normal,Yes,< 2 seconds,Yes,37.3,1010,Yes,10,0712,No,,,,,108,,0,0,0
+1274,Study Initiation,0,0,1505,No,,Yes,Normal,Yes,< 2 seconds,No,41.3,1500,Yes,10,1600,Yes,10,1745,170,126,,0,0,0,0
+1275,Study Initiation,0,0,1445,Yes,Mild,Yes,Increased,Yes,2 - 5 seconds,Yes,58.3,1436,Yes,10,1554,No,,,,,147,,0,0,0
+1276,Study Initiation,0,0,1730,No,,Yes,Normal,Yes,< 2 seconds,No,16.6,1730,Yes,10,1954,No,,,,,67,,0,0,0
+1277,Study Initiation,0,0,1057,No,,Yes,Normal,Yes,2 - 5 seconds,No,13.7,1101,Yes,10,1110,Yes,10,1230,93,70,,0,0,0,0
+1278,Study Initiation,0,0,0930,No,,No,,No,,Yes,52,0909,Yes,10,1000,No,,,,,136,,0,0,0
+1279,Study Initiation,0,0,1813,No,,Not Documented,,Yes,2 - 5 seconds,No,7.6,1753,Yes,9,1905,Yes,9,2045,56,43,,0,0,0,0
+1280,Study Initiation,0,0,1615,No,,Yes,Normal,Yes,< 2 seconds,Yes,38.1,1613,Yes,10,1650,No,,,,,110,,0,0,0
+1281,Study Initiation,0,0,1120,No,,Yes,Increased,Yes,< 2 seconds,No,30.45,1100,Yes,10,1213,No,,,,,96,,0,0,0
+1282,Study Initiation,0,0,2230,No,,Yes,Weak,Yes,> 5 seconds,No,17,2235,Yes,10,2132,Yes,10,2315,111,82,,0,0,0,0
+1283,Study Initiation,0,0,0105,No,,Yes,Normal,Yes,2 - 5 seconds,No,11,0120,Yes,12,0000,Yes,8,0222,79,60,,0,0,0,0
+1284,Study Initiation,0,0,0500,No,,Yes,Normal,Yes,< 2 seconds,Yes,59.7,0510,Yes,10,0547,Yes,10,0735,299,199,,0,0,0,0
+1285,Study Initiation,0,0,1450,No,,Yes,Normal,Yes,< 2 seconds,No,15.6,1455,Yes,10,1545,No,,,,,64,,0,0,0
+1286,Study Initiation,0,0,0244,No,,Yes,Weak,Yes,2 - 5 seconds,Yes,72,0245,Yes,10,0254,No,,,,,172,,0,0,0
+1287,Study Initiation,0,0,1436,No,,Yes,Normal,Yes,< 2 seconds,Yes,37,1438,No,,,Yes,10,1745,,,108,0,0,,0
+1288,Study Initiation,0,0,1710,No,,Yes,Normal,Yes,< 2 seconds,No,17.6,1655,Yes,10,1810,No,,,,,70,,0,0,0
+1289,Study Initiation,0,0,1330,No,,Yes,Normal,Yes,< 2 seconds,Yes,60.1,1559,Yes,12,1335,No,,,,,169,,0,0,0
+1290,Study Initiation,0,0,2135,No,,Yes,Normal,Yes,2 - 5 seconds,No,27.6,2051,Yes,10,2051,Yes,10,2305,160,114,,0,0,0,0
+1291,Study Initiation,0,0,1700,No,,Yes,Normal,Yes,< 2 seconds,No,78.5,1700,Yes,10,1720,No,,,,,184,,0,0,0
+1292,Study Initiation,0,0,1205,Yes,Moderate,Yes,Normal,Yes,2 - 5 seconds,Yes,50.3,1148,Yes,10,1230,Yes,10,1439,258,174,,0,0,0,0
+1293,Study Initiation,0,0,1749,No,,Yes,Normal,Yes,< 2 seconds,No,53.9,1726,No,,,Yes,20,2038,274,184,,0,0,,0
+1294,Study Initiation,0,0,1052,Not Documented,,Yes,Weak,Yes,2 - 5 seconds,No,9.5,1030,Yes,10,1055,No,,,,,46,,0,0,0
+1295,Study Initiation,0,0,1700,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,64.6,1630,Yes,10,1701,Yes,10,1810,320,213,,0,0,0,0
+1296,Study Initiation,0,0,1200,No,,Yes,Normal,Yes,2 - 5 seconds,No,32.2,1224,Yes,10,1341,No,,,,,99,,0,0,0
+1297,Study Initiation,0,0,1335,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,22,1325,Yes,10,1353,Yes,10,1441,135,99,,0,0,0,0
+1298,Study Initiation,0,0,1500,Yes,Severe,Yes,Normal,No,,Yes,79.5,1630,Yes,11,1338,No,,,,,185,,0,0,0
+1299,Study Initiation,0,0,1306,No,,Yes,Increased,Yes,< 2 seconds,No,101.3,1316,Yes,10,1345,No,,,,,223,,0,0,0
+1300,Study Initiation,0,0,1705,No,,Yes,Normal,No,,No,9.4,1700,Yes,10,1725,No,,,,,45,,0,0,0
+1301,Study Initiation,0,0,2359,No,,Yes,Normal,Yes,< 2 seconds,No,43.4,2321,Yes,10,0035,Yes,10,0145,228,156,,0,-1,0,-1
+1302,Study Initiation,0,0,1043,No,,Not Documented,,Yes,< 2 seconds,Yes,44.9,0954,Yes,10,1133,Yes,10,1256,235,160,,0,0,0,0
+1303,Study Initiation,0,0,2113,No,,Yes,Normal,No,,Yes,58.4,2116,Yes,10,2145,Yes,10,2230,293,196,,0,0,0,0
+1304,Study Initiation,0,0,1250,No,,Yes,Normal,Yes,< 2 seconds,No,36.1,1241,Yes,10,1352,Yes,10,1446,196,136,,0,0,0,0
+1305,Study Initiation,0,0,1300,No,,Yes,Normal,Yes,< 2 seconds,No,16.9,1153,Yes,10,1308,Yes,10,1430,110,82,,0,0,0,0
+1306,Study Initiation,0,0,1352,No,,Yes,Normal,Yes,< 2 seconds,Yes,49.6,1620,Yes,10,1455,No,,,,,131,,0,0,0
+1307,Study Initiation,0,0,1440,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,25.3,1357,Yes,20,1453,No,,,,,81,,0,0,0
+1308,Study Initiation,0,0,1813,No,,Yes,Normal,Yes,2 - 5 seconds,No,37.1,1735,No,,,Yes,10,2101,,,108,0,0,,0
+1309,Study Initiation,0,0,0900,Yes,Moderate,Yes,Normal,Yes,2 - 5 seconds,Yes,65.5,0900,Yes,15,0910,No,,,,,152,,0,0,0
+1310,Study Initiation,0,0,1957,No,,Yes,Normal,No,,Yes,56.2,1957,Yes,20,2020,No,,,,,131,,0,0,0
+1311,Study Initiation,0,0,2000,No,,Yes,Normal,Yes,< 2 seconds,No,47.9,1637,Yes,20,1836,No,,,,,118,,0,0,0
+1312,Study Initiation,0,0,1327,Yes,Severe,No,,Yes,2 - 5 seconds,Yes,35.5,1510,Yes,10,1445,No,,,,,105,,0,0,0
+1313,Study Initiation,0,0,1139,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,35.8,1150,Yes,10,1150,No,,,,,106,,0,0,0
+1314,Study Initiation,0,0,1045,No,,Yes,Normal,Yes,< 2 seconds,Yes,26.5,0935,Yes,10,1014,No,,,,,89,,0,0,0
+1315,Study Initiation,0,0,1215,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,53,1145,Yes,10,1330,No,,,,,138,,0,0,0
+1316,Study Initiation,0,0,1723,No,,Yes,Normal,Yes,< 2 seconds,No,10.7,1723,Yes,10,1818,Yes,9,1937,77,59,,0,0,0,0
+1317,Study Initiation,0,0,1230,Yes,Moderate,Yes,Normal,Yes,2 - 5 seconds,Yes,86.3,1122,Yes,10,1152,No,,,,,198,,0,0,0
+1318,Study Initiation,0,0,1115,Yes,Mild,Yes,Normal,No,,Yes,62.6,1300,Yes,16,1208,No,,,,,147,,0,0,0
+1319,Study Initiation,0,0,1313,No,,Yes,Normal,Yes,2 - 5 seconds,No,16,1313,Yes,10,1409,No,,,,,65,,0,0,0
+1320,Study Initiation,0,0,1423,No,,Yes,Normal,Yes,< 2 seconds,No,23,1344,Yes,10,1430,Yes,10,1537,140,101,,0,0,0,0
+1321,Study Initiation,0,0,1230,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,40.9,1158,Yes,10,1158,Yes,10,1335,217,149,,0,0,0,0
+1322,Study Initiation,0,0,0911,Yes,Moderate,Yes,Normal,Yes,2 - 5 seconds,No,35.8,0938,Yes,20,1018,No,,,,,98,,0,0,0
+1323,Study Initiation,0,0,1058,No,,Yes,Normal,Yes,< 2 seconds,No,23.3,1055,Yes,10,1140,Yes,10,1235,,,78,0,0,0,0
+1324,Study Initiation,0,0,1835,No,,Yes,Normal,No,,No,54.5,1815,Yes,20,2004,No,,,,,129,,0,0,0
+1325,Study Initiation,0,0,2000,No,,Yes,Increased,Yes,< 2 seconds,No,28.5,1940,Yes,10,2115,Yes,10,2240,164,116,,0,0,0,0
+1326,Study Initiation,0,0,0400,No,,Yes,Normal,Yes,< 2 seconds,Yes,39.4,0335,Yes,10,0430,Yes,10,0508,211,145,,0,0,0,0
+1327,Study Initiation,0,0,1600,No,,Yes,Normal,Yes,< 2 seconds,Yes,44.9,1456,Yes,10,1605,No,,,,,122,,0,0,0
+1328,Study Initiation,0,0,2305,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,50.4,2305,Yes,10,2330,Yes,10,0045,259,175,,0,-1,-1,-1
+1329,Study Initiation,0,0,0755,No,,Yes,Normal,Yes,< 2 seconds,Yes,47.7,0757,Yes,10,0816,Yes,10,0906,247,167,,0,0,0,0
+1330,Study Initiation,0,0,1700,No,,Yes,Normal,Yes,2 - 5 seconds,No,47,1526,Yes,10,1800,Yes,10,1929,244,165,,0,0,0,0
+1331,Study Initiation,0,0,1342,No,,Yes,Normal,Yes,< 2 seconds,No,15.4,1350,Yes,10,1500,Yes,10,1630,102,76,,0,0,0,0
+1332,Study Initiation,0,0,1115,No,,Yes,Bounding,Yes,2 - 5 seconds,No,31.4,1228,Yes,30,1115,No,,,163,117,,,0,0,0
+1333,Study Initiation,0,0,1200,No,,Yes,Normal,Yes,< 2 seconds,No,7.45,1134,Yes,10,1233,No,,,,,36,,0,0,0
+1334,Study Initiation,0,0,1545,No,,Yes,Normal,Yes,2 - 5 seconds,No,17.5,1545,Yes,10,1545,No,,,,,70,,0,0,0
+1335,Study Initiation,0,0,1450,No,,Yes,Normal,Yes,< 2 seconds,Yes,48.3,1652,Yes,20,1715,Yes,20,1913,,,96,0,0,0,0
+1336,Study Initiation,0,0,1330,No,,Yes,Weak,Yes,2 - 5 seconds,Yes,55,1320,Yes,20,1345,No,,,,,131,,0,0,0
+1337,Study Initiation,0,0,1507,No,,Yes,Weak,Yes,< 2 seconds,No,18.5,1347,Yes,10,1519,No,,,,,72,,0,0,0
+1338,Study Initiation,0,0,0400,No,,Yes,Weak,Yes,> 5 seconds,No,28,0340,Yes,30,0320,No,,,,,80,,0,0,0
+1339,Study Initiation,0,0,1553,No,,Yes,Normal,Yes,< 2 seconds,No,18.7,1543,Yes,10,1710,No,,,,,73,,0,0,0
+1340,Study Initiation,0,0,1150,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,60.5,1155,Yes,17,1212,No,,,,,143,,0,0,0
+1341,Study Initiation,0,0,1637,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,102.8,1425,Yes,10,1710,Yes,10,1930,473,307,,0,0,0,0
+1342,Study Initiation,0,0,1413,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,34.2,1325,Yes,10,1357,Yes,10,1540,188,131,,0,0,0,0
+1343,Study Initiation,0,0,1030,No,,Yes,Normal,Yes,< 2 seconds,Yes,39.6,1040,Yes,10,1050,No,,,,,113,,0,0,0
+1344,Study Initiation,0,0,0728,No,,Yes,Weak,Yes,> 5 seconds,No,21.4,0720,Yes,20,0730,Yes,10,0950,,,75,0,0,0,0
+1345,Study Initiation,0,0,1650,No,,Yes,Normal,Yes,< 2 seconds,No,47.9,1809,Yes,10,1650,Yes,10,1859,267,177,,0,0,0,0
+1346,Study Initiation,0,0,1700,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,32.9,1652,Yes,10,1828,No,,,,,100,,0,0,0
+1347,Study Initiation,0,0,1243,No,,Yes,Normal,Yes,2 - 5 seconds,No,37.7,1216,Yes,20,1313,No,,,203,141,,,0,0,0
+1348,Study Initiation,0,0,1416,No,,Yes,Bounding,Yes,2 - 5 seconds,Yes,66.4,1523,Yes,12,1449,Yes,3,1530,,,155,0,0,0,0
+1349,Study Initiation,0,0,1713,No,,Yes,Normal,Yes,< 2 seconds,No,11.5,1812,Yes,10,1735,Yes,10,1953,81,62,,0,0,0,0
+1350,Study Initiation,0,0,1811,No,,Yes,Normal,Yes,< 2 seconds,No,31.1,1810,Yes,10,1845,Yes,10,2015,175,123,,0,0,0,0
+1351,Study Initiation,0,0,1633,No,,Yes,Weak,Yes,2 - 5 seconds,Yes,60.2,1625,Yes,11,1625,Yes,9,1753,,,138,0,0,0,0
+1352,Study Initiation,0,0,2255,No,,Yes,Normal,Yes,< 2 seconds,No,40.7,0108,Yes,20,2241,No,,,217,149,,,-1,-1,0
+1353,Study Initiation,0,0,0825,Yes,Mild,Yes,Normal,Yes,< 2 seconds,Yes,61.4,0811,Yes,10,0845,No,,,,,153,,0,0,0
+1354,Study Initiation,0,0,1737,No,,Yes,Normal,Yes,< 2 seconds,Yes,36.4,1848,Yes,10,1656,No,,,,,107,,0,0,0
+1355,Study Initiation,0,0,1258,No,,Yes,Normal,Yes,2 - 5 seconds,No,11.5,1258,Yes,10,1220,No,,,,,53,,0,0,0
+1356,Study Initiation,0,0,1212,No,,Yes,Normal,Yes,2 - 5 seconds,No,31,1209,Yes,10,1315,Yes,10,1515,173,122,,0,0,0,0
+1357,Study Initiation,0,0,0845,No,,Yes,Normal,Yes,2 - 5 seconds,No,44.4,0848,Yes,10,1021,No,,,,,121,,0,0,0
+1358,Study Initiation,0,0,0017,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,56.2,2235,Yes,10,0215,No,,,,,143,,0,0,-1
+1359,Study Initiation,0,0,1630,Yes,Mild,No,,Yes,< 2 seconds,Yes,57.8,1615,Yes,17,1700,No,,,,,137,,0,0,0
+1360,Study Initiation,0,0,1545,No,,Yes,Normal,Yes,2 - 5 seconds,No,36.8,1545,Yes,30,1400,No,,,,,90,,0,0,0
+1361,Study Initiation,0,0,1906,No,,Yes,Normal,Yes,2 - 5 seconds,No,39.1,2125,Yes,18,1955,No,,,213,146,,,0,0,0
+1362,Study Initiation,0,0,1141,No,,Yes,Normal,Yes,< 2 seconds,No,33.3,1137,Yes,10,1249,No,,,,,101,,0,0,0
+1363,Study Initiation,0,0,1800,No,,Yes,Normal,Yes,2 - 5 seconds,No,36.7,1810,Yes,10,1927,Yes,10,2027,199,138,,0,0,0,0
+1364,Study Initiation,0,0,1907,No,,Yes,Normal,Yes,2 - 5 seconds,No,15.1,2119,Yes,10,1940,Yes,10,2120,100,75,,0,0,0,0
+1365,Study Initiation,0,0,1820,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,60.3,1731,Yes,10,1823,Yes,10,2133,302,201,,0,0,0,0
+1366,Study Initiation,0,0,1159,No,,Yes,Normal,Yes,2 - 5 seconds,No,13.5,1159,Yes,10,1335,No,,,,,58,,0,0,0
+1367,Study Initiation,0,0,0238,No,,Yes,Normal,Yes,2 - 5 seconds,No,14.5,0113,Yes,10,0231,No,,,,,61,,0,0,0
+1368,Study Initiation,0,0,1750,No,,Yes,Normal,Yes,< 2 seconds,Yes,29.9,1730,Yes,10,1803,Yes,10,2057,170,120,,0,0,0,0
+1369,Study Initiation,0,0,1215,No,,Yes,Normal,Yes,< 2 seconds,No,26.4,1354,Yes,10,1218,Yes,10,1414,154,110,,0,0,0,0
+1370,Study Initiation,0,0,1451,No,,Yes,Normal,Yes,< 2 seconds,No,16.6,1352,Yes,10,1431,No,,,,,67,,0,0,0
+1371,Study Initiation,0,0,1118,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,31.7,1056,Yes,9,1130,No,,,,,98,,0,0,0
+1372,Study Initiation,0,0,1836,No,,Yes,Normal,Yes,< 2 seconds,No,43.4,1825,Yes,10,1932,No,,,,,120,,0,0,0
+1373,Study Initiation,0,0,0927,No,,No,,Yes,< 2 seconds,Yes,78.1,0926,Yes,9,0941,No,,,,,184,,0,0,0
+1374,Study Initiation,0,0,1000,No,,Yes,Increased,Yes,< 2 seconds,Yes,31.2,1055,Yes,20,0950,No,,,,,90,,0,0,0
+1375,Study Initiation,0,0,1420,No,,Yes,Normal,Yes,< 2 seconds,No,34,1410,Yes,10,1600,No,,,,,102,,0,0,0
+1376,Study Initiation,0,0,1308,No,,Yes,Normal,Yes,< 2 seconds,No,40,1150,Yes,10,1253,Yes,10,1410,213,147,,0,0,0,0
+1377,Study Initiation,0,0,2130,No,,Yes,Normal,Yes,< 2 seconds,No,32.9,2145,Yes,10,2138,Yes,10,0110,182,128,,1,0,0,0
+1378,Study Initiation,0,0,1743,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,64.3,1814,Yes,10,1830,No,,,346,225,,,0,0,0
+1379,Study Initiation,0,0,0925,No,,Yes,Normal,Yes,< 2 seconds,Yes,62.8,0937,Yes,8,0904,Yes,20,1006,,,132,0,0,0,0
+1380,Study Initiation,0,0,1100,Yes,Mild,No,,Yes,< 2 seconds,No,27.5,1023,Yes,10,1054,No,,,,,90,,0,0,0
+1381,Study Initiation,0,0,1420,No,,No,,Yes,2 - 5 seconds,No,44.5,1420,Yes,10,1459,Yes,10,1619,232,158,,0,0,0,0
+1382,Study Initiation,0,0,1924,No,,Yes,Normal,Yes,< 2 seconds,Yes,48.6,2008,Yes,10,1947,Yes,10,2053,249,169,,0,0,0,0
+1383,Study Initiation,0,0,0915,Yes,Mild,Yes,Normal,Yes,2 - 5 seconds,Yes,57.1,0907,Yes,10,0936,Yes,10,1240,287,192,,0,0,0,0
+1384,Study Initiation,0,0,1717,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,30.6,1726,No,,,Yes,20,1800,173,122,,0,0,,0
+1385,Study Initiation,0,0,2247,No,,Yes,Normal,Yes,2 - 5 seconds,Yes,60.3,2218,Yes,10,2310,No,,,,,151,,-1,-1,-1
+1386,Study Initiation,0,0,0852,No,,Yes,Increased,Yes,2 - 5 seconds,No,19.3,0852,Yes,10,0945,Yes,10,1015,122,90,,0,0,0,0
+1387,Study Initiation,0,0,2110,No,,Yes,Normal,Yes,< 2 seconds,Yes,50.3,2020,Yes,10,2047,No,,,,,132,,0,0,0
+1388,Study Initiation,0,0,1255,Yes,Mild,Yes,Normal,Yes,< 2 seconds,No,51.9,1243,Yes,10,1408,Yes,10,1534,266,179,,0,0,0,0
+1389,Study Initiation,0,0,1458,No,,Yes,Normal,Yes,2 - 5 seconds,No,45.7,1433,Yes,11,1415,No,,,,,123,,0,0,0
