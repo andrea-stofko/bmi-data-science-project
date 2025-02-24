@@ -1,1 +1,1 @@
-Creating a repository for the Data Science final project
+Repository for data science final project
