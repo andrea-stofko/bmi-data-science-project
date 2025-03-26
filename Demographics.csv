@@ -1,0 +1,1390 @@
+PUDID,StudyEvent,Occurrence,ItemGroupRepeatKey,Sex,Ethnicity,Race1,Race2,Race3,Race4,Race5,Race92,AgeInYears
+1,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,10.621917808
+2,Screening,0,0,Male,Hispanic or Latino,No,No,Yes,No,No,No,17.479452055
+3,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,16.438161539
+4,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.194520548
+5,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,12.073770492
+6,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.240437158
+7,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,11.742465753
+8,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,15.704289243
+9,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.2
+10,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,10.046575342
+11,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,15.838797814
+12,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,Yes,No,10.983561644
+13,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.4
+14,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.91571974
+15,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,No,Yes,11.93989071
+16,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,13.775342466
+17,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,9.956740774
+18,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,14.556164384
+19,Screening,0,0,Female,Unknown,No,No,Yes,No,No,No,10.767123288
+20,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,15.072954562
+21,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,No,Yes,1.1787334381
+22,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,16.539726027
+23,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,8.9315068493
+24,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,No,Yes,16.519125683
+25,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,8.2404371585
+26,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,10.857085111
+27,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,10.435459241
+28,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,12.852983008
+29,Screening,0,0,Female,Not Hispanic or Latino,Yes,No,Yes,No,Yes,No,13.1414028
+30,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.8
+31,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,15.099880231
+32,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,No,Yes,14.41369863
+33,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,1.7516430871
+34,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,17.180821918
+35,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,Yes,No,10.912328767
+36,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,6.955662849
+37,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,13.280163186
+38,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,7.3688000599
+39,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.018422038
+40,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,8.4849315068
+41,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.016438356
+42,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,16.976263193
+43,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,17.769997754
+44,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,12.005464481
+45,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.865753425
+46,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,12.956164384
+47,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,No,Yes,16.167123288
+48,Screening,0,0,Female,Unknown,No,No,No,No,Yes,No,10.54761584
+49,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,15.459016393
+50,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,14.477064152
+51,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,17.980050902
+52,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,11.644778801
+53,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,16.501369863
+54,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,14.534246575
+55,Screening,0,0,Male,Not Hispanic or Latino,Yes,No,Yes,No,No,No,14.391780822
+56,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,10.501369863
+57,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,7.5397260274
+58,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,11.44109589
+59,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,10.048559024
+60,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,9.7883898495
+61,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,16.564383562
+62,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,13.331506849
+63,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,13.682191781
+64,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,9.366988547
+65,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.178082192
+66,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,8.794355865
+67,Screening,0,0,Female,Unknown,No,No,No,No,Yes,No,13.53221798
+68,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,5.2684931507
+69,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,13.250565162
+70,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,10.569788158
+71,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,12.360655738
+72,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,8.6136986301
+73,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,9.6383561644
+74,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,11.324403024
+75,Screening,0,0,Female,Unknown,No,No,Yes,No,No,No,10.290410959
+76,Screening,0,0,Male,Unknown,No,No,No,No,No,Yes,2.7830226813
+77,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,16.643835616
+78,Screening,0,0,Male,Unknown,No,No,Yes,No,Yes,No,11.211093645
+79,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,14.526027397
+80,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,No,Yes,11.301369863
+81,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,10.671232877
+82,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,14.158237892
+83,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,No,Yes,9.8008608429
+84,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,17.994520548
+85,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,17.424657534
+86,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,15.846575342
+87,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,10.802739726
+88,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,16.024590164
+89,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,2.2465753425
+90,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.887978142
+91,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,10.996421888
+92,Screening,0,0,Male,Unknown,No,No,No,No,No,Yes,7.402739726
+93,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,14.812545849
+94,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,7.7205479452
+95,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,13.921446216
+96,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,14.922269631
+97,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,13.879796392
+98,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,8.9514185194
+99,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,14.791780822
+100,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,7.2602739726
+101,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,8.4546298376
+102,Screening,0,0,Female,Unknown,No,No,No,No,No,Yes,14.271502358
+103,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,13.955438281
+104,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,14.416438356
+105,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,13.715068493
+106,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,14.12637922
+107,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,9.5643835616
+108,Screening,0,0,Female,Not Hispanic or Latino,Yes,No,No,No,Yes,No,10.458776855
+109,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.260273973
+110,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,13.098630137
+111,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,1.7100232053
+112,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,9.8164383562
+113,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,10.608219178
+114,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,13.805479452
+115,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,15.479452055
+116,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,10.709955835
+117,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,7.9150684932
+118,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,No,Yes,7.9972677596
+119,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,7.5178082192
+120,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,13.507537989
+121,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,1.9424657534
+122,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,15.380821918
+123,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,6.5679991017
+124,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,12.582289093
+125,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,4.3963769743
+126,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,17.767123288
+127,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.512328767
+128,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,Yes,No,7.0917808219
+129,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,14.032876712
+130,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,8.2492776405
+131,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,10.436859046
+132,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.704603638
+133,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,2.1835616438
+134,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,12.682191781
+135,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,8.7734261547
+136,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,11.456284153
+137,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,14.043229284
+138,Screening,0,0,Male,Not Hispanic or Latino,No,Yes,No,No,Yes,No,14.308316491
+139,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,13.531529306
+140,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,17.18630137
+141,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,10.493150685
+142,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,Yes,No,No,16.715068493
+143,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,11.083060109
+144,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,13.860273973
+145,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.479452055
+146,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,11.97260274
+147,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,15.002230706
+148,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,16.448364399
+149,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,13.276712329
+150,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,Yes,No,7.8219178082
+151,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,9.9632831799
+152,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,10.697769294
+153,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,7.895890411
+154,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,No,Yes,15.032876712
+155,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,11.198877161
+156,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,15.045100681
+157,Screening,0,0,Male,Not Hispanic or Latino,No,Yes,Yes,No,No,No,17.552204506
+158,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,9.8794520548
+159,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,No,Yes,17.589041096
+160,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,3.4356164384
+161,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,12.867070889
+162,Screening,0,0,Male,Unknown,No,No,No,No,Yes,No,9.6455198742
+163,Screening,0,0,Female,Unknown,No,No,No,No,No,Yes,11.676712329
+164,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,Yes,No,7.8657534247
+165,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,12.684931507
+166,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,Yes,No,6.0712328767
+167,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,17.369863014
+168,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.126027397
+169,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,8.8164383562
+170,Screening,0,0,Female,Unknown,No,No,Yes,No,Yes,No,8.9726027397
+171,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,9.3372707538
+172,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,9.9359532899
+173,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,No,Yes,11.504109589
+174,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,16.345205479
+175,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,13.395860469
+176,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,17.957100082
+177,Screening,0,0,Male,Unknown,No,No,No,No,Yes,No,17.904109589
+178,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,1.8630136986
+179,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,11.015435287
+180,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,14.334246575
+181,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,17.358410061
+182,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,11.121842952
+183,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,17.873673179
+184,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,16.720547945
+185,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,10.245497417
+186,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,10.446575342
+187,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,8.7287671233
+188,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,11.764383562
+189,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,9.5095890411
+190,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,14.282191781
+191,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,9.5671232877
+192,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,16.6672206
+193,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,14.175342466
+194,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,7.4630136986
+195,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,10.202739726
+196,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,9.7287671233
+197,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,9.098630137
+198,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,16.759839808
+199,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.035616438
+200,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,5.4055318512
+201,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,15.989041096
+202,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,10.245474961
+203,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.736986301
+204,Screening,0,0,Female,Unknown,No,No,No,No,Yes,No,13.530518751
+205,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.424657534
+206,Screening,0,0,Female,Hispanic or Latino,No,No,Yes,No,No,No,8.9207650273
+207,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,13.283816154
+208,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,11.676712329
+209,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,11.945205479
+210,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,15.115068493
+211,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,10.984437458
+212,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,13.315480201
+213,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,10.121760611
+214,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.608219178
+215,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,12.712328767
+216,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,13.589041096
+217,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,11.972677596
+218,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,11.523287671
+219,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.605479452
+220,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.249315068
+221,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,17.004700951
+222,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,8.5861666292
+223,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,6.9945205479
+224,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,12.775956284
+225,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,2.5567707164
+226,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,Yes,No,15.712328767
+227,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,13.858821768
+228,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,6.7265963021
+229,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,14.877969908
+230,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,12.879452055
+231,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,17.592806348
+232,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.750684932
+233,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,14.160760536
+234,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,3.9369863014
+235,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,15.723287671
+236,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,9.2767123288
+237,Screening,0,0,Female,Hispanic or Latino,No,No,Yes,No,No,No,7.7698630137
+238,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,5.3506849315
+239,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,6.0996182349
+240,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,16.543730818
+241,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,16.564383562
+242,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,8.5191256831
+243,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.5
+244,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.115068493
+245,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,11.359832323
+246,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,17.816438356
+247,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,17.002739726
+248,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,15.345205479
+249,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,17.501369863
+250,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,1.5260273973
+251,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,14.765476458
+252,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.391780822
+253,Screening,0,0,Male,Unknown,No,No,No,No,No,Yes,6.0438356164
+254,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,12.664510817
+255,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,11.368268583
+256,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,16.906849315
+257,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.709589041
+258,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.22739726
+259,Screening,0,0,Male,Hispanic or Latino,No,No,Yes,No,No,No,13.508226664
+260,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.868126357
+261,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,15.154360356
+262,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,13.290216334
+263,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.039898196
+264,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,6.6125308781
+265,Screening,0,0,Male,Unknown,No,No,No,No,Yes,No,15.539726027
+266,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,1.8045287821
+267,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,15.849315068
+268,Screening,0,0,Male,Not Hispanic or Latino,Yes,No,Yes,No,Yes,No,13.734568456
+269,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,5.3068493151
+270,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,13.162242683
+271,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,14.271367617
+272,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,17.863762258
+273,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,12.284931507
+274,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,11.378082192
+275,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,16.604259301
+276,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.263013699
+277,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.547945205
+278,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,11.493150685
+279,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,14.820435661
+280,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.408219178
+281,Screening,0,0,Female,Not Hispanic or Latino,Yes,No,No,No,No,No,8.5662325024
+282,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,11.38630137
+283,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,15.165633655
+284,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,9.9577213863
+285,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,15.97260274
+286,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,No,Yes,9.0041245602
+287,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,13.024635077
+288,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.106707089
+289,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,9.8520398233
+290,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,10.625922599
+291,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,14.766861292
+292,Screening,0,0,Male,Hispanic or Latino,Yes,No,No,No,No,No,16.68750655
+293,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,14.062107942
+294,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,17.553424658
+295,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,5.0762482222
+296,Screening,0,0,Female,Hispanic or Latino,Yes,No,No,No,No,No,4.5342465753
+297,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,12.035616438
+298,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,8.3311849689
+299,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,14.216438356
+300,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.735736208
+301,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,17.315068493
+302,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,16.46258702
+303,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,10.92783891
+304,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,8.5534246575
+305,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,15.224657534
+306,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,4.3780821918
+307,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.775342466
+308,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,7.1232876712
+309,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,17.046575342
+310,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,17.056359009
+311,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,17.197260274
+312,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.910622053
+313,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,No,Yes,15.106849315
+314,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,17.185829778
+315,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,11.80577139
+316,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,16.364383562
+317,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,No,Yes,5.183576615
+318,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,14.31921551
+319,Screening,0,0,Male,Unknown,No,No,Yes,No,No,No,12.517808219
+320,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,16.278785837
+321,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,11.301369863
+322,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,6.7937645033
+323,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,11.15890411
+324,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,9.3438281308
+325,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,8.0956284153
+326,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,6.2876712329
+327,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,12.478142077
+328,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,14.98249869
+329,Screening,0,0,Male,Unknown,No,No,No,No,Yes,No,8.1393442623
+330,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,17.499850288
+331,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,17.994520548
+332,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,14.709027622
+333,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,6.513975597
+334,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,15.926027397
+335,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,7.5782094468
+336,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,10.381562991
+337,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,14.273972603
+338,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,No,Yes,13.495890411
+339,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,10.899670634
+340,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,16.487671233
+341,Screening,0,0,Female,Not Hispanic or Latino,No,Yes,No,No,No,No,9.0328767123
+342,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,13.650842129
+343,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,17.712044315
+344,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,Yes,No,No,13.282191781
+345,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,17.506475036
+346,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,10.990089079
+347,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.205382139
+348,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,12.812456022
+349,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,17.688517105
+350,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,7.802739726
+351,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,No,Yes,11.41369863
+352,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,1.1473837862
+353,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.643640991
+354,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,15.350684932
+355,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.052054795
+356,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.57260274
+357,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,14.734007036
+358,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,No,Yes,16.282191781
+359,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,6.5452054795
+360,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,17.317808219
+361,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,5.3836215286
+362,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,10.398300771
+363,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,No,Yes,15.507021484
+364,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,10.657534247
+365,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,10.304109589
+366,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.120547945
+367,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.64109589
+368,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,15.473972603
+369,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,6.4898046261
+370,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,9.2273972603
+371,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,17.208481174
+372,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,15.6
+373,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,17.005966015
+374,Screening,0,0,Male,Hispanic or Latino,Yes,No,Yes,No,No,No,11.695890411
+375,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,9.1297552212
+376,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,No,Yes,6.7027621828
+377,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,13.834531028
+378,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,10.944314694
+379,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,8.2868852459
+380,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,4.8951119096
+381,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,17.956164384
+382,Screening,0,0,Female,Not Hispanic or Latino,Yes,No,No,No,No,No,15.693150685
+383,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,15.684931507
+384,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,14.662572049
+385,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.290410959
+386,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,14.378082192
+387,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,10.51325698
+388,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,10.797260274
+389,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,12.553424658
+390,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,10.326027397
+391,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,15.619574818
+392,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,16.032876712
+393,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.64109589
+394,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.479669137
+395,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,4.5369863014
+396,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,15.630136986
+397,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,No,Yes,17.022808593
+398,Screening,0,0,Male,Hispanic or Latino,No,No,Yes,No,No,No,13.939726027
+399,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.256074556
+400,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,11.808219178
+401,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,Yes,No,No,6.7616438356
+402,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,Yes,No,8.0821917808
+403,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,16.760311401
+404,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,12.731506849
+405,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,15.463013699
+406,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,8.4602739726
+407,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,No,Yes,12.366120219
+408,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.526027397
+409,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,9.1616438356
+410,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,11.569863014
+411,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,7.0547945205
+412,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,11.770491803
+413,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,0.9753424658
+414,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,15.515068493
+415,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,Yes,No,14.176592559
+416,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,8.2054794521
+417,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,14.993450109
+418,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.761643836
+419,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,14.36868029
+420,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,3.7424657534
+421,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,5.7601167752
+422,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,6.5861292013
+423,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,17.632876712
+424,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,14.06430122
+425,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.778082192
+426,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,9.4821917808
+427,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,9.9452054795
+428,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,16.150684932
+429,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,16.836612022
+430,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,12.608219178
+431,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,4.6191780822
+432,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,9.9144546748
+433,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,12.953424658
+434,Screening,0,0,Male,Hispanic or Latino,No,No,Yes,No,No,No,13.555146343
+435,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,Yes,No,7.8164383562
+436,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,5.6794520548
+437,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.282191781
+438,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,8.8243655962
+439,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,14.046575342
+440,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,1.1825960027
+441,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,4.8575342466
+442,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,7.4821917808
+443,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,9.7780821918
+444,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,16.78198967
+445,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,16.106849315
+446,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,7.6657534247
+447,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,9.1003892507
+448,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,13.231761359
+449,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,15.655228685
+450,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,7.0630136986
+451,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,4.3885021334
+452,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,10.257399506
+453,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,3.8469945355
+454,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,Yes,No,5.2767123288
+455,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,12.879841305
+456,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,6.2801856426
+457,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,15.769863014
+458,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,11.298652594
+459,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,Yes,No,No,17.051283779
+460,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,15.997260274
+461,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,8.4410958904
+462,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.860273973
+463,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,5.7753424658
+464,Screening,0,0,Female,Unknown,No,Yes,No,No,No,No,11.679452055
+465,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,7.0016019163
+466,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,17.673972603
+467,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.680327869
+468,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,16.735878434
+469,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.664548245
+470,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,2.0657534247
+471,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,15.091930534
+472,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,13.01369863
+473,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,16.481398308
+474,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,14.463013699
+475,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,17.187229583
+476,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,8.8224567707
+477,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,No,Yes,10.432876712
+478,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,15.476906954
+479,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,11.158469945
+480,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,15.068493151
+481,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,12.768882401
+482,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,10.652773411
+483,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,10.862631934
+484,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,No,Yes,12.8095067
+485,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.364383562
+486,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,13.145205479
+487,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,17.501369863
+488,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,16.75890411
+489,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.990178906
+490,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,12.832876712
+491,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,9.8630136986
+492,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,15.56557377
+493,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,10.501369863
+494,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,1.6152256905
+495,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,11.939726027
+496,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,10.045549817
+497,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,15.920765027
+498,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,15.356344038
+499,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,1.3863013699
+500,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,9.6876712329
+501,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,16.021857923
+502,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.709589041
+503,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.868493151
+504,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,5.0273972603
+505,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,11.389041096
+506,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,8.9168350924
+507,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,Yes,No,No,12.443835616
+508,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.24863388
+509,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,14.650931956
+510,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.112942586
+511,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,No,Yes,17.98630137
+512,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,16.306010929
+513,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,10.355116401
+514,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,16.150273224
+515,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,14.547945205
+516,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,15.676712329
+517,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,No,Yes,3.9180327869
+518,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,14.490410959
+519,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,9.802739726
+520,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,10.679586795
+521,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,13.722883449
+522,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,No,Yes,12.06557377
+523,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,13.834336402
+524,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,14.246575342
+525,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,5.4739726027
+526,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,9.4594056441
+527,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,5.2739726027
+528,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,7.2978142077
+529,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,12.249315068
+530,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.983561644
+531,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,15.495920353
+532,Screening,0,0,Female,Unknown,No,No,No,No,Yes,No,17.206931657
+533,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,14.224320683
+534,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,11.800052399
+535,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,15.543715847
+536,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.670551688
+537,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.791780822
+538,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.438356164
+539,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,Yes,No,7.2657534247
+540,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.4
+541,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,17.465753425
+542,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,6.2470394491
+543,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,1.3043341567
+544,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,16.590163934
+545,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,4.7397260274
+546,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,10.194962198
+547,Screening,0,0,Male,Hispanic or Latino,No,No,Yes,No,No,No,15.723953889
+548,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,12.415300546
+549,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,11.065753425
+550,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,3.9262295082
+551,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,1.2657534247
+552,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,8.0164383562
+553,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,6.3205479452
+554,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,16.819178082
+555,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,3.4371584699
+556,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,7.5409836066
+557,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.951912568
+558,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,17.517808219
+559,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,4.5669436335
+560,Screening,0,0,Female,Unknown,No,No,Yes,No,No,No,12.795613444
+561,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,1.9808219178
+562,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.123287671
+563,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,8.4921700726
+564,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,14.632876712
+565,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,14.903712853
+566,Screening,0,0,Male,Unknown,No,No,Yes,No,Yes,No,16.136986301
+567,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,15.367123288
+568,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,No,Yes,14.534246575
+569,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.452054795
+570,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,9.4767123288
+571,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.665753425
+572,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,15.764383562
+573,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,13.810764279
+574,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,6.9224043716
+575,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,9.5726027397
+576,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,14.820585373
+577,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,17.126027397
+578,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,15.98630137
+579,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,13.252054795
+580,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,10.052054795
+581,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,0.5369863014
+582,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,8.9117074631
+583,Screening,0,0,Female,Unknown,No,No,No,No,No,Yes,10.928767123
+584,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,13.374002545
+585,Screening,0,0,Female,Unknown,No,No,No,No,No,Yes,10.531506849
+586,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,10.979272401
+587,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,Yes,No,5.7936297627
+588,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,9.9315068493
+589,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,16.142465753
+590,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,9.2242158844
+591,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.739726027
+592,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,8.0027322404
+593,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.387910772
+594,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,10.353978591
+595,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,1.9656785688
+596,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,16.284931507
+597,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,16.178082192
+598,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,No,Yes,9.1225091698
+599,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,12.038356164
+600,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,11.93989071
+601,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,13.024657534
+602,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,10.511902088
+603,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.747945205
+604,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,10.117546224
+605,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,9.5749083015
+606,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.456568605
+607,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,11.405793847
+608,Screening,0,0,Male,Unknown,No,No,No,No,Yes,No,12.728767123
+609,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,7.2031589191
+610,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,14.134321431
+611,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,17.164383562
+612,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,16.975342466
+613,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,13.28838985
+614,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,3.4273972603
+615,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.495568531
+616,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,16.461748634
+617,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,9.1534246575
+618,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.84109589
+619,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.219178082
+620,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,5.0189684857
+621,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,17.802717269
+622,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,3.1597574669
+623,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,15.672131148
+624,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,8.4219178082
+625,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,Yes,No,11.045242907
+626,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,17.653724081
+627,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,16.164383562
+628,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.074264541
+629,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,10.82739726
+630,Screening,0,0,Female,Hispanic or Latino,Yes,No,No,No,No,No,14.312328767
+631,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,9.0422262145
+632,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,14.274152257
+633,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,11.426229508
+634,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,14.054794521
+635,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,14.087671233
+636,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,11.857616588
+637,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,14.115068493
+638,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,8.6876712329
+639,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,14.068493151
+640,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,14.136132944
+641,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,3.2385882177
+642,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,17.945205479
+643,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,15.394520548
+644,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,16.777782768
+645,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,16.657534247
+646,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,9.7289991766
+647,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,13.806804402
+648,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,10.520547945
+649,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,16.584699454
+650,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,14.547945205
+651,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,No,Yes,14.961643836
+652,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,10.679452055
+653,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,8.8493150685
+654,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,14.194520548
+655,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,11.969945355
+656,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,16.043835616
+657,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,8.7232876712
+658,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.221917808
+659,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,13.45669586
+660,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,11.926027397
+661,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,17.679676623
+662,Screening,0,0,Male,Unknown,No,No,Yes,No,No,No,12.731506849
+663,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.153529456
+664,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,15.97260274
+665,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,13.126454076
+666,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,16.142465753
+667,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,12.098360656
+668,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,9.704109589
+669,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,16.167123288
+670,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,12.224657534
+671,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,10.003413429
+672,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,2.2441275545
+673,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,16.967123288
+674,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,10.246575342
+675,Screening,0,0,Male,Not Hispanic or Latino,No,Yes,No,No,Yes,No,14.930780747
+676,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,7.1232876712
+677,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,9.9342465753
+678,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,Yes,No,No,12.643835616
+679,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,2.7424657534
+680,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.97540235
+681,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,10.687671233
+682,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,14.085186017
+683,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.312328767
+684,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,Yes,No,15.978082192
+685,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,4.4077625571
+686,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,16.62739726
+687,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,8.0684931507
+688,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,16.493150685
+689,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,14.603278689
+690,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.668493151
+691,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,16.884931507
+692,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,10.834516057
+693,Screening,0,0,Female,Not Hispanic or Latino,No,Yes,No,No,No,No,12.640122764
+694,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,9.4493150685
+695,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,8.1506849315
+696,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,15.148431769
+697,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,15.717808219
+698,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,14.964465903
+699,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,14.544988397
+700,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,9.5890410959
+701,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,8.9178082192
+702,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,No,Yes,5.4258701999
+703,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,13.693150685
+704,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,No,Yes,13.438356164
+705,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,4.5862564563
+706,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,8.3825136612
+707,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,10.484931507
+708,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.166666667
+709,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,14.18630137
+710,Screening,0,0,Male,Unknown,No,No,No,No,Yes,No,4.6520547945
+711,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,No,Yes,13.756164384
+712,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,11.624657534
+713,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,1.9369863014
+714,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,9.9190208848
+715,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.228804551
+716,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.278943035
+717,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,14.648461711
+718,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,17.369863014
+719,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.997260274
+720,Screening,0,0,Male,Not Hispanic or Latino,No,Yes,No,No,Yes,No,14.153424658
+721,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,15.865753425
+722,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,11.882491204
+723,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,10.336357512
+724,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,10.77088854
+725,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,11.252054795
+726,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.62213489
+727,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,4.9726027397
+728,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,14.317374055
+729,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,11.62295082
+730,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.454794521
+731,Screening,0,0,Female,Hispanic or Latino,No,No,Yes,No,No,No,10.728767123
+732,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,No,Yes,12.320226065
+733,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,10.515068493
+734,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,17.621917808
+735,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,16.470349577
+736,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,8.9518601692
+737,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.853409686
+738,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,No,Yes,16.904109589
+739,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,10.964383562
+740,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,10.973478554
+741,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,15.789041096
+742,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,11.459016393
+743,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,6.2410285201
+744,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,10.799820346
+745,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,4.0849315068
+746,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,5.6273972603
+747,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.35890411
+748,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,14.339726027
+749,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,17.131671532
+750,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,6.4219178082
+751,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,15.202739726
+752,Screening,0,0,Male,Not Hispanic or Latino,Yes,No,No,No,No,No,11.242158844
+753,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.78630137
+754,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,11.895890411
+755,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,14.95890411
+756,Screening,0,0,Female,Hispanic or Latino,No,No,Yes,No,No,No,9.7693315368
+757,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,12.515068493
+758,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,8.8876712329
+759,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.300546448
+760,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,8.7143199341
+761,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,3.5273224044
+762,Screening,0,0,Male,Unknown,No,No,No,No,Yes,No,2.8739726027
+763,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.802739726
+764,Screening,0,0,Female,Unknown,No,No,No,No,No,Yes,13.860273973
+765,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,2.901369863
+766,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,12.379781421
+767,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,5.1698630137
+768,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,7.9043715847
+769,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,15.331506849
+770,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,6.9616438356
+771,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,17.770663972
+772,Screening,0,0,Male,Hispanic or Latino,No,No,Yes,No,No,No,8.7095890411
+773,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,16.09023879
+774,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,8.0218878659
+775,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,5.914724156
+776,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,15.761643836
+777,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.920547945
+778,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,14.308219178
+779,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,4.0794520548
+780,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,1.4340444644
+781,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,16.94381316
+782,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,7.5095890411
+783,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,10.210958904
+784,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,14.96309604
+785,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,14.524754847
+786,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.498630137
+787,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.112328767
+788,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,13.515068493
+789,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,No,Yes,11.318953514
+790,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,13.995141852
+791,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,2.5072685081
+792,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,11.923287671
+793,Screening,0,0,Male,Unknown,No,No,No,No,Yes,No,16.704109589
+794,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,10.443835616
+795,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,15.093150685
+796,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.992476982
+797,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,Yes,No,13.04109589
+798,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,14.57260274
+799,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,Yes,No,12.093150685
+800,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,14.194520548
+801,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,14.435616438
+802,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.481443222
+803,Screening,0,0,Female,Unknown,No,No,Yes,No,No,No,15.311116102
+804,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,8.2821917808
+805,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,8.0821917808
+806,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,16.773224044
+807,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,13.441312973
+808,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,10.941777079
+809,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,11.931693989
+810,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,14.222606483
+811,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,3.8109589041
+812,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,No,Yes,5.169346508
+813,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,10.326027397
+814,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,16.401639344
+815,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,17.597260274
+816,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,13.039044839
+817,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,13.780821918
+818,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,10.422396886
+819,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.605479452
+820,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,16.246575342
+821,Screening,0,0,Male,Unknown,No,No,No,No,No,Yes,11.150684932
+822,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,12.460273973
+823,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,15.136986301
+824,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,17.958013324
+825,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,15.282191781
+826,Screening,0,0,Female,Not Hispanic or Latino,No,Yes,No,No,Yes,No,1.5287671233
+827,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,8.2109589041
+828,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,17.48940789
+829,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,6.7260273973
+830,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,6.104109589
+831,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.090410959
+832,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,12.512328767
+833,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,No,Yes,12.150684932
+834,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,9.8794520548
+835,Screening,0,0,Male,Not Hispanic or Latino,Yes,No,No,No,No,No,11.384040722
+836,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,8.7693315368
+837,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.708241635
+838,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,8.1561269556
+839,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,13.067138259
+840,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,8.1808219178
+841,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,16.761643836
+842,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,16.838356164
+843,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,17.447473613
+844,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,1.1236320084
+845,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,10.471232877
+846,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,7.7753424658
+847,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,4.9011378097
+848,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,10.102657385
+849,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,Yes,No,14.004453926
+850,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,5.3252264391
+851,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,2.6294932255
+852,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,14.961037503
+853,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,9.7035855977
+854,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,3.8
+855,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,16.860273973
+856,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,16.77260274
+857,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,16.021917808
+858,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,14.656254211
+859,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,17.773680665
+860,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.539726027
+861,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,15.479452055
+862,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,13.445295307
+863,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,9.8191780822
+864,Screening,0,0,Female,Not Hispanic or Latino,No,Yes,No,No,No,No,12.643835616
+865,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,No,Yes,17.947945205
+866,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.723287671
+867,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,Yes,No,No,14.572011378
+868,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,8.2219178082
+869,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,11.808219178
+870,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,15.145205479
+871,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,17.742465753
+872,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,3.8931506849
+873,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,14.560004491
+874,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,12.293150685
+875,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,3.6721311475
+876,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.295890411
+877,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,8.5260273973
+878,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,7.6821917808
+879,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.282191781
+880,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,17.783561644
+881,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,1.2383561644
+882,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,15.882191781
+883,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,15.832876712
+884,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,3.0479227487
+885,Screening,0,0,Female,Hispanic or Latino,Yes,No,Yes,No,Yes,No,10.449315068
+886,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,7.3095890411
+887,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,8.2219178082
+888,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,9.9195897897
+889,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,11.342982259
+890,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,16.509589041
+891,Screening,0,0,Male,Unknown,No,No,Yes,No,No,No,13.210607081
+892,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,6.6904109589
+893,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,Yes,No,15.56284153
+894,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,7.5945205479
+895,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,16.964383562
+896,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,14.300980612
+897,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,17.358350176
+898,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.315891908
+899,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,4.4535519126
+900,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,10.169863014
+901,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,14.040714125
+902,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,8.2684931507
+903,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.295890411
+904,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,16.650273224
+905,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,13.701369863
+906,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,17.205479452
+907,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,10.339726027
+908,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,Yes,No,11.945205479
+909,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,9.9945205479
+910,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,9.2109589041
+911,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,10.484931507
+912,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,1.8356164384
+913,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,11.547945205
+914,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,No,Yes,12.016438356
+915,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,9.3780821918
+916,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,15.707650273
+917,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,10.17260274
+918,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.22320533
+919,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,9.8821917808
+920,Screening,0,0,Male,Not Hispanic or Latino,No,Yes,No,No,No,No,4.3770491803
+921,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,14.21369863
+922,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,8.202739726
+923,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,3.7753424658
+924,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.920765027
+925,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,10.087671233
+926,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,14.410958904
+927,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,14.36144921
+928,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,14.299416124
+929,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.621917808
+930,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,16.924971929
+931,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,No,Yes,5.0757317164
+932,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,9.2794520548
+933,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,13.484826709
+934,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,No,Yes,17.548603937
+935,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,17.961052474
+936,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.64109589
+937,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,8.3752750954
+938,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,12.260273973
+939,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,15.120547945
+940,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,16.123287671
+941,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,16.434867879
+942,Screening,0,0,Female,Unknown,No,No,Yes,No,No,No,11.132015869
+943,Screening,0,0,Female,Not Hispanic or Latino,Yes,No,Yes,Yes,Yes,No,13.657534247
+944,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,5.8513810914
+945,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,14.345205479
+946,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,3.16499738
+947,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,7.9315068493
+948,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,14.923399955
+949,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,4.7720562916
+950,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,8.7726027397
+951,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,5.8328767123
+952,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,16.057534247
+953,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,16.989041096
+954,Screening,0,0,Female,Not Hispanic or Latino,No,Yes,No,No,No,No,14.419178082
+955,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,4.825136612
+956,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,11.228018564
+957,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.341118347
+958,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,5.4759862265
+959,Screening,0,0,Male,Not Hispanic or Latino,No,Yes,No,No,Yes,No,13.709589041
+960,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.299288869
+961,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,12.263013699
+962,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,10.808219178
+963,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,9.0438356164
+964,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,10.903308631
+965,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.69612995
+966,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,14.383920952
+967,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.515068493
+968,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.298630137
+969,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,5.6575342466
+970,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,Yes,No,No,10.852054795
+971,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,10.484931507
+972,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,16.306010929
+973,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,15.734246575
+974,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,9.4575342466
+975,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,No,Yes,9.1753424658
+976,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,17.657639045
+977,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,0.8328767123
+978,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,8.8794520548
+979,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.868493151
+980,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,15.001452205
+981,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,15.064862639
+982,Screening,0,0,Female,Unknown,No,No,Yes,No,No,No,9.4849315068
+983,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,4.2602739726
+984,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,No,Yes,9.0050228311
+985,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,14.082558575
+986,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,14.509589041
+987,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,Yes,No,9.0389550116
+988,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,17.815659855
+989,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,5.5315068493
+990,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,7.0219178082
+991,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,9.4191780822
+992,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,16.229889962
+993,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,10.553424658
+994,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,5.7808219178
+995,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,9.7372932106
+996,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,11.079452055
+997,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,2.0273972603
+998,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,13.084931507
+999,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,0.7424657534
+1000,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,4.6904109589
+1001,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,3.3671981436
+1002,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,8.8383561644
+1003,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,7.9315068493
+1004,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,15.99726776
+1005,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.64109589
+1006,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,16.098457968
+1007,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.753424658
+1008,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,15.904109589
+1009,Screening,0,0,Male,Not Hispanic or Latino,Yes,Yes,Yes,No,No,No,2.4863986825
+1010,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,14.580821918
+1011,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,17.85535594
+1012,Screening,0,0,Male,Unknown,No,No,Yes,No,No,No,11.93989071
+1013,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,14.209364473
+1014,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,15.632876712
+1015,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,10.904266786
+1016,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,1.9114679242
+1017,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,14.202619957
+1018,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,15.923497268
+1019,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,12.731506849
+1020,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,13.850445393
+1021,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,11.931506849
+1022,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,13.494453178
+1023,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,15.64946478
+1024,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,7.6356164384
+1025,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,1.6344187439
+1026,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,15.643835616
+1027,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,8.3589041096
+1028,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,16.035616438
+1029,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,7.8493150685
+1030,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,8.8794520548
+1031,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,16.320547945
+1032,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,15.488307508
+1033,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,10.394520548
+1034,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,10.675978741
+1035,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,7.718579235
+1036,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,14.940160192
+1037,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,13.708870424
+1038,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,13.095890411
+1039,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,13.849315068
+1040,Screening,0,0,Female,Unknown,No,No,No,No,Yes,No,16.41369863
+1041,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,1.7854554982
+1042,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.210958904
+1043,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,17.129343514
+1044,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,9.4356164384
+1045,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.55890411
+1046,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,13.64109589
+1047,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,No,Yes,9.0849315068
+1048,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,12.167123288
+1049,Screening,0,0,Male,Unknown,No,No,No,No,Yes,No,15.120547945
+1050,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,15.473972603
+1051,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.884931507
+1052,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,7.1753424658
+1053,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,3.5424657534
+1054,Screening,0,0,Female,Hispanic or Latino,No,No,Yes,No,No,No,11.37260274
+1055,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,11.517808219
+1056,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,8.287431694
+1057,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.58630137
+1058,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,15.915068493
+1059,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,11.978142077
+1060,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,Yes,No,14.520585373
+1061,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,13.255924845
+1062,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,2.21103376
+1063,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,No,Yes,6.939239464
+1064,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,5.6520547945
+1065,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,9.3534246575
+1066,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,14.846575342
+1067,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,16.625727974
+1068,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,17.657534247
+1069,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,16.443835616
+1070,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,7.9835691294
+1071,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,No,Yes,17.689482746
+1072,Screening,0,0,Female,Unknown,No,No,No,No,No,Yes,1.8246575342
+1073,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,14.052054795
+1074,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,13.37260274
+1075,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,10.57260274
+1076,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,13.994932255
+1077,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,11.350684932
+1078,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,14.295890411
+1079,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,15.879452055
+1080,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,15.058582229
+1081,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,14.880387754
+1082,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,15.907103825
+1083,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,4.4657534247
+1084,Screening,0,0,Female,Hispanic or Latino,No,No,Yes,No,No,No,15.104700951
+1085,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.703892507
+1086,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,16.750684932
+1087,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,2.2346507972
+1088,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,6.5068493151
+1089,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.336986301
+1090,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,9.4667789505
+1091,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,13.865004866
+1092,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,13.884931507
+1093,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,17.635616438
+1094,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.710382514
+1095,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,11.871232877
+1096,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.410958904
+1097,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,9.0054794521
+1098,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,8.5506849315
+1099,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,15.723287671
+1100,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.939726027
+1101,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,4.0655812561
+1102,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,17.293030915
+1103,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,12.032876712
+1104,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,12.786885246
+1105,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,13.666374729
+1106,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,12.21369863
+1107,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,10.295890411
+1108,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,3.7650273224
+1109,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,10.542465753
+1110,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.628400329
+1111,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,16.597260274
+1112,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,8.0931506849
+1113,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,17.98954263
+1114,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,10.379534396
+1115,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,16.919746987
+1116,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,8.1452054795
+1117,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,Yes,No,1.1339321806
+1118,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,5.4547945205
+1119,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.509589041
+1120,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,14.399640692
+1121,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,11.247084363
+1122,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,14.9836365
+1123,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.638782843
+1124,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,9.9342465753
+1125,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,14.712478479
+1126,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,16.216438356
+1127,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,12.005479452
+1128,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,15.054794521
+1129,Screening,0,0,Male,Not Hispanic or Latino,Yes,No,No,No,Yes,No,12.602657385
+1130,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.356164384
+1131,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,2.9956359009
+1132,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,4.7765775881
+1133,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,16.364383562
+1134,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,5.4493150685
+1135,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,16.657534247
+1136,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,2.9005090201
+1137,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,No,Yes,12.761643836
+1138,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,10.862310053
+1139,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,10.42739726
+1140,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,5.002739726
+1141,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,16.594520548
+1142,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,15.126094768
+1143,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,16.405479452
+1144,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,8.2109589041
+1145,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,10.326828355
+1146,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,16.128767123
+1147,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,13.832876712
+1148,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,10.037652519
+1149,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,10.438124111
+1150,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,12.931813759
+1151,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,17.284931507
+1152,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.435616438
+1153,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.407103825
+1154,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.75890411
+1155,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,12.958672056
+1156,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.787798488
+1157,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,9.3923871547
+1158,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,11.833333333
+1159,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,No,Yes,11.603697882
+1160,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,17.312328767
+1161,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,17.123287671
+1162,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,15.237450408
+1163,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,15.272071263
+1164,Screening,0,0,Male,Hispanic or Latino,Yes,No,Yes,No,No,No,11.797260274
+1165,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,6.8931506849
+1166,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,14.953424658
+1167,Screening,0,0,Male,Unknown,No,No,No,No,No,Yes,17.849315068
+1168,Screening,0,0,Male,Unknown,No,No,Yes,No,No,No,15.273972603
+1169,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,6.5965491429
+1170,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,12.68338199
+1171,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.893150685
+1172,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,7.5397260274
+1173,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,15.684931507
+1174,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,16.131506849
+1175,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,15.364383562
+1176,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,4.1479452055
+1177,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,9.9835616438
+1178,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,17.010958904
+1179,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,17.504109589
+1180,Screening,0,0,Female,Unknown,No,No,No,No,No,Yes,13.890410959
+1181,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,15.112328767
+1182,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,10.655438281
+1183,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,9.7260273973
+1184,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,15.008219178
+1185,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,9.2109589041
+1186,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,No,Yes,4.2465753425
+1187,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,14.761853432
+1188,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,12.334246575
+1189,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,16.973171645
+1190,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,2.0054794521
+1191,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,1.7835616438
+1192,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,15.474683734
+1193,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.723167902
+1194,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,10.61369863
+1195,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,9.4904109589
+1196,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,11.802762183
+1197,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,12.139726027
+1198,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,17.320547945
+1199,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.172131148
+1200,Screening,0,0,Female,Unknown,No,No,No,No,Yes,No,13.538715473
+1201,Screening,0,0,Female,Unknown,No,No,No,No,Yes,No,12.95890411
+1202,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,10.278920578
+1203,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.410958904
+1204,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,14.780821918
+1205,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,14.40424433
+1206,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,4.7460663223
+1207,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,15.865753425
+1208,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,No,Yes,10.305471966
+1209,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,10.77299199
+1210,Screening,0,0,Male,Unknown,No,No,No,No,Yes,No,13.552541358
+1211,Screening,0,0,Male,Hispanic or Latino,No,No,Yes,No,No,No,5.1476382963
+1212,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,7.5080544951
+1213,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,9.5012500936
+1214,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.931506849
+1215,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,13.363462834
+1216,Screening,0,0,Female,Not Hispanic or Latino,Yes,No,No,No,No,No,14.235616438
+1217,Screening,0,0,Male,Unknown,No,No,No,No,Yes,No,17.504109589
+1218,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,9.2
+1219,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,16.295081967
+1220,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,12.950684932
+1221,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,7.1452054795
+1222,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,7.701369863
+1223,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,14.919994012
+1224,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,10.564001797
+1225,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,No,Yes,9.029118946
+1226,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,Yes,No,No,12.021917808
+1227,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,7.9207650273
+1228,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,7.5424657534
+1229,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,15.353424658
+1230,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,14.581780073
+1231,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,9.9313721087
+1232,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,8.8109589041
+1233,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,11.127876338
+1234,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,No,Yes,14.092185044
+1235,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,16.76930908
+1236,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,11.702103451
+1237,Screening,0,0,Female,Not Hispanic or Latino,No,Yes,No,No,Yes,No,2.143588592
+1238,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,1.0465753425
+1239,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,15.794520548
+1240,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,10.550684932
+1241,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,17.879452055
+1242,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,17.17260274
+1243,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,16.016393443
+1244,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,7.3151583202
+1245,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,14.569863014
+1246,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.526109739
+1247,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,No,Yes,12.597260274
+1248,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,13.482191781
+1249,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,10.326027397
+1250,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,15.98630137
+1251,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,No,Yes,4.2651321207
+1252,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,8.8169398907
+1253,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,5.9150684932
+1254,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,7.9863387978
+1255,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,11.368762632
+1256,Screening,0,0,Male,Unknown,No,No,Yes,No,No,No,12.914574444
+1257,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,15.926027397
+1258,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,12.790343589
+1259,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,13.312328767
+1260,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,13.002066023
+1261,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,8.5854330414
+1262,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,No,Yes,17.364158994
+1263,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,13.457534247
+1264,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,11.926027397
+1265,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,6.423310128
+1266,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,9.5780821918
+1267,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,0.8259375702
+1268,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,12.805412082
+1269,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,8.8936147915
+1270,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,8.4684931507
+1271,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,11.616438356
+1272,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,1.8849315068
+1273,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,12.43989071
+1274,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.553424658
+1275,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,14.30437907
+1276,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,4.9635975747
+1277,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,3.802739726
+1278,Screening,0,0,Female,Hispanic or Latino,No,No,Yes,No,No,No,12.134246575
+1279,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,1.1302268134
+1280,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.808219178
+1281,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,9.8967213115
+1282,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,4.9452054795
+1283,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,2.6760985104
+1284,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,14.008937795
+1285,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,4.1369863014
+1286,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,15.350684932
+1287,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,9.8493150685
+1288,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,5.3716445842
+1289,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,No,Yes,11.882191781
+1290,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.019178082
+1291,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,12.624657534
+1292,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,14.021917808
+1293,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.442413354
+1294,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,1.2356164384
+1295,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,7.8876712329
+1296,Screening,0,0,Male,Unknown,No,No,No,No,Yes,No,11.967123288
+1297,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,8.3278688525
+1298,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,16.726027397
+1299,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,17.161643836
+1300,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,1.1068493151
+1301,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,13.113968111
+1302,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,10.527808968
+1303,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,11.167587394
+1304,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,10.592297328
+1305,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,4.9452054795
+1306,Screening,0,0,Female,Not Hispanic or Latino,No,Yes,No,No,Yes,No,12.454794521
+1307,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,Yes,No,8.7472490456
+1308,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.03785463
+1309,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,17.202739726
+1310,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,No,Yes,12.648064975
+1311,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,11.654794521
+1312,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,10.397222846
+1313,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,14.643835616
+1314,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,No,Yes,8.3997604611
+1315,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.715846995
+1316,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,1.1863013699
+1317,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,14.57260274
+1318,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,17.304109589
+1319,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,4.3479452055
+1320,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,7.4343064601
+1321,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,11.20456621
+1322,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.351246351
+1323,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,7.5397260274
+1324,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,17.561643836
+1325,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,7.297260274
+1326,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,13.647555955
+1327,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,13.181600419
+1328,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,13.818002845
+1329,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,13.432876712
+1330,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,16.139726027
+1331,Screening,0,0,Male,Unknown,No,No,Yes,No,No,No,3.4739726027
+1332,Screening,0,0,Male,Unknown,No,No,No,No,No,Yes,7.6630136986
+1333,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,0.9824762333
+1334,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,4.6164383562
+1335,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,11.414057938
+1336,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,15.783561644
+1337,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,11.50804701
+1338,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.424657534
+1339,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,4.8543453851
+1340,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,16.016438356
+1341,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,15.265753425
+1342,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,9.7968186241
+1343,Screening,0,0,Male,Not Hispanic or Latino,No,No,Yes,No,No,No,12.312328767
+1344,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,8.5095890411
+1345,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,15.219866756
+1346,Screening,0,0,Male,Not Hispanic or Latino,Yes,No,Yes,No,No,No,8.8262070514
+1347,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,10.232255408
+1348,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.449315068
+1349,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,3.2267759563
+1350,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,5.6849315068
+1351,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,16.668493151
+1352,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.956164384
+1353,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,12.038251366
+1354,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,11.559525414
+1355,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,1.5726027397
+1356,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,9.9945205479
+1357,Screening,0,0,Male,Not Hispanic or Latino,Yes,No,No,No,No,No,12.966307358
+1358,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,11.331768845
+1359,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,No,Yes,15.17260274
+1360,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,No,Yes,8.8547945205
+1361,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,9.5150684932
+1362,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,13.106849315
+1363,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,16.506841829
+1364,Screening,0,0,Male,Unknown,No,No,No,No,Yes,No,4.9757990868
+1365,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,16.073972603
+1366,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,3.4141327944
+1367,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,No,Yes,2.812605734
+1368,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,9.6281832472
+1369,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,Yes,No,9.2234149263
+1370,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,4.0246575342
+1371,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,9.9251890112
+1372,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,13.067295456
+1373,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,15.115068493
+1374,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,10.987229583
+1375,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,9.8717643536
+1376,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,12.375342466
+1377,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,Yes,No,14.205060259
+1378,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,15.879452055
+1379,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,12.953424658
+1380,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,11.369863014
+1381,Screening,0,0,Female,Not Hispanic or Latino,No,No,Yes,No,No,No,10.241395314
+1382,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,14.002238191
+1383,Screening,0,0,Male,Hispanic or Latino,No,No,No,No,Yes,No,12.106849315
+1384,Screening,0,0,Male,Not Hispanic or Latino,No,No,No,No,Yes,No,9.4109589041
+1385,Screening,0,0,Female,Unknown,No,No,No,No,Yes,No,14.991780822
+1386,Screening,0,0,Female,Hispanic or Latino,No,No,No,No,Yes,No,8.6328767123
+1387,Screening,0,0,Male,Unknown,No,No,No,No,Yes,No,15.036911445
+1388,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,16.367123288
+1389,Screening,0,0,Female,Not Hispanic or Latino,No,No,No,No,Yes,No,15.450819672
