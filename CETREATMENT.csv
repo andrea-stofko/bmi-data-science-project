@@ -1,0 +1,36 @@
+PUDID,StudyEvent,Occurrence,ItemGroupRepeatKey,CETreatment,CETreatmentStartTime,CETreatmentStopTime,CETREATMENTSTARTDAY,CETREATMENTSTOPDAY
+40,DKA Treatment,0,1,Mannitol,1549,1619,0,0
+97,DKA Treatment,0,2,Hypertonic Saline,1200,1300,1,1
+97,DKA Treatment,0,1,Hypertonic Saline,0945,1045,1,1
+174,DKA Treatment,0,1,Mannitol,1754,1809,0,0
+174,DKA Treatment,0,2,Mannitol,2100,2115,0,0
+317,DKA Treatment,0,1,Endotracheal Intubation,1331,1401,0,4
+317,DKA Treatment,0,3,Hypertonic Saline,1400,0109,0,1
+317,DKA Treatment,0,2,Mannitol,1735,2119,0,0
+327,DKA Treatment,0,1,Mannitol,2043,2058,0,0
+360,DKA Treatment,0,1,Mannitol,2300,2330,0,0
+370,DKA Treatment,0,1,Mannitol,1910,1910,0,0
+444,DKA Treatment,0,1,Mannitol,0225,0225,1,1
+453,DKA Treatment,0,1,Mannitol,1525,1600,0,0
+454,DKA Treatment,0,1,Mannitol,0210,0222,1,1
+513,DKA Treatment,0,1,Mannitol,0953,1023,0,0
+660,DKA Treatment,0,1,Hypertonic Saline,1010,1025,0,0
+660,DKA Treatment,0,2,Hypertonic Saline,1105,1133,0,0
+687,DKA Treatment,0,2,Mannitol,0050,,1,1
+687,DKA Treatment,0,1,Mannitol,1640,,0,0
+754,DKA Treatment,0,1,Mannitol,1250,1250,0,0
+777,DKA Treatment,0,1,Hypertonic Saline,0728,1040,1,2
+823,DKA Treatment,0,1,Mannitol,1419,2045,0,0
+888,DKA Treatment,0,1,Mannitol,0357,0357,1,1
+888,DKA Treatment,0,2,Mannitol,0942,0942,1,1
+1083,DKA Treatment,0,2,Hypertonic Saline,0515,0515,1,1
+1083,DKA Treatment,0,1,Mannitol,0310,0310,1,1
+1104,DKA Treatment,0,1,Mannitol,2202,2202,0,0
+1250,DKA Treatment,0,1,Hypertonic Saline,1454,1454,0,0
+1332,DKA Treatment,0,3,Endotracheal Intubation,1945,1328,0,58
+1332,DKA Treatment,0,2,Hypertonic Saline,1134,1056,1,9
+1332,DKA Treatment,0,1,Mannitol,2315,2131,0,1
+1343,DKA Treatment,0,1,Hypertonic Saline,1520,1535,0,0
+1344,DKA Treatment,0,2,Hypertonic Saline,1518,1618,0,0
+1344,DKA Treatment,0,1,Mannitol,1230,1245,0,0
+1344,DKA Treatment,0,3,Hypertonic Saline,2118,2218,0,0
